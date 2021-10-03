@@ -1,0 +1,31 @@
+version: 1
+imports: []
+schemas:
+  - id: root
+    children:
+      - journal
+    title: root
+    parent: root
+  - id: journal
+    desc: "journaling supertype. overarching themes and metajournaling"
+    children:
+      - entry
+      - daily
+      - monthly
+      - meditation
+      - lsd
+      - dream
+  - id: entry
+    desc: "journal entry; generated from event"
+    children:
+      - event
+      - idea
+  - id: daily
+    desc: "daily journaling. TODO: add appointments & listings throughout the day"
+  - id: monthly
+    desc: "learnings of the month, review dailies"
+  - id: meditation
+  - id: lsd
+  - id: dream
+  - id: event
+  - id: idea
