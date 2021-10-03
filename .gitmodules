@@ -1,0 +1,6 @@
+[submodule "journal"]
+	path = journal
+	url = ./journal
+[submodule "todo"]
+	path = todo
+	url = ./todo

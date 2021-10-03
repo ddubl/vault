@@ -1,0 +1,32 @@
+schemas:
+- id: game
+  title: ""
+  desc: ""
+  parent: root
+  children:
+    - genre
+    - series
+- id: genre
+  title: year
+  pattern: "[0-2][0-9][0-9][0-9]"
+  children:
+    - fps
+    - ccg
+    - moba
+    - fgt
+    - rts
+    - strategy
+- id: series
+  title: series
+  children:
+    - gameTitle
+- id: gameTitle
+  title: month
+  pattern: "[0-9][0-9]"
+  children:
+    - aoeii
+    - melee
+    - chess
+    - sc
+    - sc2
+    - sfv
