@@ -1,6 +1,6 @@
 ---
 id: nHUgSWhonevMCd9LHIN1R
-title: 'Computability and Complexity:Neil Immerman'
+title: Computability and Complexity
 desc: ''
 updated: 1633199319568
 created: 1633199319568
