@@ -26,9 +26,7 @@
         "editor.tabCompletion": "on",
         "todo-tree.tree.scanMode": "workspace",
         "window.autoDetectColorScheme": true,
-        "workbench.colorTheme": "Gruvbox Material Light",
-        "workbench.preferredDarkColorTheme": "Gruvbox Material Dark",
-        "workbench.preferredLightColorTheme": "Gruvbox Material Light",
+        "workbench.colorTheme": "Gruvbox Material Dark",
         "editor.fontFamily": "Cascadia Code PL, Monaco, 'Courier New', monospace",
         "editor.tabSize": 2,
         "commentBox.styles": {
@@ -39,7 +37,10 @@
         "git.fetchOnPull": true,
         "git.pruneOnFetch": true,
         "rpc.enabled": false,
-        "gitdoc.enabled": true
+        "gitdoc.enabled": true,
+        "workbench.iconTheme": "gruvbox-material-icon-theme",
+        "workbench.preferredDarkColorTheme": "Gruvbox Material Dark",
+        "workbench.preferredLightColorTheme": "Gruvbox Material Light"
     },
     "extensions": {
         "recommendations": [
