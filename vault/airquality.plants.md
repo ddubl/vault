@@ -1,11 +1,10 @@
 ---
 id: HjgZDUs9554TwuexHqurd
-title: Plants
+title: houseplants improve air quality
 desc: ''
-updated: 1633199319673
+updated: 1633337877415
 created: 1633199319674
 ---
-# 10 Houseplants That Improve Your Indoor Air Quality
 
 Jeff Flowers (image/jpeg)[Jeff Flowers](https://learn.allergyandair.com/author/jflowers/) on January 10, 2014 **  [22 Comments](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comments)
 Air-Purifying Houseplants (image/jpeg)
@@ -148,7 +147,7 @@ Pollen, dust, pet dander, smoke and a long list of airborne chemicals are common
 
 The best method to improve you indoor air quality is to have some of these houseplants around, try to eliminate the source of the pollutants and have an air purifier working to cleanse the air at all times.
 
-#### Recommended Reading:
+### Recommended Reading
 
 * [The Benefits of Air Purifiers](http://www.allergyandair.com/on/demandware.store/Sites-APP-Site/default/Article-Show?aid=air-purifiers-basic-overview-air-aaa)
 * [How Air Purifiers Can Help Provide Allergy Relief](http://www.allergyandair.com/on/demandware.store/Sites-APP-Site/default/Article-Show?aid=air-purifier-allergy-relief)
@@ -167,31 +166,31 @@ RabbitAir
 BioGS Washable Activated Carbon Charcoal Filter
 $49
 
-](https://www.allergyandair.com/SPACF-RabbitAir-BioGS-Washable-Activated-Carbon-Charcoal-Filter/SPACF.html)
+](<https://www.allergyandair.com/SPACF-RabbitAir-BioGS-Washable-Activated-Carbon-Charcoal-Filter/SPACF.html>)
 [(image/jpeg)RabbitAir
 
 Minus A2 Odor Remover Filter Replacement Kit
 $85
 
-](https://www.allergyandair.com/rabbitair-minus-a2-odor-remover-filter-replacement-kit/A2-FKO.html)
+](<https://www.allergyandair.com/rabbitair-minus-a2-odor-remover-filter-replacement-kit/A2-FKO.html>)
 [(image/jpeg)RabbitAir
 
 Minus A2 Filter Replacement Kit (Pet Allergy)
 $85
 
-](https://www.allergyandair.com/A2-FKP-RabbitAir-Minus-A2-AP1004-Customized-Germ-Filter-Kit/A2-FKP.html)
+](<https://www.allergyandair.com/A2-FKP-RabbitAir-Minus-A2-AP1004-Customized-Germ-Filter-Kit/A2-FKP.html>)
 [(image/jpeg)RabbitAir
 
 Minus A2 Filter Replacement Kit (Toxin Absorber)
 $85
 
-](https://www.allergyandair.com/A2-FKT-RabbitAir-Minus-A2-AP1004-Customized-Germ-Filter-Kit/A2-FKT.html)
+](<https://www.allergyandair.com/A2-FKT-RabbitAir-Minus-A2-AP1004-Customized-Germ-Filter-Kit/A2-FKT.html>)
 [(image/jpeg)RabbitAir
 
 BioGS HEPA Filter
 $64
 
-](https://www.allergyandair.com/SPAHF-RabbitAir-BioGS-HEPA-Filter-With-Flu-Prevention/SPAHF.html)
+](<https://www.allergyandair.com/SPAHF-RabbitAir-BioGS-HEPA-Filter-With-Flu-Prevention/SPAHF.html>)
 [(image/jpeg)**********
 **********
 
@@ -200,7 +199,7 @@ Virus Zero
 Portable Air Purifier
 $169
 
-](https://www.allergyandair.com/Virus-Zero-Portable-Air-Purifier-White/SP-PA4.html)
+](<https://www.allergyandair.com/Virus-Zero-Portable-Air-Purifier-White/SP-PA4.html>)
 
 Jeff Flowers (image/jpeg)
 
@@ -211,238 +210,182 @@ Plagued by a chronic case of curiosity, Jeff Flowers is just a dude that annoys 
 ### Comments
 
 1. (image/jpeg)Roy says
-    
+
     [May 17, 2014 at 7:39 pm](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-2244)
-    
+
     “I like to have everything and be everywhere… All I can say is wonderful to know all of this about these plants. Roy Dias.”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=2244#respond)
     * (image/jpeg)lynette says
-        
+
         [October 17, 2014 at 2:48 am](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-31102)
-        
+
         “I have an illness that’s low on oxygen. I love this site, now l know what l can bring indoors. The ficus, l have three huge one’s. Lots of Iron plants, how can they be kept contained, they like to roam? and my favorite flower is also an air cleaner, how neat is that? By the way, l do what Nidal does, l go in the Pod twice a week, that’s a godsend.”
-        
+
         [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=31102#respond)
         * (image/jpeg)Jeannie says
-            
+
             [October 17, 2014 at 2:10 pm](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-31256)
-            
+
             “They didn’t mention that ficus do not like to be in a draught, so bear that in mind.”
-            
+
             [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=31256#respond)
             * (image/jpeg)Cheri says
-                
+
                 [March 24, 2016 at 4:41 pm](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-112294)
-                
+
                 “I have had mine for over 30 years and it has been in some drought situations because I forgot to water it.”
-                
+
                 [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=112294#respond)
-                
+
     * (image/jpeg)Linda says
-        
+
         [January 27, 2016 at 6:58 pm](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-109933)
-        
+
         “I have had a lot of luck with the Corn Plant. It requires little water and does well in front of a window. I think it likes to be root bound.”
-        
+
         [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=109933#respond)
-        
+
 2. (image/jpeg)lindatollefson says
-    
+
     [May 28, 2014 at 11:01 pm](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-2448)
-    
+
     “nice to know that about plants, never new that. i love plants.”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=2448#respond)
-    
+
 3. (image/jpeg)Can I get these at home depot? says
-    
+
     [June 7, 2014 at 11:17 am](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-2584)
-    
+
     “Great list! Can I get these at home depot or lowes… or do I have to get these from a specialty plant store?”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=2584#respond)
     * Jeff Flowers (image/jpeg)Jeff Flowers says
-        
+
         [June 18, 2014 at 3:24 pm](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-2739)
-        
+
         “Yes, I know for a fact that you can get *some* of these at Home Depot & Lowes. I’ve personally bought a couple of these from my local Home Depot.
-        
+
         However, the availability of each type of plant will obviously vary from store to store, as well as seasonally. It may be best to call and ask before you go to buy.
-        
+
         Good luck.”
-        
+
         [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=2739#respond)
-        
+
 4. (image/jpeg)paulette matalas says
-    
+
     [June 14, 2014 at 10:57 am](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-2653)
-    
+
     “I have allergys and asthma”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=2653#respond)
-    
+
 5. (image/jpeg)Teresa Simpson says
-    
+
     [September 14, 2014 at 11:26 pm](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-20949)
-    
+
     “I have to be careful which plants I bring into my house as I have parrots and cats. Im always careful to make sure plants are non-toxic. The problem is you dont know while in the store buying plants if they are safe or not.”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=20949#respond)
-    
+
 6. (image/jpeg)Laurie Bailey says
-    
+
     [September 24, 2014 at 9:25 pm](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-23145)
-    
+
     “Epipremnum aureum, this plant looks like philodendron, but this is not what it is called in the article. Is this the same plant, or just looks like it? Thanks”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=23145#respond)
-    
+
 7. (image/jpeg)Sue Burton says
-    
+
     [October 10, 2014 at 8:59 pm](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-29009)
-    
+
     “pretty sure it is one and the same but you can google it to find out for sure”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=29009#respond)
-    
+
 8. (image/jpeg)Betty Sivertson says
-    
+
     [October 30, 2015 at 5:42 pm](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-104245)
-    
+
     “where do you buy these plants?”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=104245#respond)
-    
+
 9. (image/jpeg)Betty Sivertson says
-    
+
     [October 30, 2015 at 5:44 pm](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-104247)
-    
+
     “where do you buy these 10 odor absorbing houseplants?”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=104247#respond)
-    
+
 10. (image/jpeg)job low says
-    
+
     [April 17, 2016 at 9:50 am](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-113298)
-    
+
     “You missed a BIG ONE…Spider Plants………………….”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=113298#respond)
-    
+
 11. (image/jpeg)Beth says
-    
+
     [May 17, 2016 at 3:53 pm](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-114370)
-    
+
     “What about ferns”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=114370#respond)
-    
+
 12. (image/jpeg)Valarie Wiggins says
-    
+
     [June 23, 2016 at 10:33 pm](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-115208)
-    
+
     “Could you put the names in a easy to print out list?”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=115208#respond)
-    
+
 13. (image/jpeg)Louise Lipkin Cutler says
-    
+
     [June 24, 2016 at 9:07 pm](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-115222)
-    
+
     “Help!
-    
+
     GNATS in the area where I had the plants in the sunny kitchen. What can I do?”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=115222#respond)
-    
+
 14. (image/jpeg)Lea Valerio says
-    
+
     [July 4, 2016 at 1:02 pm](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-115382)
-    
+
     “I have 3 adult cats & 3 kittens. What plants are safe to have?”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=115382#respond)
-    
+
 15. (image/jpeg)sheila tanner says
-    
+
     [July 9, 2016 at 8:37 am](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-115480)
-    
+
     “i have allways loved plants and the things they do i all so have a green thumb on most of them. i do no for me a plant is like a humun they need care or they die. im 54 this year. so thanks”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=115480#respond)
-    
+
 16. (image/jpeg)Susan says
-    
+
     [July 23, 2016 at 2:54 am](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-115789)
-    
+
     “Love ur article it’s very informative”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=115789#respond)
-    
+
 17. (image/jpeg)Arlene says
-    
+
     [December 14, 2016 at 9:31 am](https://learn.allergyandair.com/houseplants-indoor-air-quality/#comment-119277)
-    
+
     “Awesome information. I was just diagnosed with Asthma an need to clean my air in home. There is a smoker in my home.”
-    
+
     [Reply](https://learn.allergyandair.com/houseplants-indoor-air-quality/?replytocom=119277#respond)
-    
-
-### Leave a Reply
-
-Your email address will not be published. Required fields are marked *
-
-Comment
-
-Name *
-
-Email *
-
-#### Recommended Products
-
-[(image/jpeg)**********
-**********
-
-RabbitAir
-
-BioGS Washable Activated Carbon Charcoal Filter
-$49
-
-](https://www.allergyandair.com/SPACF-RabbitAir-BioGS-Washable-Activated-Carbon-Charcoal-Filter/SPACF.html)
-[(image/jpeg)RabbitAir
-
-Minus A2 Odor Remover Filter Replacement Kit
-$85
-
-](https://www.allergyandair.com/rabbitair-minus-a2-odor-remover-filter-replacement-kit/A2-FKO.html)
-[(image/jpeg)RabbitAir
-
-Minus A2 Filter Replacement Kit (Pet Allergy)
-$85
-
-](https://www.allergyandair.com/A2-FKP-RabbitAir-Minus-A2-AP1004-Customized-Germ-Filter-Kit/A2-FKP.html)
-[(image/jpeg)RabbitAir
-
-Minus A2 Filter Replacement Kit (Toxin Absorber)
-$85
-
-](https://www.allergyandair.com/A2-FKT-RabbitAir-Minus-A2-AP1004-Customized-Germ-Filter-Kit/A2-FKT.html)
-[(image/jpeg)RabbitAir
-
-BioGS HEPA Filter
-$64
-
-](https://www.allergyandair.com/SPAHF-RabbitAir-BioGS-HEPA-Filter-With-Flu-Prevention/SPAHF.html)
-[(image/jpeg)**********
-**********
-
-Virus Zero
-
-Portable Air Purifier
-$169
-
-](https://www.allergyandair.com/Virus-Zero-Portable-Air-Purifier-White/SP-PA4.html)
 
 #### Recommended Articles
 
@@ -450,37 +393,37 @@ $169
 
 #### How English Ivy Helps Reduce Mold in Your Home
 
-](https://learn.allergyandair.com/english-ivy-and-mold/)[**](https://learn.allergyandair.com/english-ivy-and-mold/)
+](<https://learn.allergyandair.com/english-ivy-and-mold/>)[**](https://learn.allergyandair.com/english-ivy-and-mold/)
 
 [(image/jpeg)
 
 #### How to Remove Cigarette Smoke From Your Indoor Air
 
-](https://learn.allergyandair.com/how-to-remove-smoke-from-indoor-air/)[**](https://learn.allergyandair.com/how-to-remove-smoke-from-indoor-air/)
+](<https://learn.allergyandair.com/how-to-remove-smoke-from-indoor-air/>)[**](https://learn.allergyandair.com/how-to-remove-smoke-from-indoor-air/)
 
 [(image/jpeg)
 
 #### 5 Natural Remedies to Help Fight Allergies in Your Home
 
-](https://learn.allergyandair.com/natural-remedies-for-allergies/)[**](https://learn.allergyandair.com/natural-remedies-for-allergies/)
+](<https://learn.allergyandair.com/natural-remedies-for-allergies/>)[**](https://learn.allergyandair.com/natural-remedies-for-allergies/)
 
 [(image/jpeg)
 
 #### 8 Ways to Know If Your Indoor Air Quality Is Bad
 
-](https://learn.allergyandair.com/checking-indoor-air-quality/)[**](https://learn.allergyandair.com/checking-indoor-air-quality/)
+](<https://learn.allergyandair.com/checking-indoor-air-quality/>)[**](https://learn.allergyandair.com/checking-indoor-air-quality/)
 
 [(image/jpeg)
 
 #### How Air Purifiers Can Help Provide Allergy Relief
 
-](https://learn.allergyandair.com/air-purifiers-for-allergies/)[**](https://learn.allergyandair.com/air-purifiers-for-allergies/)
+](<https://learn.allergyandair.com/air-purifiers-for-allergies/>)[**](https://learn.allergyandair.com/air-purifiers-for-allergies/)
 
 [(image/jpeg)
 
 #### The Benefits of Air Purifiers
 
-](https://learn.allergyandair.com/benefits-of-air-purifiers/)[**](https://learn.allergyandair.com/benefits-of-air-purifiers/)
+](<https://learn.allergyandair.com/benefits-of-air-purifiers/>)[**](https://learn.allergyandair.com/benefits-of-air-purifiers/)
 
 #### Recent Posts
 

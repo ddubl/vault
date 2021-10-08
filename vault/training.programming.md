@@ -2,7 +2,7 @@
 id: Kit6pE6A2EBi2WiVdv58P
 title: Programming
 desc: ''
-updated: 1633199319643
+updated: 1633724402796
 created: 1633199319643
 ---
 [](http://breakingmuscle.com/)
@@ -16,7 +16,7 @@ created: 1633199319643
 * [Shop](http://shop.breakingmuscle.com/)
 * [Coaches Only](https://coachesonly.breakingmuscle.com/)
 * [Subscribe](http://breakingmuscle.com/newsletter/subscribe.php)
- [](http://breakingmuscle.com/bmsearch) 
+ [](http://breakingmuscle.com/bmsearch)
 
 # Frequency and Variety: Smart Strength With Charles Staley
 

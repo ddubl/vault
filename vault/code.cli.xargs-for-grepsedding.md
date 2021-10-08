@@ -1,6 +1,6 @@
 ---
 id: dPTKVcQBeWzvWuJwkMYKh
-title: Xargs for Grepsedding in *Nix
+title: Xargs for Grepsedding
 desc: ''
 updated: 1633199321520
 created: 1633199321520

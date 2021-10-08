@@ -6,7 +6,7 @@ updated: 1633199321498
 created: 1633199321498
 ---
 dwl’s advocate
-    alternate personas dukeing it out 
+    alternate personas dukeing it out
 
 dwl’s advocate:
     blog series : multiformat; concerned with   contemporary topic
