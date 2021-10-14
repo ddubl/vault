@@ -30,7 +30,6 @@
         "editor.fontFamily": "Cascadia Code PL, Monaco, 'Courier New', monospace",
         "editor.tabSize": 2,
         "commentBox.styles": {
-
             "defaultStyle": {}
         },
         "git.enableSmartCommit": true,
