@@ -2,7 +2,7 @@
 id: v8QFDGIeCZhgcgFHnc0K6
 title: Sfv
 desc: ''
-updated: 1634411635166
+updated: 1634411656437
 created: 1634391048552
 stub: true
 ---
@@ -14,4 +14,6 @@ playstyles:
     counterpoke
 
   fireball - footsies
-    changing air
+    changing air movement
+
+  long-poke / zone
