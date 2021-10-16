@@ -2,7 +2,7 @@
 id: v8QFDGIeCZhgcgFHnc0K6
 title: Sfv
 desc: ''
-updated: 1634412163767
+updated: 1634412570582
 created: 1634391048552
 stub: true
 ---
@@ -13,8 +13,6 @@ styles
     defense
 
   brain/heart/body
-
-
 
 playstyles:
   footsies
