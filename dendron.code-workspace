@@ -26,11 +26,10 @@
         "editor.tabCompletion": "on",
         "todo-tree.tree.scanMode": "workspace",
         "window.autoDetectColorScheme": true,
-        "workbench.colorTheme": "Gruvbox Material Light",
+        "workbench.colorTheme": "Gruvbox Material Dark",
         "editor.fontFamily": "Cascadia Code PL, Monaco, 'Courier New', monospace",
         "editor.tabSize": 2,
         "commentBox.styles": {
-
             "defaultStyle": {}
         },
         "git.enableSmartCommit": true,

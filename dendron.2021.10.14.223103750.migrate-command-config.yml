@@ -1,0 +1,70 @@
+version: 1
+maxPreviewsCached: 10
+vaults:
+    -
+        fsPath: vault
+        name: dwl
+        remote:
+            type: git
+            url: 'git@github.com:danwalterlink/vault.git'
+    -
+        fsPath: journal
+        name: journal
+        visibility: private
+        remote:
+            type: git
+            url: 'git@github.com:danwalterlink/journal.git'
+    -
+        fsPath: todo
+        name: todo
+        remote:
+            type: git
+            url: 'git@github.com:danwalterlink/todo.git'
+useFMTitle: true
+useNoteTitleForLink: true
+noAutoCreateOnDefinition: true
+noLegacyNoteRef: true
+noXVaultWikiLink: true
+lookupConfirmVaultOnCreate: false
+mermaid: true
+useKatex: true
+autoFoldFrontmatter: true
+usePrettyRefs: true
+dev:
+    enablePreviewV2: true
+lookup:
+    note:
+        selectionType: selectionExtract
+journal:
+    dailyDomain: daily
+    name: journal
+    dateFormat: y.MM.dd
+    addBehavior: childOfDomain
+    firstDayOfWeek: 1
+scratch:
+    name: scratch
+    dateFormat: y.MM.dd.HHmmss
+    addBehavior: asOwnDomain
+todo:
+    name: todo
+    dateFormat: y.MM.dd
+    addBehaviour: childOfDomain
+site:
+    copyAssets: true
+    siteHierarchies:
+        - root
+        - todo
+    siteRootDir: dwl
+    usePrettyRefs: true
+    title: Dendron
+    description: Personal knowledge space
+    siteLastModified: true
+    gh_edit_branch: main
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - vault
+            - todo
+    siteNotesDir: ~/dendron
+    assetsPrefix: asset
+initializeRemoteVaults: true
