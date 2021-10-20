@@ -10,10 +10,10 @@ post throw-tech
 
 corner block confirm s.lP > s.mK - CH s.mK
 	| 
-	
+
 demons:
 	midscreen
 		s.lK xx fb hp-zdemon
 		s.lK/lP lk(-ydemon)
 		empty df-demon
-		wakeup dp/teleport/demon OS
+		wakeup dp/teleport/demon	 OS

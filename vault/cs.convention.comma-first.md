@@ -1,4 +1,3 @@
-# cs.convention.comma-first
 ---
 id: Bg7GXfNTUJhYomXvlj5WU
 title: Comma First
@@ -222,8 +221,6 @@ mergeLists([ apple, [ penelope, granger ] ],
            [ 1, 2, 3, 4, 5, 6, 7, 8 ]
            [ "mary's store has many pies, and cookies, and eggs," ]
            [ function() { doSomething() } ]);
-
-@isaacs (image/jpeg)
 
 Note how the errors pop out in the comma-first style.
 
