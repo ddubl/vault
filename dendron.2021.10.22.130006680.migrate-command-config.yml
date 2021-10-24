@@ -1,3 +1,4 @@
+version: 1
 maxPreviewsCached: 10
 vaults:
     -
@@ -24,12 +25,16 @@ useNoteTitleForLink: true
 noAutoCreateOnDefinition: true
 noLegacyNoteRef: true
 noXVaultWikiLink: true
+lookupConfirmVaultOnCreate: false
 mermaid: true
 useKatex: true
 autoFoldFrontmatter: true
 usePrettyRefs: true
 dev:
     enablePreviewV2: true
+lookup:
+    note:
+        selectionType: selectionExtract
 journal:
     dailyDomain: daily
     name: journal
@@ -40,6 +45,10 @@ scratch:
     name: scratch
     dateFormat: y.MM.dd.HHmmss
     addBehavior: asOwnDomain
+todo:
+    name: todo
+    dateFormat: y.MM.dd
+    addBehaviour: childOfDomain
 site:
     copyAssets: true
     siteHierarchies:
@@ -58,24 +67,4 @@ site:
             - todo
     siteNotesDir: ~/dendron
     assetsPrefix: asset
-version: 2
-todo:
-    name: todo
-    dateFormat: y.MM.dd
-    addBehaviour: childOfDomain
 initializeRemoteVaults: true
-commands:
-    lookup:
-        note:
-            selectionMode: extract
-            confirmVaultOnCreate: false
-            leaveTrace: false
-    randomNote: {}
-    insertNote:
-        initialValue: templates
-    insertNoteLink:
-        aliasMode: none
-        enableMultiSelect: false
-    insertNoteIndex:
-        enableMarker: false
-dendronVersion: 0.64.0

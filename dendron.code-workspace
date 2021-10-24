@@ -39,7 +39,9 @@
         "gitdoc.enabled": true,
         "workbench.iconTheme": "gruvbox-material-icon-theme",
         "workbench.preferredDarkColorTheme": "Gruvbox Material Dark",
-        "workbench.preferredLightColorTheme": "Gruvbox Material Light"
+        "workbench.preferredLightColorTheme": "Gruvbox Material Light",
+        "gitdoc.autoPullDelay": 10000,
+        "gitdoc.autoPushDelay": 10000
     },
     "extensions": {
         "recommendations": [
