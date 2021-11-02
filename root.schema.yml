@@ -8,11 +8,26 @@ schemas:
     title: root
     parent: root
   - id: journal
-    desc: ""
+    desc: "journaling supertype. overarching themes and metajournaling"
     children:
-      [ daily
+      [ entry
+      , daily
+      , monthly
       , meditation
       , lsd
       , dream
       ]
-    pattern:
+  - id: entry
+    desc: "journal entry; generated from event or general"
+    children:
+      [ event
+      , idea
+      ]
+    pattern: {event}
+  - id: daily
+    desc: "daily journaling. TODO: add appointments & listings throughout the day"
+    pattern: daily.[yymmdd]
+    template: template.daily.md
+  - id: monthly
+    desc: "learnings of the month, review dailies"
+    pattern: monthly.[yymm]
