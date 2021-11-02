@@ -4,9 +4,15 @@ schemas:
   - id: root
     children:
       [ journal
+      ]
+    title: root
+    parent: root
+  - id: journal
+    desc: ""
+    children:
+      [ daily
       , meditation
       , lsd
       , dream
       ]
-    title: root
-    parent: root
+    pattern:
