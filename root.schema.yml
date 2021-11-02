@@ -2,7 +2,11 @@ version: 1
 imports: []
 schemas:
   - id: root
-    children: [
-      journal]
+    children:
+      [ journal
+      , meditation
+      , lsd
+      , dream
+      ]
     title: root
     parent: root
