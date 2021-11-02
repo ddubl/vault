@@ -2,6 +2,7 @@ version: 1
 imports: []
 schemas:
   - id: root
-    children: []
+    children: [
+      journal]
     title: root
     parent: root
