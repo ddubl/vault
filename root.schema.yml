@@ -26,7 +26,7 @@ schemas:
     pattern: {event}
   - id: daily
     desc: "daily journaling. TODO: add appointments & listings throughout the day"
-    pattern: daily.[yymmdd]
+    pattern: []
     template: template.daily.md
   - id: monthly
     desc: "learnings of the month, review dailies"
