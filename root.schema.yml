@@ -1,0 +1,11 @@
+version: 1
+imports: []
+schemas:
+  - id: root
+    children:
+      [ session
+      ]
+    title: root
+    parent: root
+  - id: session
+    title: session
