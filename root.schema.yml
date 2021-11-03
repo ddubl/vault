@@ -18,7 +18,7 @@ schemas:
       , dream
       ]
   - id: entry
-    desc: "journal entry; generated from event or general"
+    desc: "journal entry; generated from event"
     children:
       [ event
       , idea
