@@ -2,6 +2,12 @@ version: 1
 imports: []
 schemas:
   - id: root
-    children: []
+    children: [templates]
     title: root
     parent: root
+  - id: templates
+    children:
+      [ procedure
+      , task
+      , project
+      ]
