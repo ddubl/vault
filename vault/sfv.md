@@ -1,35 +1,9 @@
 ---
-id: v8QFDGIeCZhgcgFHnc0K6
+id: DPau3R0HQfBtiE0QjOPib
 title: Sfv
 desc: ''
-updated: 1634414277320
-created: 1634391048552
+updated: 1634900408808
+created: 1634900408808
 stub: true
 ---
 
-## categories of play
-
-  aggressiveness
-    offense
-    defense
-
-  baseline?
-  footsies
-    low forward - confirm
-    poke
-    counterpoke
-
-    fireball - footsies
-      changing air movement
-
-
-  long-poke / zone
-
-## categories of players
-
-  antsy - presses more buttons under duress
-  pantsy - presses fewer buttons
-
-  brain/heart/body
-
-## building blocks
