@@ -45,32 +45,35 @@ workspace:
     dendronVersion: 0.65.0
     vaults:
         -
-            fsPath: stream
-            name: stream
-        -
             fsPath: vault
             name: dwl
             remote:
                 type: git
-                url: 'git@github.com:danwalterlink/vault.git#master'
+                url: 'git@github.com:ddubl/vault.git#master'
+        -
+            fsPath: stream
+            name: stream
+            remote:
+                type: git
+                url: 'git@github.com:ddubl/vault.git#stream'
         -
             fsPath: types
             name: types
             remote:
                 type: git
-                url: 'git@github.com:danwalterlink/vault.git#types'
+                url: 'git@github.com:ddubl/vault.git#types'
         -
             fsPath: todo
             name: todo
             remote:
                 type: git
-                url: 'git@github.com:danwalterlink/vault.git#todo'
+                url: 'git@github.com:ddubl/vault.git#todo'
         -
             fsPath: journal
             name: journal
             remote:
                 type: git
-                url: 'git@github.com:danwalterlink/vault.git#journal'
+                url: 'git@github.com:ddubl/vault.git#journal'
     journal:
         dailyDomain: journal
         dailyVault: journal
