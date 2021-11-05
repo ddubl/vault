@@ -8,9 +8,9 @@
     branch = todo
 [submodule "types"]
 	path = types
-	url = git@github.com:ddubl/vault.git
+	url = ./types
     branch = types
 [submodule "stream"]
 	path = stream
-	url = git@github.com:ddubl/vault.git
+	url = ./stream
     branch = stream

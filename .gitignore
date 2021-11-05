@@ -2,13 +2,3 @@ node_modules
 .dendron.*
 build
 dendron.code-workspace
-
-journal
-
-types
-
-vault
-
-dendron
-
-stream
