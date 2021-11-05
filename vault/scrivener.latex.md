@@ -2,7 +2,7 @@
 id: OJ7lVY9gE9YR3VsIO3DNX
 title: Latex
 desc: ''
-updated: 1633199319569
+updated: 1635934973870
 created: 1633199319569
 ---
 # Configuring Scrivener to output LaTeX
@@ -13,7 +13,7 @@ Posted on [January 14, 2015](https://abnormaldata.wordpress.com/2015/01/14/confi
 
 [Latex logo (image/png)](http://www.latex-project.org/)**This post** explains my Scrivener + LaTeX [workflow](https://abnormaldata.wordpress.com/2015/01/14/configuring-scrivener-latex/#workflow) and how I [configured](https://abnormaldata.wordpress.com/2015/01/14/configuring-scrivener-latex/#setup) Scrivener to output LaTeX.
 
-***Edit 25 May 2016:** As indicated in the comments below, I no longer use this workflow (which requires MMD). It just got too complicated. I now write the Scrivener manuscript directly in latex and then compile as a text file, which I then compile to latex using my favorite tex editor. This procedure bypasses MMD completely. I’d love to be able to use Scrivener + MMD the way it was intended – compile the same file to any format I want… at least RTF and Tex…*and* have citations, tables, figures, and equations numbered and referenced correctly . Tips welcome. 🙂*
+***Edit 25 May 2016:** As indicated in the comments below, I no longer use this workflow (which requires MMD). It just got too complicated. I now write the Scrivener manuscript directly in latex and then compile as a text file, which I then compile to latex using my favorite tex editor. This procedure bypasses MMD completely. I’d love to be able to use Scrivener + MMD the way it was intended – compile the same file to any format I want… at least RTF and Tex…*and*have citations, tables, figures, and equations numbered and referenced correctly . Tips welcome. 🙂*
 
 # So you want to write in Scrivener but compile with Latex?
 
@@ -64,12 +64,12 @@ Here’s an example of the latex code I used:
 
 **Header screen:**
 
-\documentclass[a4paper]{spie} 
+\documentclass[a4paper]{spie}
 \usepackage{graphicx}
 \usepackage{subfig}
 \usepackage{multirow}
 \title{Paper title}
-\author{First Author\supit{a}, 
+\author{First Author\supit{a},
 Second Author\supit{b},
 and Third Author\supit{c}
 \skiplinehalf
@@ -77,7 +77,7 @@ and Third Author\supit{c}
 \supit{b}Technical University; \\
 \supit{c}University Hospital; \\
 }
-\authorinfo{Send correspondence to First Author, 
+\authorinfo{Send correspondence to First Author,
 E-mail: me@myuniversity.edu}
 
 **Begin document screen:**
@@ -95,7 +95,7 @@ E-mail: me@myuniversity.edu}
 **Footer screen:**
 
 %%%%% References %%%%%
-\bibliographystyle{spiebib} 
+\bibliographystyle{spiebib}
 \bibliography{my_biblio}
 \end{document}
 
@@ -103,7 +103,7 @@ E-mail: me@myuniversity.edu}
 
 I only added 1 key. Click *Add Key*, then define:
 
-Keys:    Base Header Level 
+Keys:    Base Header Level
 Values:  3
 
 * Level 1 creates \part , \chapter , \section     …  and each subsequent level (n) ignores the (n-1) first levels:
@@ -161,7 +161,7 @@ Use HTML comments to pass latex code through untouched by MMD:
 
 To include a reference to the automatically generated `Step 16` section label above, you can do:
 
-Refer to section <--!~\label{step16compilingthedraft}--> 
+Refer to section <--!~\label{step16compilingthedraft}-->
 for further information.
 
 OK, it’s a bit [kludgy](http://www.urbandictionary.com/define.php?term=kludgy), but it’s so much fun to write in Scrivener, that I’m willing to put up with a bit of kludge (cause, you know, latex on its own is so easy to read).
@@ -205,7 +205,7 @@ If Scrivener or MMD could integrate with reference managers (like Jabref) for ci
 * [Converting LaTeX to Word – part 2 (LaTeX2RTF)](https://abnormaldata.wordpress.com/2014/11/22/converting-latex-to-word-part-2/)
 * [Converting LaTeX to Word – part 3 (Pandoc revisited)](https://abnormaldata.wordpress.com/2014/12/26/converting-latex-to-word-part-3-pandoc-revisited/)
 
-### Share this:
+### Share this
 
 * [Click to email (Opens in new window)](https://abnormaldata.wordpress.com/2015/01/14/configuring-scrivener-latex/?share=email&nb=1)
 * [Click to share on Twitter (Opens in new window)](https://abnormaldata.wordpress.com/2015/01/14/configuring-scrivener-latex/?share=twitter&nb=1)

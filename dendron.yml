@@ -24,7 +24,8 @@ site:
             - todo
             - journal
             - types
-    siteNotesDir: ~/dendron
+            - stream
+    siteNotesDir: ~/vault
     assetsPrefix: asset
 commands:
     lookup:
@@ -37,12 +38,15 @@ commands:
         initialValue: templates
     insertNoteLink:
         aliasMode: none
-        enableMultiSelect: false
+        enableMultiSelect: true
     insertNoteIndex:
         enableMarker: true
 workspace:
     dendronVersion: 0.65.0
     vaults:
+        -
+            fsPath: stream
+            name: stream
         -
             fsPath: vault
             name: dwl
@@ -68,31 +72,33 @@ workspace:
                 type: git
                 url: 'git@github.com:danwalterlink/vault.git#journal'
     journal:
-        dailyDomain: daily
-        name: journal
+        dailyDomain: journal
+        dailyVault: journal
+        name: daily
         dateFormat: y.MM.dd
         addBehavior: childOfDomain
-    todos:
-        name: todo
-        dateFormat: y.MM.dd
-        addBehaviour: childOfDomain
     scratch:
         name: scratch
         dateFormat: y.MM.dd.HHmmss
         addBehavior: asOwnDomain
+    task:
+        prioritySymbols:
+          {}
+        statusSymbols:
+          {}
+        todoIntegration: true
+        createTaskSelectionType: selection2link
+        addBehavior: asOwnDomain
+        name: task
+        dateFormat: y.MM.dd
     graph:
         zoomSpeed: 1
-    enableAutoCreateOnDefinition: false
-    enableXVaultWikiLink: false
+    enableAutoCreateOnDefinition: true
+    enableXVaultWikiLink: true
     enableRemoteVaultInit: true
-    workspaceVaultSyncMode: noCommit
+    workspaceVaultSyncMode: sync
     enableAutoFoldFrontmatter: true
     maxPreviewsCached: 10
     maxNoteLength: 204800
     enableUserTags: true
     enableHashTags: true
-    workspaces:
-        dwl:
-            remote:
-                type: git
-                url: 'git@github.com:danwalterlink/vault.git'
