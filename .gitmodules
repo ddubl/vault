@@ -1,6 +1,16 @@
 [submodule "journal"]
 	path = journal
 	url = ./journal
+    branch = journal
 [submodule "todo"]
 	path = todo
 	url = ./todo
+    branch = todo
+[submodule "types"]
+	path = types
+	url = ./types
+    branch = types
+[submodule "stream"]
+	path = stream
+	url = ./stream
+    branch = stream
