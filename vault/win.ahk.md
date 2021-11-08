@@ -2,7 +2,7 @@
 id: S0TKePyBqHHy7YH5tPlYB
 title: Ahk
 desc: ''
-updated: 1636412253118
+updated: 1636413259765
 created: 1636406624931
 ---
 RShift - RShift/Escape
@@ -12,8 +12,6 @@ make CapsLK into Prefix:
   generatorFunction for [[CustomCombinations|https://www.autohotkey.com/docs/Hotkeys.htm#combo]]
 
 hype & [0-9] :: \#^[0-9];
-
-
 
 Class Game
   HyperKey not in Game
@@ -39,3 +37,7 @@ Class Game
 \#e fileExplorer
 \#t cycle taskBar Apps ::#override
 \#s search ::#override
+
+## concepts
+
+defining custom combinations makes the first key work as a prefix keys and lose their native function! If subsequent hotkeys use the modifier key, the use hooks
