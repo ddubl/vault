@@ -2,7 +2,7 @@
 id: S0TKePyBqHHy7YH5tPlYB
 title: Ahk
 desc: ''
-updated: 1636411773234
+updated: 1636412054425
 created: 1636406624931
 ---
 RShift - RShift/Escape
@@ -17,11 +17,11 @@ Class Game
 ## Winkey Shortcuts
 \#n notification
 \#w news and interest feed
-\#z snap layout :: #override
+\#z snap layout ::#override
 \#PrintScreen ScreenShot
-\#c cortana/teams :: #override chrome
+\#c cortana/teams ::#override chrome
 \#w widgets
-\#a quicksettings :: #override
+\#a quicksettings ::#override
 \#v clipboard history
 \#n notification center
 \#d desktop
@@ -32,4 +32,5 @@ Class Game
 \#space languageInput
 \#^f find
 \#g gameBar
-\#
+\#e fileExplorer
+\#t cycle taskBar Apps ::#override
