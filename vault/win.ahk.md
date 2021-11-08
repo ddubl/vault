@@ -2,7 +2,7 @@
 id: S0TKePyBqHHy7YH5tPlYB
 title: Ahk
 desc: ''
-updated: 1636411691530
+updated: 1636411773234
 created: 1636406624931
 ---
 RShift - RShift/Escape
@@ -30,3 +30,6 @@ Class Game
 \#+s partial screen capture (Snip&Sketch)
 \#y win mixed reality
 \#space languageInput
+\#^f find
+\#g gameBar
+\#
