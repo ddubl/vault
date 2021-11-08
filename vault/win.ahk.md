@@ -2,7 +2,7 @@
 id: S0TKePyBqHHy7YH5tPlYB
 title: Ahk
 desc: ''
-updated: 1636411235222
+updated: 1636411297848
 created: 1636406624931
 ---
 RShift - RShift/Escape
@@ -20,3 +20,5 @@ Class Game
 \#z snap layout
 \#PrintScreen ScreenShot
 \#c teams
+\#w widgets
+\#a quicksettings
