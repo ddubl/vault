@@ -2,7 +2,7 @@
 id: S0TKePyBqHHy7YH5tPlYB
 title: Ahk
 desc: ''
-updated: 1636411111200
+updated: 1636411235222
 created: 1636406624931
 ---
 RShift - RShift/Escape
@@ -17,4 +17,6 @@ Class Game
 ## Winkey Shortcuts
 \#n notification
 \#w news and interest feed
-\#z
+\#z snap layout
+\#PrintScreen ScreenShot
+\#c teams
