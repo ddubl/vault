@@ -2,7 +2,7 @@
 id: S0TKePyBqHHy7YH5tPlYB
 title: Ahk
 desc: ''
-updated: 1636411643721
+updated: 1636411691530
 created: 1636406624931
 ---
 RShift - RShift/Escape
@@ -19,7 +19,7 @@ Class Game
 \#w news and interest feed
 \#z snap layout :: #override
 \#PrintScreen ScreenShot
-\#c teams :: #override chrome
+\#c cortana/teams :: #override chrome
 \#w widgets
 \#a quicksettings :: #override
 \#v clipboard history
@@ -29,4 +29,4 @@ Class Game
 \#l lock
 \#+s partial screen capture (Snip&Sketch)
 \#y win mixed reality
-\#c cortana
+\#space languageInput
