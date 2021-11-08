@@ -2,12 +2,14 @@
 id: S0TKePyBqHHy7YH5tPlYB
 title: Ahk
 desc: ''
-updated: 1636406754073
+updated: 1636410014164
 created: 1636406624931
 ---
 RShift - RShift/Escape
 
 Hyper
+make CapsLK into Prefix:
+  generatorFunction for [[CustomCombinations|]]
 
 Class Game
   HyperKey not in Game
