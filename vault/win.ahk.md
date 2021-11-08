@@ -2,7 +2,7 @@
 id: S0TKePyBqHHy7YH5tPlYB
 title: Ahk
 desc: ''
-updated: 1636412054425
+updated: 1636412100577
 created: 1636406624931
 ---
 RShift - RShift/Escape
@@ -34,3 +34,4 @@ Class Game
 \#g gameBar
 \#e fileExplorer
 \#t cycle taskBar Apps ::#override
+\#s search ::#override
