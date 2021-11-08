@@ -2,7 +2,7 @@
 id: S0TKePyBqHHy7YH5tPlYB
 title: Ahk
 desc: ''
-updated: 1636410014164
+updated: 1636411111200
 created: 1636406624931
 ---
 RShift - RShift/Escape
@@ -13,3 +13,8 @@ make CapsLK into Prefix:
 
 Class Game
   HyperKey not in Game
+
+## Winkey Shortcuts
+\#n notification
+\#w news and interest feed
+\#z
