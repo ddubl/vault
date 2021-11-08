@@ -2,14 +2,18 @@
 id: S0TKePyBqHHy7YH5tPlYB
 title: Ahk
 desc: ''
-updated: 1636412100577
+updated: 1636412253118
 created: 1636406624931
 ---
 RShift - RShift/Escape
 
 Hyper
 make CapsLK into Prefix:
-  generatorFunction for [[CustomCombinations|]]
+  generatorFunction for [[CustomCombinations|https://www.autohotkey.com/docs/Hotkeys.htm#combo]]
+
+hype & [0-9] :: \#^[0-9];
+
+
 
 Class Game
   HyperKey not in Game
