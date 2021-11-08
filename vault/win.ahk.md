@@ -2,7 +2,7 @@
 id: S0TKePyBqHHy7YH5tPlYB
 title: Ahk
 desc: ''
-updated: 1636413259765
+updated: 1636414633916
 created: 1636406624931
 ---
 RShift - RShift/Escape
@@ -15,15 +15,17 @@ hype & [0-9] :: \#^[0-9];
 
 Class Game
   HyperKey not in Game
+  GroupAdd Game not yet implemented:
+    searchable in OBS
 
 ## Winkey Shortcuts
 \#n notification
 \#w news and interest feed
-\#z snap layout ::#override
+\#z snap layout ::#override empty
 \#PrintScreen ScreenShot
-\#c cortana/teams ::#override chrome
+\#c cortana/teams ::#override empty
 \#w widgets
-\#a quicksettings ::#override
+\#a quicksettings ::#override empty
 \#v clipboard history
 \#n notification center
 \#d desktop
@@ -35,8 +37,8 @@ Class Game
 \#^f find
 \#g gameBar
 \#e fileExplorer
-\#t cycle taskBar Apps ::#override
-\#s search ::#override
+\#t cycle taskBar Apps ::#override empty
+\#s search ::#override empty
 
 ## concepts
 
