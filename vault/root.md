@@ -2,12 +2,12 @@
 id: root
 title: root
 desc: ''
-updated: 1633269486134
+updated: 1636221691845
 created: 1595961348801
 stub: false
 ---
 
-# Dendron Vault
+## Dendron Vault
 
 This is the root for your Dendron vault.
 

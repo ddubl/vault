@@ -1,4 +1,18 @@
 {
+    "extensions": {
+        "recommendations": [
+            "dendron.dendron-paste-image",
+            "dendron.dendron-markdown-shortcuts",
+            "redhat.vscode-yaml"
+        ],
+        "unwantedRecommendations": [
+            "dendron.dendron-markdown-links",
+            "dendron.dendron-markdown-notes",
+            "shd101wyy.markdown-preview-enhanced",
+            "kortina.vscode-markdown-notes",
+            "mushan.vscode-paste-image"
+        ]
+    },
     "folders": [
         {
             "path": "stream"
@@ -17,47 +31,42 @@
         }
     ],
     "settings": {
-        "dendron.rootDir": ".",
-        "files.autoSave": "onFocusChange",
-        "pasteImage.path": "${currentFileDir}/assets/images",
-        "pasteImage.prefix": "/",
-        "markdown-preview-enhanced.enableWikiLinkSyntax": true,
-        "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
-        "editor.snippetSuggestions": "inline",
-        "editor.suggest.snippetsPreventQuickSuggestions": false,
-        "editor.suggest.showSnippets": true,
-        "editor.tabCompletion": "on",
-        "todo-tree.tree.scanMode": "workspace",
-        "window.autoDetectColorScheme": true,
-        "workbench.colorTheme": "Gruvbox Material Dark",
-        "editor.fontFamily": "Cascadia Code PL, Monaco, 'Courier New', monospace",
-        "editor.tabSize": 2,
         "commentBox.styles": {
             "defaultStyle": {}
         },
+        "dendron.rootDir": ".",
+        "editor.fontFamily": "Victor Mono, Cascadia Code PL, Monaco, 'Courier New', monospace",
+        "editor.snippetSuggestions": "inline",
+        "editor.suggest.localityBonus": true,
+        "editor.suggest.showSnippets": true,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.tabSize": 2,
+        "files.autoSave": "onFocusChange",
         "git.enableSmartCommit": true,
         "git.fetchOnPull": true,
         "git.pruneOnFetch": true,
-        "rpc.enabled": false,
+        "gitdoc.autoPullDelay": 10000,
+        "gitdoc.autoPushDelay": 10000,
         "gitdoc.enabled": true,
+        "gitlens.codeLens.enabled": false,
+        "markdownlint.config": {
+            "MD013": false,
+            "MD018": false,
+            "MD022": false
+        },
+        "markdown-preview-enhanced.enableWikiLinkSyntax": true,
+        "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
+        "pasteImage.path": "${currentFileDir}/assets/images",
+        "pasteImage.prefix": "/",
+        "rpc.enabled": false,
+        "todo-tree.tree.scanMode": "workspace",
+        "window.autoDetectColorScheme": true,
         "workbench.iconTheme": "gruvbox-material-icon-theme",
         "workbench.preferredDarkColorTheme": "Gruvbox Material Dark",
         "workbench.preferredLightColorTheme": "Gruvbox Material Light",
-        "gitdoc.autoPullDelay": 10000,
-        "gitdoc.autoPushDelay": 10000
-    },
-    "extensions": {
-        "recommendations": [
-            "dendron.dendron-paste-image",
-            "dendron.dendron-markdown-shortcuts",
-            "redhat.vscode-yaml"
-        ],
-        "unwantedRecommendations": [
-            "dendron.dendron-markdown-links",
-            "dendron.dendron-markdown-notes",
-            "shd101wyy.markdown-preview-enhanced",
-            "kortina.vscode-markdown-notes",
-            "mushan.vscode-paste-image"
-        ]
+        "gitblame.ignoreWhitespace": true,
+        "gitlens.blame.ignoreWhitespace": true,
+        "workbench.colorTheme": "Gruvbox Material Light"
+
     }
 }

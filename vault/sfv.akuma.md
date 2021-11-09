@@ -2,15 +2,19 @@
 id: FIwAH9k0T7fy1UNvP4nLv
 title: Akuma
 desc: ''
-updated: 1635343017098
+updated: 1636316986020
 created: 1633199321549
 stub: true
 ---
 
-post throw-tech
+## Situations
+throw
+  .forward::{}
+    .dash::{-4,pb}
+  .back
 
 corner block confirm s.lP > s.mK - CH s.mK
- |
+  |
 
 demons:
  midscreen
@@ -18,3 +22,10 @@ demons:
   s.lK/lP lk(-ydemon)
   empty df-demon
   wakeup dp/teleport/demon  OS
+
+## Resources
+[discord](discord://245028468000030722)
+
+## vs
+### guile
+evade baby-boom: backjump.mP xx l.tatsu?
