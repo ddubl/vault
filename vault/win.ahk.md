@@ -2,7 +2,7 @@
 id: S0TKePyBqHHy7YH5tPlYB
 title: Ahk
 desc: ''
-updated: 1636414633916
+updated: 1636417567074
 created: 1636406624931
 ---
 RShift - RShift/Escape
@@ -30,7 +30,7 @@ Class Game
 \#n notification center
 \#d desktop
 \#x start button ctx menu
-\#l lock
+\#l lock :: CANNOT OVERRIDE
 \#+s partial screen capture (Snip&Sketch)
 \#y win mixed reality
 \#space languageInput
