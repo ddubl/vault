@@ -3,8 +3,7 @@ imports: []
 schemas:
   - id: root
     children:
-      [ session
-      ]
+      - session
     title: root
     parent: root
   - id: session
