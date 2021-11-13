@@ -18,9 +18,6 @@
             "path": "stream"
         },
         {
-            "path": "types"
-        },
-        {
             "path": "./journal"
         },
         {
@@ -72,6 +69,5 @@
         "markdownShortcuts.icons.bullets": false,
         "markdownShortcuts.icons.bold": false,
         "editor.tabCompletion": "on"
-
     }
 }

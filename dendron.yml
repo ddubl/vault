@@ -21,9 +21,9 @@ site:
     duplicateNoteBehavior:
         action: useVault
         payload:
+            - dwl
             - todo
             - journal
-            - types
             - stream
     siteNotesDir: ~/vault
     assetsPrefix: asset
@@ -57,12 +57,6 @@ workspace:
                 type: git
                 url: 'git@github.com:ddubl/vault.git#stream'
         -
-            fsPath: types
-            name: types
-            remote:
-                type: git
-                url: 'git@github.com:ddubl/vault.git#types'
-        -
             fsPath: todo
             name: todo
             remote:
@@ -86,9 +80,19 @@ workspace:
         addBehavior: asOwnDomain
     task:
         prioritySymbols:
-          {}
+            H: high
+            M: medium
+            L: low
         statusSymbols:
-          {}
+            '': ' '
+            wip: w
+            done: x
+            assigned: a
+            moved: m
+            blocked: b
+            delegated: l
+            dropped: d
+            pending: 'y'
         todoIntegration: true
         createTaskSelectionType: selection2link
         addBehavior: asOwnDomain
