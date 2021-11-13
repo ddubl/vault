@@ -1,0 +1,7 @@
+version: 1
+imports: []
+schemas:
+  - id: idea
+    children: []
+    title: idea
+    parent: root
