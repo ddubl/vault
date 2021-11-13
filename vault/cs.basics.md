@@ -167,7 +167,7 @@ A function that takes in an Object, however, can mutate the state of its surroun
 
 Many popular array functions, including `Array.map` and `Array.filter`, are therefore written as pure functions. They take in an array reference and internally, they copy the array and work with the copy instead of the original. This makes it so the original is untouched, our outer scope is unaffected, and we’re returned a reference to a brand new array.
 
-#### That’s it. Go write some code.
+#### That’s it. Go write some code.
 
 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
 
@@ -192,17 +192,17 @@ Many popular array functions, including `Array.map` and `Array.filter`, are ther
 3
 
 * BlockedUnblockFollowFollowing[Go to the profile of Arnav Aggarwal (image/jpeg)](https://codeburst.io/@arnav_aggarwal?source=footer_card)
-    
+
     ### [Arnav Aggarwal](https://codeburst.io/@arnav_aggarwal)
-    
+
     Full-Stack Developer
-    
+
 * Follow[codeburst (image/png)](https://codeburst.io/?source=footer_card)
-    
+
     ### [codeburst](https://codeburst.io/?source=footer_card)
-    
+
     bursts of code to power through your day
-    
+
 
 Responses
 
@@ -215,7 +215,7 @@ Conversation with [Arnav Aggarwal](https://medium.com/@arnav_aggarwal).
 
 * * *
 
-A really useful and helpful read as it helps to clarify I’ve known about but didn’t know the full details about, thank you!!
+A really useful and helpful read as it helps to clarify I’ve known about but didn’t know the full details about, thank you!!
 
 Any chance of adding one final section or a follow up article to cover closures in the same style of description? This is one topic where there are practical and very common issues arising from the…
 
@@ -240,7 +240,7 @@ Show all responses
 
 * Share
 * 64
-    
+
 
 Open in app
 64

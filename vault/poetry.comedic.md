@@ -8,7 +8,7 @@ created: 1633199319563
 masturbating women
 
 modern sensibilities : dr strange and how I got - understandably - angry
-nigger jokes? cripple jokes? 
+nigger jokes? cripple jokes?
 
 how we came to condone child-violation as THE crime?
 

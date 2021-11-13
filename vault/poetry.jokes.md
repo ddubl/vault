@@ -6,7 +6,7 @@ updated: 1633199321441
 created: 1633199321441
 ---
 * tdoctor strange, if a patient complains, I want to tell you first because I got something backwards... you told me to prick his boil.
-* apostles preparing jesus' last meal are planning a surprise - maria magdalena (famous prostitute/virgin) in tent - close vagina - noise 
+* apostles preparing jesus' last meal are planning a surprise - maria magdalena (famous prostitute/virgin) in tent - close vagina - noise
 * down the road, mother in law beaten up by 6 men. wife: help? me: no, enough.
 * mo-in-law came around, rats were throwing themselves on the traps.
 * aboriginal avoidance language to motherinlaw - eyes averted, words removed etc…
@@ -31,7 +31,7 @@ created: 1633199321441
 
 * Yo mama so classless, she's a Marxist utopia
 * Yo mama so poor, Nigerian prince wire her 💰
-* irishman durable mike malloy (bronx rasputin) - 1932 gangster insurance fraud life insurance 'double indemnity' (3 different) tried to kill 9 times / free booze / filled methanol, antifreeze, rottenoysters in wood oil, rat poison, sardines mixed with carpet tack ground up, terperntine, gasoline, spirits →  stripped 5 gallons water dropped in the snow → police station 2 days later / cab knock him over and dumped - 2 weeks later turned up out of hospital / drinking contest where they stuffed a gas hose down his throat
+* irishman durable mike malloy (bronx rasputin) - 1932 gangster insurance fraud life insurance 'double indemnity' (3 different) tried to kill 9 times / free booze / filled methanol, antifreeze, rottenoysters in wood oil, rat poison, sardines mixed with carpet tack ground up, terperntine, gasoline, spirits →  stripped 5 gallons water dropped in the snow → police station 2 days later / cab knock him over and dumped - 2 weeks later turned up out of hospital / drinking contest where they stuffed a gas hose down his throat
 * upper limit for insects, feces and rodent hair (and insect heads in peanut butter 30 insect fragments per 100 grams and 1 rodent hair)
 * lobsters communicate by urine
 * i like to do it in a bin with loads of other rubbish

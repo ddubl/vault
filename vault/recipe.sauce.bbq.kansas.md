@@ -10,13 +10,13 @@ kansas BBQ sauce
 
 In my humble Kansas City opinion, this really is the best homemade BBQ sauce recipe! It’s sweet, it’s tangy, it’s smoky, and it’s perfect on just about everything. It is also naturally vegan and gluten-free (*see note below).
 
-**TOTAL TIME:** 30 MINS
+**TOTAL TIME:** 30 MINS
 
- 
 
-**PREP TIME:** 5 MINS
 
-**COOK TIME:** 25 MINS
+**PREP TIME:** 5 MINS
+
+**COOK TIME:** 25 MINS
 
 ### INGREDIENTS:
 
@@ -45,7 +45,7 @@ Use the sauce immediately, or refrigerate in a sealed container for up to 1 week
 **If you are making this sauce gluten-free, be sure to find a brand of liquid smoke that is certified GF. I recommend Wright’s or Colgin.
 
 Tags:
-  
-    , 
-    , 
+
+    ,
+    ,
     , food, recipe, sauce

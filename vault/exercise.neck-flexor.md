@@ -13,9 +13,9 @@ created: 1633199319589
 * [Community](http://www.livestrong.com/conversations/)
 * [Hot Topics](http://www.livestrong.com/hot-topics/)
 * [Sign In](#)
-    
-     | [Register](http://www.livestrong.com/register/)
-    
+
+     | [Register](http://www.livestrong.com/register/)
+
 * [Upgrade](http://www.livestrong.com/upgrade/)
 
 * [LIVESTRONG.COM](http://www.livestrong.com/)

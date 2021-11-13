@@ -2,7 +2,7 @@
 id: BsHgJOFLTTWtBA3QMuLsx
 title: Objet A
 desc: ''
-updated: 1633199321456
+updated: 1636457753251
 created: 1633199321456
 ---
 [](https://www.google.ch/intl/en/about/products?tab=ih)5
@@ -21,12 +21,11 @@ More
 
 1. Collections
 2. [SafeSearch](https://www.google.com/preferences?hl=en)
-    
+
     * [Filter explicit results
         ](https://www.google.com/setprefs?safeui=on&sig=0_hls2o8EO2l9bMPQazJeAbcr697o%3D&prev=https://www.google.com/search?q%3Dmatheme%2Bobjet%2Bpetit%2Ba%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D0ahUKEwjYtsj-lIHgAhUIElAKHVoLDW4Q_AUIDigB%26biw%3D1375%26bih%3D1050)
     * [More about SafeSearch
         ](https://support.google.com/websearch/answer/510?hl=en-CH)
-    
 
 [lacan
 ](https://www.google.com/search?biw=1375&bih=1050&tbm=isch&q=matheme+objet+petit+a&chips=q:matheme+objet+petit+a,online_chips:lacan&usg=AI4_-kT_vJgXkLms3WsR_if97T5S8Spqcg&sa=X&ved=0ahUKEwjS_vX_lIHgAhVGEVAKHb0KAvIQ4lYIKCgA)[lacanian psychoanalysis
@@ -236,7 +235,7 @@ lacan.com
 [(image/jpeg)](https://www.google.com/imgres?imgurl=http%3A%2F%2Flacan.e-monsite.com%2Fmedias%2Fimages%2Fangoisse-et-schema-optique-7.jpg&imgrefurl=http%3A%2F%2Flacan.e-monsite.com%2Fpages%2Fcategorie-cachee%2Fl-angoisse-cernee-par-le-schema-optique.html&docid=bW5M6DV0qPW9BM&tbnid=Ykrs1PvdauEeoM%3A&vet=10ahUKEwjS_vX_lIHgAhVGEVAKHb0KAvIQMwiFASg-MD4..i&w=1515&h=534&bih=1050&biw=1375&q=matheme%20objet%20petit%20a&ved=0ahUKEwjS_vX_lIHgAhVGEVAKHb0KAvIQMwiFASg-MD4&iact=mrc&uact=8)[L'angoisse cernée par le schéma optique
 lacan.e-monsite.com
 ](https://www.google.com/search?q=matheme+objet+petit+a&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjYtsj-lIHgAhUIElAKHVoLDW4Q_AUIDigB&biw=1375&bih=1050#)
-[(image/png)4 days ago
+[(image/png)4 days ago
 ](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.cairn.info%2Fvign_rev%2FCHLA%2FCHLA_007.jpg&imgrefurl=https%3A%2F%2Fwww.cairn.info%2Frevue-champ-lacanien-2009-1-p-157.htm&docid=Jxl7ai_3Iw5RiM&tbnid=pccBBVy8hAp9dM%3A&vet=10ahUKEwjS_vX_lIHgAhVGEVAKHb0KAvIQMwiGASg_MD8..i&w=3780&h=5670&bih=1050&biw=1375&q=matheme%20objet%20petit%20a&ved=0ahUKEwjS_vX_lIHgAhVGEVAKHb0KAvIQMwiGASg_MD8&iact=mrc&uact=8)[De la jouissance et des discours ...
 cairn.info
 ](https://www.google.com/search?q=matheme+objet+petit+a&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjYtsj-lIHgAhUIElAKHVoLDW4Q_AUIDigB&biw=1375&bih=1050#)
@@ -346,7 +345,7 @@ researchgate.net
 cairn.info
 ](https://www.google.com/search?q=matheme+objet+petit+a&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjYtsj-lIHgAhUIElAKHVoLDW4Q_AUIDigB&biw=1375&bih=1050#)
 
-[](https://www.google.com/search?q=matheme+objet+petit+a&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjYtsj-lIHgAhUIElAKHVoLDW4Q_AUIDigB&biw=1375&bih=1050#)[(image/jpeg)](https://www.pinterest.com/pin/253820128973953009/)500 × 416-Images may be subject to copyright. [Find out more](https://support.google.com/legal/answer/3463239?sa=X&ved=2ahUKEwjBkryAlYHgAhVPb1AKHaj6AegQlZ0DegQIARAA)
+[](https://www.google.com/search?q=matheme+objet+petit+a&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjYtsj-lIHgAhUIElAKHVoLDW4Q_AUIDigB&biw=1375&bih=1050#)[(image/jpeg)](https://www.pinterest.com/pin/253820128973953009/)500 × 416-Images may be subject to copyright. [Find out more](https://support.google.com/legal/answer/3463239?sa=X&ved=2ahUKEwjBkryAlYHgAhVPb1AKHaj6AegQlZ0DegQIARAA)
 
 [ashortlifeofhorror: “The objet petit a is an object that can be ...](https://www.pinterest.com/pin/253820128973953009/)[Pinterest](https://www.pinterest.com/pin/253820128973953009/)ashortlifeofhorror: “The objet petit a is an object that can be.
 
@@ -360,24 +359,18 @@ Collections
 
 [Get help](https://support.google.com/websearch/?p=m_ws_serp_gethelp)-[Send feedback](https://www.google.com/search?q=matheme+objet+petit+a&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjYtsj-lIHgAhUIElAKHVoLDW4Q_AUIDigB&biw=1375&bih=1050#)
 
-[(image/jpeg)](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwidjamPlYHgAhUFPFAKHbbgD28QjRx6BAgBEAU&url=http%3A%2F%2Fwww.valas.fr%2FDe-la-jouissance-et-des-discours-B%2C005&psig=AOvVaw0dsycasZW4nFp7mXHOCVaG&ust=1548238769251123)861 × 768-Images may be subject to copyright. [Find out more](https://support.google.com/legal/answer/3463239?sa=X&ved=2ahUKEwjBkryAlYHgAhVPb1AKHaj6AegQlZ0DegQIARAB)
+[(image/jpeg)](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwidjamPlYHgAhUFPFAKHbbgD28QjRx6BAgBEAU&url=http%3A%2F%2Fwww.valas.fr%2FDe-la-jouissance-et-des-discours-B%2C005&psig=AOvVaw0dsycasZW4nFp7mXHOCVaG&ust=1548238769251123)861 × 768-Images may be subject to copyright. [Find out more](https://support.google.com/legal/answer/3463239?sa=X&ved=2ahUKEwjBkryAlYHgAhVPb1AKHaj6AegQlZ0DegQIARAB)
 
 [De la jouissance et des discours (B) - Patrick Valas](http://www.valas.fr/De-la-jouissance-et-des-discours-B,005)[Patrick Valas](http://www.valas.fr/De-la-jouissance-et-des-discours-B,005)... soit l'objet petit a. Le nœud borroméen
 
 [(image/svg)Visit](http://www.valas.fr/De-la-jouissance-et-des-discours-B,005)
-
-(image/svg)Add to
-
-Collections
-
-(image/svg)Share
 
 Related images:
 [(image/png)](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.valas.fr%2FIMG%2Fjpg%2Fle_n-borro-2.jpg&imgrefurl=http%3A%2F%2Fwww.valas.fr%2FDe-la-jouissance-et-des-discours-B%2C005&docid=cMDCNpKSMBERdM&tbnid=tXWZHUUGF-R_iM%3A&vet=1&w=861&h=768&bih=1050&biw=1375&ved=0ahUKEwjS_vX_lIHgAhVGEVAKHb0KAvIQMwg7KAEwAQ&iact=c&ictx=1)[(image/jpeg)](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.valas.fr%2FIMG%2Fjpg%2Fsavoir_graphe.jpg&imgrefurl=http%3A%2F%2Fwww.valas.fr%2FGeraldine-Philippe-Kekchose%2C200&docid=U6h9UTDloY2-kM&tbnid=H_8PyRI94Y3ihM%3A&vet=1&w=480&h=495&bih=1050&biw=1375&ved=2ahUKEwidjamPlYHgAhUFPFAKHbbgD28QxiAoAXoECAEQFQ&iact=c&ictx=1)[(image/jpeg)](https://www.google.com/imgres?imgurl=http%3A%2F%2F2.bp.blogspot.com%2F-o8WpMKKOKEc%2FVICHf1xlMvI%2FAAAAAAAANaY%2FMobVC3h1hX4%2Fw1200-h630-p-k-no-nu%2F10422914_912676255433095_8362336134923844727_n.jpg&imgrefurl=http%3A%2F%2Folivierdouville.blogspot.com%2F2013%2F09%2Fanalyse-freudienne-analisisis-freudiano.html&docid=o_umvAaXQoxAXM&tbnid=eZq19pgCfcsopM%3A&vet=1&w=403&h=212&bih=1050&biw=1375&ved=2ahUKEwidjamPlYHgAhUFPFAKHbbgD28QxiAoAnoECAEQFg&iact=c&ictx=1)[(image/jpeg)](https://www.google.com/imgres?imgurl=http%3A%2F%2Fscalar.usc.edu%2Fworks%2Flooking-at-laurie%2Fmedia%2Fsullivad.jpg&imgrefurl=http%3A%2F%2Fdianmozhai.ml%2Fcabyf%2Fcarambis-driver-activation-key-jil.php&docid=qAfJbj00tr3r4M&tbnid=zSPzIi0Z1unE8M%3A&vet=1&w=351&h=298&bih=1050&biw=1375&ved=2ahUKEwidjamPlYHgAhUFPFAKHbbgD28QxiAoA3oECAEQFw&iact=c&ictx=1)[(image/png)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.cairn.info%2Floadimg.php%3FFILE%3DESS%2FESS_025%2FESS_025_0083%2FESS_id9782749213163_pu2010-02s_sa07_art07_img003.jpg&imgrefurl=https%3A%2F%2Fwww.cairn.info%2Frevue-essaim-2010-2-page-83.htm&docid=oJH2Y32PcqtY1M&tbnid=ogaFIbA4AhiUBM%3A&vet=1&w=3157&h=2081&bih=1050&biw=1375&ved=2ahUKEwidjamPlYHgAhUFPFAKHbbgD28QxiAoBHoECAEQGA&iact=c&ictx=1)[(image/png)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fephep.com%2Fsites%2Fdefault%2Ffiles%2Fimg_util%2F1%2FFig-Amour-Sacre-clinique.png&imgrefurl=https%3A%2F%2Fephep.com%2Ffr%2Fcontent%2Ftexte%2Fstephane-renard-amour-sacre-dela-clinique&docid=V70Ax5LCJWLh2M&tbnid=eddCXkbZgqT-9M%3A&vet=1&w=563&h=483&bih=1050&biw=1375&ved=2ahUKEwidjamPlYHgAhUFPFAKHbbgD28QxiAoBXoECAEQGQ&iact=c&ictx=1)[(image/jpeg)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.oedipe.org%2Fsites%2Fdefault%2Ffiles%2Fmedia%2Factualites%2Fjoycesophie5.jpg&imgrefurl=https%3A%2F%2Fwww.oedipe.org%2Factualites%2Fjoyceetsophie&docid=skKv6W2K9KOFgM&tbnid=KiIOF_7rJor9VM%3A&vet=1&w=576&h=480&bih=1050&biw=1375&ved=2ahUKEwidjamPlYHgAhUFPFAKHbbgD28QxiAoBnoECAEQGg&iact=c&ictx=1)[(image/png)View more](https://www.google.com/search?q=matheme+objet+petit+a&tbm=isch&tbs=rimg:CbV1mR1FBhfkIjgf_1w_1JEj3hjXmatfaYAn3LzSPzIi0Z1umiBoUhsDgCGHnXQl5G2YKkKiIOF_17rJorhbwP85dQUySoSCR_1_1D8kSPeGNEVOofVEw5aGNKhIJeZq19pgCfcsRo_1umvAaXQowqEgnNI_1MiLRnW6RGoB8luPTS2vSoSCaIGhSGwOAIYEaCR9mN9j3KrKhIJeddCXkbZgqQRV70Ax5LCJWIqEgkqIg4X_1usmihGyQq_1pbYr0oyoSCeFvA_1zl1BTJET8--6Zs31fE&tbo=u&sa=X&ved=2ahUKEwidjamPlYHgAhUFPFAKHbbgD28Q9C96BAgBEBs)
 
 [Get help](https://support.google.com/websearch/?p=m_ws_serp_gethelp)-[Send feedback](https://www.google.com/search?q=matheme+objet+petit+a&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjYtsj-lIHgAhUIElAKHVoLDW4Q_AUIDigB&biw=1375&bih=1050#)
 
-[(image/png)](https://opengeography.wordpress.com/2017/08/15/the-terminal-subject/)289 × 211-Images may be subject to copyright. [Find out more](https://support.google.com/legal/answer/3463239?sa=X&ved=2ahUKEwjBkryAlYHgAhVPb1AKHaj6AegQlZ0DegQIARAC)
+[(image/png)](https://opengeography.wordpress.com/2017/08/15/the-terminal-subject/)289 × 211-Images may be subject to copyright. [Find out more](https://support.google.com/legal/answer/3463239?sa=X&ved=2ahUKEwjBkryAlYHgAhVPb1AKHaj6AegQlZ0DegQIARAC)
 
 [The “terminal” subject | Open Geography](https://opengeography.wordpress.com/2017/08/15/the-terminal-subject/)[Open Geography - WordPress.com](https://opengeography.wordpress.com/2017/08/15/the-terminal-subject/)matheme
 

@@ -40,7 +40,7 @@ production facility:
 building extersor production: building a netvorschläge leichtbauhallen:
 htc
 
-ausbaubare Leichtbauhalle: module in unterschiedlichen grössen: nachträglich isolierbar :: winter:: min 23ºC  | sommer bis 30
+ausbaubare Leichtbauhalle: module in unterschiedlichen grössen: nachträglich isolierbar :: winter:: min 23ºC  | sommer bis 30
 
 LED beleuchtung:
 [* ]

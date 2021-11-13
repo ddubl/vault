@@ -2,12 +2,12 @@
 id: FIwAH9k0T7fy1UNvP4nLv
 title: Akuma
 desc: ''
-updated: 1636316986020
+updated: 1636467165457
 created: 1633199321549
 stub: true
 ---
 
-## Situations
+### Situations
 throw
   .forward::{}
     .dash::{-4,pb}
@@ -23,9 +23,9 @@ demons:
   empty df-demon
   wakeup dp/teleport/demon  OS
 
-## Resources
+### Resources
 [discord](discord://245028468000030722)
 
-## vs
-### guile
+### vs
+#### guile
 evade baby-boom: backjump.mP xx l.tatsu?

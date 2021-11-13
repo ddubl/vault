@@ -33,11 +33,11 @@ Here's an example... I want the. parent class to receive the font-size: 0px line
 asked Apr 22 '13 at 15:16
 [(image/png)](http://stackoverflow.com/users/2307944/macbryce)[MacBryce](http://stackoverflow.com/users/2307944/macbryce)53212
 
-Setting the font-size to 0px is an unreliable way of removing undesirable spaces. If the user has forced a minimum font-size in their browser, there's nothing you can do about it. – [cimmanon](http://stackoverflow.com/users/1652962/cimmanon) [Apr 22 '13 at 15:33](http://stackoverflow.com/questions/16150621/access-the-parent-selector-from-within-a-sass-mixin#comment23076860_16150621)
+Setting the font-size to 0px is an unreliable way of removing undesirable spaces. If the user has forced a minimum font-size in their browser, there's nothing you can do about it. – [cimmanon](http://stackoverflow.com/users/1652962/cimmanon) [Apr 22 '13 at 15:33](http://stackoverflow.com/questions/16150621/access-the-parent-selector-from-within-a-sass-mixin#comment23076860_16150621)
 
-I've seen it a couple of times to make sure that the inline-blocks do not get extra spaces in between them when there are line breaks in the HTML. What would be a better solution for that problem then? – [MacBryce](http://stackoverflow.com/users/2307944/macbryce) [Apr 22 '13 at 16:43](http://stackoverflow.com/questions/16150621/access-the-parent-selector-from-within-a-sass-mixin#comment23079312_16150621)
+I've seen it a couple of times to make sure that the inline-blocks do not get extra spaces in between them when there are line breaks in the HTML. What would be a better solution for that problem then? – [MacBryce](http://stackoverflow.com/users/2307944/macbryce) [Apr 22 '13 at 16:43](http://stackoverflow.com/questions/16150621/access-the-parent-selector-from-within-a-sass-mixin#comment23079312_16150621)
 
-I comment out the whitespace in the HTML itself. The only reliable way to do it with CSS is for the element to not be inline (either via float, table-cell, as a flex element via Flexbox, etc). – [cimmanon](http://stackoverflow.com/users/1652962/cimmanon) [Apr 22 '13 at 16:53](http://stackoverflow.com/questions/16150621/access-the-parent-selector-from-within-a-sass-mixin#comment23079636_16150621)
+I comment out the whitespace in the HTML itself. The only reliable way to do it with CSS is for the element to not be inline (either via float, table-cell, as a flex element via Flexbox, etc). – [cimmanon](http://stackoverflow.com/users/1652962/cimmanon) [Apr 22 '13 at 16:53](http://stackoverflow.com/questions/16150621/access-the-parent-selector-from-within-a-sass-mixin#comment23079636_16150621)
 
 add a comment
 
@@ -192,7 +192,7 @@ How to apply? Well, I don't know exactly in SASS, but in LESS it would be
 answered Apr 22 '13 at 16:15
 [(image/jpeg)](http://stackoverflow.com/users/476951/herrserker)[HerrSerker](http://stackoverflow.com/users/476951/herrserker)14.4k54073
 
-Thanks! Looking forward to CSS4. – [MacBryce](http://stackoverflow.com/users/2307944/macbryce) [Apr 23 '13 at 12:32](http://stackoverflow.com/questions/16150621/access-the-parent-selector-from-within-a-sass-mixin#comment23109423_16151795)
+Thanks! Looking forward to CSS4. – [MacBryce](http://stackoverflow.com/users/2307944/macbryce) [Apr 23 '13 at 12:32](http://stackoverflow.com/questions/16150621/access-the-parent-selector-from-within-a-sass-mixin#comment23109423_16151795)
 
 add a comment
 

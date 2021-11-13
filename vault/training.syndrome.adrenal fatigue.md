@@ -32,7 +32,7 @@ created: 1633199319485
 
 adrenal maladaption — Addison’s Disease
 
-IgE - immunoglobulin E (true allergy) || IgG - immunoglobulin G (delayed allergy)
+IgE - immunoglobulin E (true allergy) || IgG - immunoglobulin G (delayed allergy)
 
 leaky gut syndrome
 increased permeability: toxins, undigested proteins etc. in bloodstream

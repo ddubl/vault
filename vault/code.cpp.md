@@ -14,11 +14,11 @@ Pointer dereference and access operation included in c++ for linked list and tre
 allows access to member variables of a structure, class or union data type.
 
 struct Node {
-    int val;
-    Node *next;
+    int val;
+    Node *next;
 } *root;
 
 accessing 3rd element and assigning 100:
-    root->next->next->val = 100;
+    root->next->next->val = 100;
 
 ####

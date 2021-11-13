@@ -421,13 +421,13 @@ Coach Sommer
 
 [](https://www.gymnasticbodies.com/forum/topic/281-manna-an-advanced-static-strength-element/?do=findComment&comment=5689)[Posted October 24, 2008](https://www.gymnasticbodies.com/forum/topic/281-manna-an-advanced-static-strength-element/?do=findComment&comment=5689)
 
-> [ ](https://www.gymnasticbodies.com/forum/topic/281-manna-an-advanced-static-strength-element/#) Coach Sommer said:
+> [ ](https://www.gymnasticbodies.com/forum/topic/281-manna-an-advanced-static-strength-element/#) Coach Sommer said:
 > A high manna is out of reach of all but a very few athletes in the entire world. Ironically, the athlete in the video is also capable of a high manna.
-> 
+>
 > I tend to train mannas by blocks of time rather than for a particular static hold; by that I mean that my athletes will focus on the movement for 5-10 minutes, two to three times a week.
-> 
+>
 > Yours in Fitness,
-> 
+>
 > Coach Sommer
 
 Hey, one question..If that is true..Why are alot of bboys able to do them?(not most of them but a decent amount)..but what i notice is that they do them with legs open.

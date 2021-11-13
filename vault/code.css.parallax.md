@@ -7,10 +7,10 @@ created: 1633199319576
 ---
 # Creating Scrolling Parallax Effects with CSS
 
-By [Stefan Judis](http://4waisenkinder.de/) on June 9, 2014  
+By [Stefan Judis](http://4waisenkinder.de/) on June 9, 2014
 While this solution is elegant on desktop computers, it **does not** function on mobile devices. To create a mobile-compatible pure CSS parallax scrolling effect, [please visit this post by Keith Clark](http://blog.keithclark.co.uk/pure-css-parallax-websites/).
 
-*I generally dislike ESPN because they're the McDonalds of sports news but they recently did a [piece on Luis Suarez](http://espn.go.com/espn/feature/story/_/id/10984370/portrait-serial-winner-luis-suarez-soccer-most-beautiful-player) that was eye-catching.  The content itself was great but their use of parallax and imagery was outstanding.  They've employed this technique in a few of their features now and I've been so impressed that I implored my readers to write about how it's done.  The following is a post principally written by Stefan Judis with detail added by myself.  Enjoy!*
+*I generally dislike ESPN because they're the McDonalds of sports news but they recently did a [piece on Luis Suarez](http://espn.go.com/espn/feature/story/_/id/10984370/portrait-serial-winner-luis-suarez-soccer-most-beautiful-player) that was eye-catching.  The content itself was great but their use of parallax and imagery was outstanding.  They've employed this technique in a few of their features now and I've been so impressed that I implored my readers to write about how it's done.  The following is a post principally written by Stefan Judis with detail added by myself.  Enjoy!*
 
 ## Introduction
 

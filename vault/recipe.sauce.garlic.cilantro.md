@@ -11,7 +11,7 @@ created: 1633199321490
 * 1 lime, juice of
 * 1 tbsp dry white wine
 * 3 tbsp olive oil
-* 2 tbsp chili sauce [like this one](http://amzn.to/2dPqmW1)
+* 2 tbsp chili sauce [like this one](http://amzn.to/2dPqmW1)
 
 ### INSTRUCTIONS
 

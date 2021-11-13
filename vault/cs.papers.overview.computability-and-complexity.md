@@ -106,16 +106,16 @@ We next define the class of *Primitive Recursive Functions*. This is a very inte
 
 We begin with the three *initial* primitive recursive functions:
 
-* \(\zeta\), the zero function of arity \(0, \zeta\)( ) \(= 0\);
+* \(\zeta\), the zero function of arity \(0, \zeta\)( ) \(= 0\);
 * \(\eta\), the identity function of arity \(1, \eta(n) = n\); and,
 * \(\sigma\), the successor function of arity \(1, \sigma(n) = n +1\).
 
 Now consider the following two operations:
 
 * **Composition**: if \(f\) is a primitive recursive function of arity \(a\), and \(g_{1}, \ldots ,g_{a}\) are primitive recursive functions of arities \(r_{1}, \ldots ,r_{a}\), and \(k\in \mathbf{N}\), then the following is a primitive recursive function of arity \(k\): \[ h(x_{1}, \ldots ,x_{k}) = f(g_{1}(w_{1}), \ldots ,g_{a}(w_{a})), \]
-    
+
     where each \(w_{i}\) is a list of \(r_{i}\) arguments, perhaps with repetition, from \(x_{1}, \ldots ,x_{k}\); and,
-    
+
 * **Primitive recursion**: if \(f\) and \(g\) are primitive recursive functions of arity \(k\) and \(k+2\), respectively, then there is a primitive recursive function, \(h\), of arity \(k+1\) satisfying the following conditions: \[\begin{align} h(0,x_{1},\ldots ,x_{k}) &= f(x_{1},\ldots ,x_{k}); \text{ and,} \\ h(n+1,x_{1},\ldots ,x_{k}) &= g(h(n,x_{1},\ldots ,x_{k}), n,x_{1},\ldots ,x_{k}). \end{align}\]
 
 Here composition is the natural way to combine functions, and primitive recursion is a restricted kind of recursion in which \(h\) with first argument \(n+1\) is defined in terms of \(h\) with first argument \(n\), and all the other arguments unchanged.

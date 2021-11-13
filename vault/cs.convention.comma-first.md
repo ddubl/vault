@@ -21,206 +21,206 @@ A better coding convention for lists and object literals in JavaScript
 
 // standard style
 var a = "ape",
-  b = "bat",
-  c = "cat",
-  d = "dog",
-  e = "elf",
-  f = "fly",
-  g = "gnu",
-  h = "hat",
-  i = "ibu";
+  b = "bat",
+  c = "cat",
+  d = "dog",
+  e = "elf",
+  f = "fly",
+  g = "gnu",
+  h = "hat",
+  i = "ibu";
 
 // comma-first style
 var a = "ape"
-  , b = "bat"
-  , c = "cat"
-  , d = "dog"
-  , e = "elf"
-  , f = "fly"
-  , g = "gnu"
-  , h = "hat"
-  , i = "ibu"
-  ;
+  , b = "bat"
+  , c = "cat"
+  , d = "dog"
+  , e = "elf"
+  , f = "fly"
+  , g = "gnu"
+  , h = "hat"
+  , i = "ibu"
+  ;
 
 // error in standard style
 var a = "ape",
-  b = "bat",
-  c = "cat",
-  d = "dog"
-  e = "elf",
-  f = "fly",
-  g = "gnu",
-  h = "hat",
-  i = "ibu";
+  b = "bat",
+  c = "cat",
+  d = "dog"
+  e = "elf",
+  f = "fly",
+  g = "gnu",
+  h = "hat",
+  i = "ibu";
 
 // error in comma-first style
 var a = "ape"
-  , b = "bat"
-  , c = "cat"
-  , d = "dog"
-  e = "elf"
-  , f = "fly"
-  , g = "gnu"
-  , h = "hat"
-  , i = "ibu"
-  ;
+  , b = "bat"
+  , c = "cat"
+  , d = "dog"
+  e = "elf"
+  , f = "fly"
+  , g = "gnu"
+  , h = "hat"
+  , i = "ibu"
+  ;
 
 // Objects:
 
 // JSON.stringify style
 var o = {
-    a : "ape",
-    b : "bat",
-    c : "cat",
-    d : "dog",
-    e : "elf",
-    f : "fly",
-    g : "gnu",
-    h : "hat",
-    i : "ibu"
-  },
-  a = [
-    [ "ape", "bat" ],
-    [ "cat", "dog" ],
-    [ "elf", "fly" ],
-    [ "gnu", "hat" ],
-    [ "ibu" ]
-  ];
+    a : "ape",
+    b : "bat",
+    c : "cat",
+    d : "dog",
+    e : "elf",
+    f : "fly",
+    g : "gnu",
+    h : "hat",
+    i : "ibu"
+  },
+  a = [
+    [ "ape", "bat" ],
+    [ "cat", "dog" ],
+    [ "elf", "fly" ],
+    [ "gnu", "hat" ],
+    [ "ibu" ]
+  ];
 
 // comma-first
 var o =
-    { a : "ape"
-    , b : "bat"
-    , c : "cat"
-    , d : "dog"
-    , e : "elf"
-    , f : "fly"
-    , g : "gnu"
-    , h : "hat"
-    , i : "ibu"
-    }
-  , a =
-    [ [ "ape", "bat" ]
-    , [ "cat", "dog" ]
-    , [ "elf", "fly" ]
-    , [ "gnu", "hat" ]
-    , [ "ibu" ]
-    ];
+    { a : "ape"
+    , b : "bat"
+    , c : "cat"
+    , d : "dog"
+    , e : "elf"
+    , f : "fly"
+    , g : "gnu"
+    , h : "hat"
+    , i : "ibu"
+    }
+  , a =
+    [ [ "ape", "bat" ]
+    , [ "cat", "dog" ]
+    , [ "elf", "fly" ]
+    , [ "gnu", "hat" ]
+    , [ "ibu" ]
+    ];
 
 // errors in objects:
 
 // JSON.stringify style
 var o = {
-    a : "ape",
-    b : "bat",
-    c : "cat",
-    d : "dog"
-    e : "elf",
-    f : "fly",
-    g : "gnu",
-    h : "hat",
-    i : "ibu"
-  },
-  a = [
-    [ "ape", "bat" ],
-    [ "cat", "dog" ],
-    [ "elf", "fly" ]
-    [ "gnu", "hat" ],
-    [ "ibu" ]
-  ];
+    a : "ape",
+    b : "bat",
+    c : "cat",
+    d : "dog"
+    e : "elf",
+    f : "fly",
+    g : "gnu",
+    h : "hat",
+    i : "ibu"
+  },
+  a = [
+    [ "ape", "bat" ],
+    [ "cat", "dog" ],
+    [ "elf", "fly" ]
+    [ "gnu", "hat" ],
+    [ "ibu" ]
+  ];
 
 // comma-first
 var o =
-    { a : "ape"
-    , b : "bat"
-    , c : "cat"
-    , d : "dog"
-    e : "elf"
-    , f : "fly"
-    , g : "gnu"
-    , h : "hat"
-    , i : "ibu"
-    }
-  , a =
-    [ [ "ape", "bat" ]
-    , [ "cat", "dog" ]
-    , [ "elf", "fly" ]
-    [ "gnu", "hat" ]
-    , [ "ibu" ]
-    ];
+    { a : "ape"
+    , b : "bat"
+    , c : "cat"
+    , d : "dog"
+    e : "elf"
+    , f : "fly"
+    , g : "gnu"
+    , h : "hat"
+    , i : "ibu"
+    }
+  , a =
+    [ [ "ape", "bat" ]
+    , [ "cat", "dog" ]
+    , [ "elf", "fly" ]
+    [ "gnu", "hat" ]
+    , [ "ibu" ]
+    ];
 
 // Addendum: effects on the return statement.
 // It does not break.
 
 return [ 1
-       , 2
-       , 3
-       ] // returns [1,2,3]
+       , 2
+       , 3
+       ] // returns [1,2,3]
 
 return { a : "ape"
-       , b : "bat"
-       } // returns {a:"ape",b:"bat"}
+       , b : "bat"
+       } // returns {a:"ape",b:"bat"}
 
 // even just separating two values by commas is fine,
 // though a bit silly
 return 1
-     , 2
-     , 3
-     , 4 // returns the last value, 4
+     , 2
+     , 3
+     , 4 // returns the last value, 4
 
 // this, however is wrong:
 return
-    1
-  , 2 // returns undefined, because of semicolon-insertion.
+    1
+  , 2 // returns undefined, because of semicolon-insertion.
 
 // so is this. otb == fail.
 return
-  { a : "ape"
-  , b : "bat"
-  } // returns undefined,
-    // then creates a block with two named statements.
+  { a : "ape"
+  , b : "bat"
+  } // returns undefined,
+    // then creates a block with two named statements.
 
 // this is ok:
 return ( 1
-       , 2
-       ) // returns 2
+       , 2
+       ) // returns 2
 
 // so is this:
 return (
-  { a : "ape"
-  , b : "bat"
-  }
+  { a : "ape"
+  , b : "bat"
+  }
 ) // returns {a:"ape",b:"bat"}
 
 // Addendum 2: A function call
 
 doSomething( aPrettyLongVariableName
-           , "A string, which has some useful information"
-           , "If you put these all together, it'd be too long"
-           , { a: "is for antelope", b: "is for bat" }
-           , 42
-           )
+           , "A string, which has some useful information"
+           , "If you put these all together, it'd be too long"
+           , { a: "is for antelope", b: "is for bat" }
+           , 42
+           )
 
 // Addendum 3: More realistic error in standard style:
 
 // leaks FIVE globals!
 var a = "ape eat banana",
-  b = "bat, allowed to fly",
-  c = "cat toy",
-  d = "dog chasing the mailman,"
-  e = "elf lord",
-  f = "fly through the air",
-  g = "gnu is not unix",
-  h = "hat goes on your head",
-  i = "ibu isn't a cow";
+  b = "bat, allowed to fly",
+  c = "cat toy",
+  d = "dog chasing the mailman,"
+  e = "elf lord",
+  f = "fly through the air",
+  g = "gnu is not unix",
+  h = "hat goes on your head",
+  i = "ibu isn't a cow";
 
 // Error: Can't call method 'forEach' of undefined.
 // not passing in undefined as an argument!??
 mergeLists([ apple, [ penelope, granger ] ],
-           [ fun ],
-           [ 1, 2, 3, 4, 5, 6, 7, 8 ]
-           [ "mary's store has many pies, and cookies, and eggs," ]
-           [ function() { doSomething() } ]);
+           [ fun ],
+           [ 1, 2, 3, 4, 5, 6, 7, 8 ]
+           [ "mary's store has many pies, and cookies, and eggs," ]
+           [ function() { doSomething() } ]);
 
 Note how the errors pop out in the comma-first style.
 

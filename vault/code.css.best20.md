@@ -92,7 +92,7 @@ Collection of Preloaders (image/jpeg)
 You'll receive:
 
 * good documentation to use for easy customization
-    
+
 * a lightweight and flexible set of CSS3 animations
 * 27 unique preloaders
 
@@ -155,7 +155,7 @@ Some of the features include:
 * fully responsive
 * and more
 
-Using an all grid system and touch-enabled for mobile use, [Viavi CSS3 Scroll Effects](https://codecanyon.net/item/viavi-css3-scroll-effects/14234524) not only looks good, but is also well implemented.
+Using an all grid system and touch-enabled for mobile use, [Viavi CSS3 Scroll Effects](https://codecanyon.net/item/viavi-css3-scroll-effects/14234524) not only looks good, but is also well implemented.
 
 ## 10. [CSS3 Spinners & Loaders](https://codecanyon.net/item/css3-spinners-loaders/15488874)
 
@@ -260,7 +260,7 @@ It includes more than:
 * 23 button transition effects
 * 100 hover effects
 
-Without using JavaScript or jQuery, and using pure CSS, [Sinister - Pure CSS Image Hover Effects](https://codecanyon.net/item/sinister-pure-css-image-hover-effects/6510972) presents:
+Without using JavaScript or jQuery, and using pure CSS, [Sinister - Pure CSS Image Hover Effects](https://codecanyon.net/item/sinister-pure-css-image-hover-effects/6510972) presents:
 
 * zoom-in and zoom-out
 * rotate X and rotate y
@@ -302,7 +302,7 @@ Features include:
 
 Will you add [CSS3 Animations](https://codecanyon.net/item/css3-animations/4173203) to your design toolbox?
 
-## 19. [Pure CSS3 Image Accordion](https://codecanyon.net/item/pure-css3-image-accordion/3895607)
+## 19. [Pure CSS3 Image Accordion](https://codecanyon.net/item/pure-css3-image-accordion/3895607)
 
 Build out your own slider setup or similar using Pure CSS3 Image Accordion for some good-looking CSS animations.
 
@@ -317,7 +317,7 @@ It is:
 
 Make some visual music with this [Pure CSS3 Image Accordion](https://codecanyon.net/item/pure-css3-image-accordion/3895607).
 
-## 20. [CSS3 Mega Tooltip Animation Pack](https://codecanyon.net/item/css3-mega-tooltip-animation-pack/2557230)
+## 20. [CSS3 Mega Tooltip Animation Pack](https://codecanyon.net/item/css3-mega-tooltip-animation-pack/2557230)
 
 Tired of simple tooltips?
 
@@ -340,7 +340,7 @@ Even with a lot of different CSS animations available at [Envato Market](https:/
 
 Not a problem. You can build your own!
 
-Check out Envato eBooks like [Mastering CSS3](https://code.tutsplus.com/ebooks/mastering-css3), take one of the many different [code courses](https://code.tutsplus.com/courses) offered, or find and follow a stellar [CSS3 Code Tutorial](https://code.tutsplus.com/categories/css3).
+Check out Envato eBooks like [Mastering CSS3](https://code.tutsplus.com/ebooks/mastering-css3), take one of the many different [code courses](https://code.tutsplus.com/courses) offered, or find and follow a stellar [CSS3 Code Tutorial](https://code.tutsplus.com/categories/css3).
 
 [Eric dye (image/jpeg)Eric Dye
 Writer / Italy

@@ -25,7 +25,7 @@ To support this odd hack, the JavaScript engine in your browser treats the chara
 
 As it happens, [this style of comment is standardized for the first time in ES6.](http://people.mozilla.org/~jorendorff/es6-draft.html#sec-html-like-comments) But this isn’t the arrow we’re here to talk about.
 
-The arrow sequence `-->` also denotes a one-line comment. Weirdly, while in HTML characters *before* the `-->` are part of the comment, in JS the rest of the line *after* the `-->` is a comment.
+The arrow sequence `-->` also denotes a one-line comment. Weirdly, while in HTML characters *before* the `-->` are part of the comment, in JS the rest of the line *after* the `-->` is a comment.
 
 It gets stranger. This arrow indicates a comment *only* when it appears at the start of a line. That’s because in other contexts, `-->` is an operator in JS, the “goes to” operator!
 
@@ -263,4 +263,4 @@ ES6 arrow functions were implemented in Firefox by me, back in 2013. Jan de Mooi
 
 Arrow functions are also implemented in the Microsoft Edge preview release. They’re also available in [Babel](http://babeljs.io/), [Traceur](https://github.com/google/traceur-compiler#what-is-traceur), and [TypeScript](http://www.typescriptlang.org/), in case you’re interested in using them on the Web right now.
 
-Our next topic is one of the stranger features in ES6. We’ll get to see `typeof x` return a totally new value. We’ll ask: When is a name not a string? We’ll puzzle over the meaning of equality. It’ll be weird. So please join us next week as we look at ES6 symbols in depth.
+Our next topic is one of the stranger features in ES6. We’ll get to see `typeof x` return a totally new value. We’ll ask: When is a name not a string? We’ll puzzle over the meaning of equality. It’ll be weird. So please join us next week as we look at ES6 symbols in depth.

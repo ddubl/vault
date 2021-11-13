@@ -301,13 +301,13 @@ Each dendritic segment is initialized to contain a random set of potential synap
 
 A cell in the input layer is predicted if any of its basal distal segments have sufficient activity:
 
-πinij={1if ∃d(L·˜Dijd,in≥θinb)>00otherwise(1)
+πinij={1if ∃d(L·˜Dijd,in≥θinb)>00otherwise(1)
 
 where θinb is the activation threshold of the basal distal dendrite of an input cell.
 
 For the input layer, all the cells in a mini-column share the same feedforward receptive fields. Following ([Hawkins and Ahmad, 2016](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full#B32)) we assume that an inhibitory process selects a set of *s* mini-columns that best match the current feedforward input pattern. We denote this winner set as **W***in*. The set of active input layer cells is calculated as follows:
 
-ainij={1ifj∈Win and πinij>01ifj∈Win and ∑iπinij=00otherwise(2)
+ainij={1ifj∈Win and πinij>01ifj∈Win and ∑iπinij=00otherwise(2)
 
 The first conditional states that predicted cells in a winning mini-column becoming winners and become active. If no cell in a mini-column is predicted, all cells in that mini-column become active (second conditional).
 
@@ -321,7 +321,7 @@ Wout,t={k|oout,tk≥θout}(4)
 
 where θout is a threshold. We then select the active cells using the number of active basal segments as a sorting function:
 
-aout,ti={1 ifi∈Wout,t and ρout,t−1i≥ξoutt−10 otherwise(5)
+aout,ti={1 ifi∈Wout,t and ρout,t−1i≥ξoutt−10 otherwise(5)
 
 where ρout,t−1i=∑dI[˜Aout·˜Did,out≥θoutb] represents the number of active basal segments in the previous time step, and the *s*th highest number of active basal segments is denoted as ξoutt. θoutb is the activation threshold of the basal distal dendrite of an output cell. *I*[] is the indicator function, and *s* is the minimum desired number of active neurons. If the number of cells with lateral support is less than *s* in a cortical column, ξout,ct would be zero and all cells with enough feedforward input will become active. Note that we used a modified version of the original HTM neuron model in the output layer by considering the effect of multiple active basal segments.
 

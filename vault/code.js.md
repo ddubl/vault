@@ -10,37 +10,37 @@ stub: true
 
 `A promise is defined as an object that has a function as the value for the property then`
 
-Events aren't always the best way [ **By** [Jake](https://developers.google.com/web/resources/contributors#jakearchibald) [](https://developers.google.com/web/resources/contributors#jakearchibald) [Archibald](https://developers.google.com/web/resources/contributors#jakearchibald)]
+Events aren't always the best way [ **By** [Jake](https://developers.google.com/web/resources/contributors#jakearchibald) [](https://developers.google.com/web/resources/contributors#jakearchibald) [Archibald](https://developers.google.com/web/resources/contributors#jakearchibald)]
 
 Events are great for things that can happen multiple times on the same object—keyup, touchstart etc. With those events you don't really care about what happened before you attached the listener. But when it comes to async success/failure, ideally you want something like this:
 
-img1.callThisIfLoadedOrWhenLoaded(function() {
-  // loaded
+img1.callThisIfLoadedOrWhenLoaded(function() {
+  // loaded
 
-}).orIfFailedCallThis(function() {
+}).orIfFailedCallThis(function() {
 
-  // failed
+  // failed
 
 });
 
-// and…
+// and…
 
-whenAllTheseHaveLoaded([img1, img2]).callThis(function() {
+whenAllTheseHaveLoaded([img1, img2]).callThis(function() {
 
-  // all loaded
+  // all loaded
 
-}).orIfSomeFailedCallThis(function() {
+}).orIfSomeFailedCallThis(function() {
 
-  // one or more failed
+  // one or more failed
 });
 
 img1.ready().then(function() {
 
-  // loaded
+  // loaded
 
 }, function() {
 
-  // failed
+  // failed
 
 });
 
@@ -48,17 +48,17 @@ img1.ready().then(function() {
 
 Promise.all([img1.ready(), img2.ready()]).then(function() {
 
-  // all loaded
+  // all loaded
 
 }, function() {
 
-  // one or more failed
+  // one or more failed
 
 });
 
 At their most basic, promises are a bit like event listeners except:
 
-* A promise can only succeed or fail once. It cannot succeed or fail twice, neither can it switch from success to failure or vice versa.
+* A promise can only succeed or fail once. It cannot succeed or fail twice, neither can it switch from success to failure or vice versa.
 * If a promise has succeeded or failed and you later add a success/failure callback, the correct callback will be called, even though the event took place earlier.
 
 This is extremely useful for async success/failure, because you're less interested in the exact time something became available, and more interested in reacting to the outcome.
@@ -71,18 +71,18 @@ States
 
 Promises have three possible mutually exclusive states: fulfilled, rejected, and pending.
 
-* A promise is *fulfilled* if promise.then(f) will call f "as soon as possible."
-* A promise is *rejected* if promise.then(undefined, r) will call r "as soon as possible."
-* A promise is *pending* if it is neither fulfilled nor rejected.
+* A promise is *fulfilled* if promise.then(f) will call f "as soon as possible."
+* A promise is *rejected* if promise.then(undefined, r) will call r "as soon as possible."
+* A promise is *pending* if it is neither fulfilled nor rejected.
 
-We say that a promise is *settled* if it is not pending, i.e. if it is either fulfilled or rejected. Being settled is not a state, just a linguistic convenience.
+We say that a promise is *settled* if it is not pending, i.e. if it is either fulfilled or rejected. Being settled is not a state, just a linguistic convenience.
 
 Fates
 
 Promises have two possible mutually exclusive fates: resolved, and unresolved.
 
-* A promise is *resolved* if trying to resolve or reject it has no effect, i.e. the promise has been "locked in" to either follow another promise, or has been fulfilled or rejected.
-* A promise is *unresolved* if it is not resolved, i.e. if trying to resolve or reject it will have an impact on the promise.
+* A promise is *resolved* if trying to resolve or reject it has no effect, i.e. the promise has been "locked in" to either follow another promise, or has been fulfilled or rejected.
+* A promise is *unresolved* if it is not resolved, i.e. if trying to resolve or reject it will have an impact on the promise.
 
 A promise can be "resolved to" either a promise or thenable, in which case it will store the promise or thenable for later unwrapping; or it can be resolved to a non-promise value, in which case it is fulfilled with that value.
 
@@ -107,14 +107,14 @@ A promise's fate is stored implicitly as part of its "resolving functions."
 ##Why the jQuery implementation is broken: On deferreds and the 'Promise-Type'
 
 ###The commonJS Promise/A
-     [...] To fix this and other problems (as we’ll see) with callbacks style of code, a specification has been proposed and it is known under the name CommonJS Promises/A. Let’s see what it says:
+     [...] To fix this and other problems (as we’ll see) with callbacks style of code, a specification has been proposed and it is known under the name CommonJS Promises/A. Let’s see what it says:
 A promise represents the eventual value returned from the single completion of an operation. A promise may be in one of the three states, unfulfilled, fulfilled, and failed. The promise may only move from unfulfilled to fulfilled, or unfulfilled to failed. Once a promise is fulfilled or failed, the promise’s value MUST not be changed, just as a values in JavaScript, primitives and object identities, can not change (although objects themselves may always be mutable even if their identity isn’t). The immutable characteristic of promises are important for avoiding side-effects from listeners that can create unanticipated changes in behavior and allows promises to be passed to other functions without affecting the caller, in same way that primitives can be passed to functions without any concern that the caller’s variable will be modified by the callee.
 […]
 
-in [Domenic]'s Words: Promises are a software abstraction that makes working with asynchronous operations much more pleasant. In the most basic definition, your code will move from continuation-passing style:
+in [Domenic]'s Words: Promises are a software abstraction that makes working with asynchronous operations much more pleasant. In the most basic definition, your code will move from continuation-passing style:
 
 <code>getTweetsFor("domenic", function (err, results) {
-  // the rest of your code goes here.});
+  // the rest of your code goes here.});
 </code>
 to one where your functions return a value, called a promise, which represents the eventual results of that operation.
 
@@ -144,30 +144,30 @@ And, if you have a correctly implemented then function that follows Promises/A, 
 In other words, the following asynchronous code:
 
 getTweetsFor("domenic") // promise-returning function
-  .then(function (tweets) {
-  var shortUrls = parseTweetsForUrls(tweets);
-  var mostRecentShortUrl = shortUrls[0];
-  return expandUrlUsingTwitterApi(mostRecentShortUrl); // promise-returning function
-  })
-  .then(httpGet) // promise-returning function
-  .then(
-  function (responseBody) {
-  console.log("Most recent link text:", responseBody);
-  },
-  function (error) {
-  console.error("Error with the twitterverse:", error);
-  }
-  );
+  .then(function (tweets) {
+  var shortUrls = parseTweetsForUrls(tweets);
+  var mostRecentShortUrl = shortUrls[0];
+  return expandUrlUsingTwitterApi(mostRecentShortUrl); // promise-returning function
+  })
+  .then(httpGet) // promise-returning function
+  .then(
+  function (responseBody) {
+  console.log("Most recent link text:", responseBody);
+  },
+  function (error) {
+  console.error("Error with the twitterverse:", error);
+  }
+  );
 
 parallels* the synchronous code:
 
 try {
-  var tweets = getTweetsFor("domenic"); // blocking
-  var shortUrls = parseTweetsForUrls(tweets);
-  var mostRecentShortUrl = shortUrls[0];
-  var responseBody = httpGet(expandUrlUsingTwitterApi(mostRecentShortUrl)); // blocking x 2
-  console.log("Most recent link text:", responseBody);} catch (error) {
-  console.error("Error with the twitterverse: ", error);}
+  var tweets = getTweetsFor("domenic"); // blocking
+  var shortUrls = parseTweetsForUrls(tweets);
+  var mostRecentShortUrl = shortUrls[0];
+  var responseBody = httpGet(expandUrlUsingTwitterApi(mostRecentShortUrl)); // blocking x 2
+  console.log("Most recent link text:", responseBody);} catch (error) {
+  console.error("Error with the twitterverse: ", error);}
 
 Note in particular how errors flowed from any step in the process to our catch handler, without explicit by-hand bubbling code. And with the upcoming ECMAScript 6 revision of JavaScript, plus some party tricks, the code becomes not only parallel but almost identical.
 
@@ -198,13 +198,13 @@ Promise States
 A promise must be in one of three states: pending, fulfilled, or rejected.
 
 - When pending, a promise:
-  - may transition to either the fulfilled or rejected state.
+  - may transition to either the fulfilled or rejected state.
 - When fulfilled, a promise:
-  - must not transition to any other state.
-  - must have a value, which must not change.
+  - must not transition to any other state.
+  - must have a value, which must not change.
 - When rejected, a promise:
-  - must not transition to any other state.
-  - must have a reason, which must not change.
+  - must not transition to any other state.
+  - must have a reason, which must not change.
 
 Here, "must not change" means immutable identity (i.e. ===), but does not imply deep immutability.
 
@@ -218,20 +218,20 @@ promise.then(onFulfilled, onRejected)
 
 - Both onFulfilled and onRejected are optional arguments:
 
-  - If onFulfilled is not a function, it must be ignored.
-  - If onRejected is not a function, it must be ignored.
+  - If onFulfilled is not a function, it must be ignored.
+  - If onRejected is not a function, it must be ignored.
 
 - If onFulfilled is a function:
 
-  - it must be called after promise is fulfilled, with promise's value as its first argument.
-  - it must not be called before promise is fulfilled.
-  - it must not be called more than once.
+  - it must be called after promise is fulfilled, with promise's value as its first argument.
+  - it must not be called before promise is fulfilled.
+  - it must not be called more than once.
 
 - If onRejected is a function,
 
-  - it must be called after promise is rejected, with promise's reason as its first argument.
-  - it must not be called before promise is rejected.
-  - it must not be called more than once.
+  - it must be called after promise is rejected, with promise's reason as its first argument.
+  - it must not be called before promise is rejected.
+  - it must not be called more than once.
 
 - onFulfilled or onRejected must not be called until the execution context stack contains only platform code. [3.1].
 
@@ -239,17 +239,17 @@ promise.then(onFulfilled, onRejected)
 
 - then may be called multiple times on the same promise.
 
-  - If/when promise is fulfilled, all respective onFulfilled callbacks must execute in the order of their originating calls to then.
-  - If/when promise is rejected, all respective onRejected callbacks must execute in the order of their originating calls to then.
+  - If/when promise is fulfilled, all respective onFulfilled callbacks must execute in the order of their originating calls to then.
+  - If/when promise is rejected, all respective onRejected callbacks must execute in the order of their originating calls to then.
 
 - then must return a promise [3.3].
 
 - promise2 = promise1.then(onFulfilled, onRejected);
 
-  - If either onFulfilled or onRejected returns a value x, run the Promise Resolution Procedure [[Resolve]](promise2, x).
-  - If either onFulfilled or onRejected throws an exception e, promise2 must be rejected with e as the reason.
-  - If onFulfilled is not a function and promise1 is fulfilled, promise2 must be fulfilled with the same value as promise1.
-  - If onRejected is not a function and promise1 is rejected, promise2 must be rejected with the same reason as promise1.
+  - If either onFulfilled or onRejected returns a value x, run the Promise Resolution Procedure [[Resolve]](promise2, x).
+  - If either onFulfilled or onRejected throws an exception e, promise2 must be rejected with e as the reason.
+  - If onFulfilled is not a function and promise1 is fulfilled, promise2 must be fulfilled with the same value as promise1.
+  - If onRejected is not a function and promise1 is rejected, promise2 must be rejected with the same reason as promise1.
 
 The Promise Resolution Procedure
 
@@ -261,20 +261,20 @@ To run [[Resolve]](promise, x), perform the following steps:
 
 - If promise and x refer to the same object, reject promise with a TypeError as the reason.
 - If x is a promise, adopt its state [3.4]:
-  - If x is pending, promise must remain pending until x is fulfilled or rejected.
-  - If/when x is fulfilled, fulfill promise with the same value.
-  - If/when x is rejected, reject promise with the same reason.
+  - If x is pending, promise must remain pending until x is fulfilled or rejected.
+  - If/when x is fulfilled, fulfill promise with the same value.
+  - If/when x is rejected, reject promise with the same reason.
 - Otherwise, if x is an object or function,
-  - Let then be x.then. [3.5]
-  - If retrieving the property x.then results in a thrown exception e, reject promise with e as the reason.
-  - If then is a function, call it with x as this, first argument resolvePromise, and second argument rejectPromise, where:
-  - If/when resolvePromise is called with a value y, run [[Resolve]](promise, y).
-  - If/when rejectPromise is called with a reason r, reject promise with r.
-  - If both resolvePromise and rejectPromise are called, or multiple calls to the same argument are made, the first call takes precedence, and any further calls are ignored.
-  - If calling then throws an exception e,
-  - If resolvePromise or rejectPromise have been called, ignore it.
-  - Otherwise, reject promise with e as the reason.
-  - If then is not a function, fulfill promise with x.
+  - Let then be x.then. [3.5]
+  - If retrieving the property x.then results in a thrown exception e, reject promise with e as the reason.
+  - If then is a function, call it with x as this, first argument resolvePromise, and second argument rejectPromise, where:
+  - If/when resolvePromise is called with a value y, run [[Resolve]](promise, y).
+  - If/when rejectPromise is called with a reason r, reject promise with r.
+  - If both resolvePromise and rejectPromise are called, or multiple calls to the same argument are made, the first call takes precedence, and any further calls are ignored.
+  - If calling then throws an exception e,
+  - If resolvePromise or rejectPromise have been called, ignore it.
+  - Otherwise, reject promise with e as the reason.
+  - If then is not a function, fulfill promise with x.
 - If x is not an object or function, fulfill promise with x.
 
 If a promise is resolved with a thenable that participates in a circular thenable chain, such that the recursive nature of [[Resolve]](promise, thenable) eventually causes [[Resolve]](promise, thenable) to be called again, following the above algorithm will lead to infinite recursion. Implementations are encouraged, but not required, to detect such recursion and reject promise with an informative TypeError as the reason. [3.6]

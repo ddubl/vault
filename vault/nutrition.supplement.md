@@ -19,7 +19,7 @@ Glutamine
 Phosphatidylic acid
 Glutamine
 BCAA's
-Creatine (Vitargo) 
+Creatine (Vitargo)
 [different mTor acceptor)
 (anti catabolic/anabolic substances)
 

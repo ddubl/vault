@@ -2,7 +2,7 @@
 id: VwdOBNbOVPS9GnqCmpKN7
 title: tmux
 desc: ''
-updated: 1633199321516
+updated: 1636456903553
 created: 1633199321516
 ---
 # A tmux cheat sheet
@@ -14,18 +14,18 @@ thought I'd share that here.
 The cheat sheet has a few things that are specific to my configuration file,
 so to begin with, here is my ~/.tmux.conf file:
 
-# use | and - to split the windows
+## use | and - to split the windows
 
 bind-key | split-window -h
 bind-key - split-window -v
 
-# make the first window number start at 1
+## make the first window number start at 1
 
 set -g base-index 1
 
-# from http://endot.org/2011/12/06/my-tmux-configuration/
+## from http://endot.org/2011/12/06/my-tmux-configuration/
 
-# keybindings to make resizing easier
+## keybindings to make resizing easier
 
 bind -r C-h resize-pane -L
 bind -r C-j resize-pane -D
@@ -45,7 +45,7 @@ next pane| ^b o
 previous pane| ^b ;
 show pane numbers| ^b q
 move pane left| ^b {
-move pane right| ^b {  
+move pane right| ^b {
 swap pane locations| ^b ^o
 | resize pane down| ^b ^j or ^b : resize-pane XX
 resize pane up| ^b ^k or ^b : resize-pane -U XX

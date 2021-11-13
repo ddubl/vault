@@ -62,7 +62,7 @@ In [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5), known [f
 
 @namespace [<namespace-prefix>](https://developer.mozilla.org/en-US/docs/Web/CSS/@namespace#namespace-prefix)[?](https://developer.mozilla.org/en-US/docs/CSS/Value_definition_syntax#Question_mark_()) [[](https://developer.mozilla.org/en-US/docs/CSS/Value_definition_syntax#Brackets) [<string>](https://developer.mozilla.org/en-US/docs/Web/CSS/string) [|](https://developer.mozilla.org/en-US/docs/CSS/Value_definition_syntax#Single_bar) [<url>](https://developer.mozilla.org/en-US/docs/Web/CSS/url) []](https://developer.mozilla.org/en-US/docs/CSS/Value_definition_syntax#Brackets);
 
-where 
+where
 `<namespace-prefix> = [<ident>](https://developer.mozilla.org/en-US/docs/Web/CSS/ident)`
 
 ## Specifications[**Edit](https://developer.mozilla.org/en-US/docs/Web/CSS/@namespace$edit#Specifications)
@@ -129,7 +129,7 @@ Namespace selector (|)
 
 ## Document Tags and Contributors
 
-** **Tags:** 
+** **Tags:**
 
 * [At-rule](https://developer.mozilla.org/en-US/docs/tag/At-rule)
 * [CSS](https://developer.mozilla.org/en-US/docs/tag/CSS)
@@ -137,8 +137,8 @@ Namespace selector (|)
 * [Reference](https://developer.mozilla.org/en-US/docs/tag/Reference)
 * [Web](https://developer.mozilla.org/en-US/docs/tag/Web)
 
-** **Contributors to this page:** [wbamberg](https://developer.mozilla.org/en-US/profiles/wbamberg), [erikadoyle](https://developer.mozilla.org/en-US/profiles/erikadoyle), [Tigt](https://developer.mozilla.org/en-US/profiles/Tigt), [fscholz](https://developer.mozilla.org/en-US/profiles/fscholz), [Sebastianz](https://developer.mozilla.org/en-US/profiles/Sebastianz), [soluml](https://developer.mozilla.org/en-US/profiles/soluml), [vtsatskin](https://developer.mozilla.org/en-US/profiles/vtsatskin), [kscarfone](https://developer.mozilla.org/en-US/profiles/kscarfone), [Np](https://developer.mozilla.org/en-US/profiles/Np)
-** **Last updated by:** [wbamberg](https://developer.mozilla.org/en-US/profiles/wbamberg), Aug 16, 2017, 10:38:06 PM
+** **Contributors to this page:** [wbamberg](https://developer.mozilla.org/en-US/profiles/wbamberg), [erikadoyle](https://developer.mozilla.org/en-US/profiles/erikadoyle), [Tigt](https://developer.mozilla.org/en-US/profiles/Tigt), [fscholz](https://developer.mozilla.org/en-US/profiles/fscholz), [Sebastianz](https://developer.mozilla.org/en-US/profiles/Sebastianz), [soluml](https://developer.mozilla.org/en-US/profiles/soluml), [vtsatskin](https://developer.mozilla.org/en-US/profiles/vtsatskin), [kscarfone](https://developer.mozilla.org/en-US/profiles/kscarfone), [Np](https://developer.mozilla.org/en-US/profiles/Np)
+** **Last updated by:** [wbamberg](https://developer.mozilla.org/en-US/profiles/wbamberg), Aug 16, 2017, 10:38:06 PM
 
 See also
 

@@ -10,7 +10,7 @@ Fermenting Beans And Legumes
 
 (image/png)
 
-Beans and legumes are notoriously wonderful as a cheap source of plant-based protein. They contain a variety of micronutrients as well, including B vitamins, iron, and calcium. Unfortunately, beans are also notorious for causing intestinal discomfort.
+Beans and legumes are notoriously wonderful as a cheap source of plant-based protein. They contain a variety of micronutrients as well, including B vitamins, iron, and calcium. Unfortunately, beans are also notorious for causing intestinal discomfort.
 
 ## WHY ARE BEANS DIFFICULT TO DIGEST?
 
@@ -49,7 +49,7 @@ All of these have the bacteria, and yeasts in the case of kombucha and milk or w
 
 Add about a tablespoon of culture to every cup of beans. Or, in the case of a powdered culture, use the recommended amount.
 
-Once the culture is added to the beans you need to break the skins of the beans in order for the culture to penetrate past the skins and into the starch. You can mash them, similar to refried beans, or you can gently bruise them just enough to break the skins. Then you can flavor them with herbs, spices, or onions and garlic. You then allow them to culture in a sealed container in a warm place for several days.
+Once the culture is added to the beans you need to break the skins of the beans in order for the culture to penetrate past the skins and into the starch. You can mash them, similar to refried beans, or you can gently bruise them just enough to break the skins. Then you can flavor them with herbs, spices, or onions and garlic. You then allow them to culture in a sealed container in a warm place for several days.
 
 Be careful as the fermentation process will produce gases that must be released. Be sure to keep an eye on your jars or vessels and watch for protruding lids, which are be an indicator of too much gas build-up. “Burp” the jars daily to release any gas in the vessel.
 

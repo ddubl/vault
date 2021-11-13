@@ -64,12 +64,12 @@ If we now want to process this image, for example calculating the [perceived lum
 
 `[R, R, R, R, R, R, ...] * 0.299 +
 [G, G, G, G, G, G, ...] * 0.587 +
-[B, B, B, B, B, B, ...] * 0.114 =
+[B, B, B, B, B, B, ...] * 0.114 =
 [Y, Y, Y, Y, Y, Y, ...]`
 
 ## Parallelizing conditional branches
 
-In scalar code, branches based on conditions are used to control the processing flow like in the following example:
+In scalar code, branches based on conditions are used to control the processing flow like in the following example:
 
 ```
 var a = [1, 2, 3, 4];
@@ -115,7 +115,7 @@ console.log(result); // Float32x4[5, 12, 10, 12]
 
 In this SIMD version of the previous example, data is put into SIMD vectors again. Then, in order to create a branch based on a condition, the [`SIMD.Float32x4.lessThan()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SIMD/lessThan) function is used. It returns a selection mask with Boolean values depending on which lane is `true` or `false` in this comparison. The first comparand is the vector `a` and the second comparand is created by the [`splat`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SIMD/splat) function, which sets all four lanes to 3. This makes this comparison the same as in the scalar version (`a[i] < 3`).
 
-To get the actual result from the selection mask, the `select` function is used. It takes three parameters: the first is the mask, the second parameter is the `trueValue`. If the selector mask lane is `true`,  the corresponding lane value are picked from the `trueValue`. If not, lane values are picked from parameter number three, the `falseValue`.
+To get the actual result from the selection mask, the `select` function is used. It takes three parameters: the first is the mask, the second parameter is the `trueValue`. If the selector mask lane is `true`,  the corresponding lane value are picked from the `trueValue`. If not, lane values are picked from parameter number three, the `falseValue`.
 
 ## More SIMD algorithms and use cases
 

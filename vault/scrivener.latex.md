@@ -5,7 +5,7 @@ desc: ''
 updated: 1635934973870
 created: 1633199319569
 ---
-# Configuring Scrivener to output LaTeX
+# Configuring Scrivener to output LaTeX
 
 Posted on [January 14, 2015](https://abnormaldata.wordpress.com/2015/01/14/configuring-scrivener-latex/)
 
@@ -22,7 +22,7 @@ Scrivener does ***not*** do bibliography management, nor does it do typesetting.
 The following two posts are quite helpful for getting started on configuring Scrivener to output in Latex. It actually looks more complicated than it really is. The configuration I’m using (explained [below](https://abnormaldata.wordpress.com/2015/01/14/configuring-scrivener-latex/#setup)) is a variant of these.
 
 * [How to write your Thesis in LaTeX with Scrivener 2, MultiMarkdown 3 and BibDesk](http://timbrandes.com/blog/2012/02/28/howto-write-your-thesis-in-latex-using-scrivener-2-multimarkdown-3-and-bibdesk/)
-* [Writing Complex Latex Documents with Scrivener 2.1 and MultiMarkDown 3](http://neilernst.net/2011/07/27/writing-complex-latex-documents-with-scrivener-2-1-and-multimarkdown-3/)
+* [Writing Complex Latex Documents with Scrivener 2.1 and MultiMarkDown 3](http://neilernst.net/2011/07/27/writing-complex-latex-documents-with-scrivener-2-1-and-multimarkdown-3/)
 
 It didn’t take me too long to get everything up and running – including making some modifications to the workflow (explained below). You do however need to install [MultiMarkdown 3](http://fletcherpenney.net/multimarkdown/download/) (MMD3) first.
 
@@ -50,11 +50,11 @@ From the main menu, ***File -> Compile*** will take you to the right configurati
 
 **Contents screen:** Check or uncheck the sections to be included in the output.
 
-**Formatting screen:** Check both *Title* and *Text* to include the section *Title* in the latex file, otherwise none of the heading names will show up. Uncheck *Title* to use the manual section naming and referencing option below. Also change **Compile for:** to  ***MultiMarkdown to Latex (.tex)***
+**Formatting screen:** Check both *Title* and *Text* to include the section *Title* in the latex file, otherwise none of the heading names will show up. Uncheck *Title* to use the manual section naming and referencing option below. Also change **Compile for:** to  ***MultiMarkdown to Latex (.tex)***
 
 [compile_menu_1formatting (image/jpeg)](https://abnormaldata.files.wordpress.com/2014/12/compile_menu_1formatting1.jpg)
 
-**Latex screen:** Set *Format as* -> *Custom* and  *LaTeX document class* -> *Custom*, and define your own latex header/footer info.
+**Latex screen:** Set *Format as* -> *Custom* and  *LaTeX document class* -> *Custom*, and define your own latex header/footer info.
 
 This is where my configuration is different from the websites above. I put all the relevant latex info in these 3 Latex screens, whereas others put them in the Meta-data screen (e.g. biblio file definition, location to preamble file, etc).
 
@@ -106,7 +106,7 @@ I only added 1 key. Click *Add Key*, then define:
 Keys:    Base Header Level
 Values:  3
 
-* Level 1 creates \part , \chapter , \section     …  and each subsequent level (n) ignores the (n-1) first levels:
+* Level 1 creates \part , \chapter , \section     …  and each subsequent level (n) ignores the (n-1) first levels:
 * Level 2 creates \chapter , \section , \subsection, \subsubsection
 * Level 3 creates \section , \subsection , \subsubsection (this is what I use for articles)
 
@@ -133,9 +133,9 @@ So if you change the name of the section in Scrivener, MMD will also change the 
 
 Writing `[#citation2015]` will produce `\citep{citation2015}` when compiled as Latex.
 
-By default, `\citep{}` is produced.  You can generate `\citet{}` by adding a semi-colon at the end:  `[#citation2015;].`
+By default, `\citep{}` is produced.  You can generate `\citet{}` by adding a semi-colon at the end:  `[#citation2015;].`
 
-But sometimes you need  `\cite{}` instead. Here is a fix I found. Just add this in the preamble (already included in the *Begin document* code above:
+But sometimes you need  `\cite{}` instead. Here is a fix I found. Just add this in the preamble (already included in the *Begin document* code above:
 
 \ifx\citep\undefined
   \let\citep\cite
@@ -157,7 +157,7 @@ Note: equations using $…$ notation will convert with MMD, but you do need to l
 
 Use HTML comments to pass latex code through untouched by MMD:
 
-<--!  LaTeX code here -->
+<--!  LaTeX code here -->
 
 To include a reference to the automatically generated `Step 16` section label above, you can do:
 
@@ -175,7 +175,7 @@ Add this code to the Scrivener file:
 
 <--! \input{manuscript_tables} -->
 
-Then add and debug the latex code for your equations/tables in the `manuscript_tables.tex` file.
+Then add and debug the latex code for your equations/tables in the `manuscript_tables.tex` file.
 
 **7. Compile Scrivener manuscript
 **
@@ -187,7 +187,7 @@ These steps will generate 4 output files:
 * mmd-scrivcustom-begin-doc.tex => contains text from the *Begin Document* screen
 * mmd-scrivcustom-footer.tex => contains text from the *Footer* screen
 
-**8.  Compile the tex files as usual with your favorite latex compiler, and you’re good to go!**
+**8.  Compile the tex files as usual with your favorite latex compiler, and you’re good to go!**
 
 I admit, working with Scrivener + Latex is not as seamless as writing exclusively in a Latex editor, but the added-value offered by Scrivener’s features can be worth it. As an alternative, MMD notation may simplify some things (even though I have been resistant to using it).
 
@@ -203,7 +203,7 @@ If Scrivener or MMD could integrate with reference managers (like Jabref) for ci
 
 * [Converting LaTeX to Word (Pandoc)](https://abnormaldata.wordpress.com/2014/11/17/converting-latex-to-word/)
 * [Converting LaTeX to Word – part 2 (LaTeX2RTF)](https://abnormaldata.wordpress.com/2014/11/22/converting-latex-to-word-part-2/)
-* [Converting LaTeX to Word – part 3 (Pandoc revisited)](https://abnormaldata.wordpress.com/2014/12/26/converting-latex-to-word-part-3-pandoc-revisited/)
+* [Converting LaTeX to Word – part 3 (Pandoc revisited)](https://abnormaldata.wordpress.com/2014/12/26/converting-latex-to-word-part-3-pandoc-revisited/)
 
 ### Share this
 

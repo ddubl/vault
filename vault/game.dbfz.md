@@ -78,7 +78,7 @@ Grouped by proration entering the combo
   2-4 #L > (2) > Launch, 236M/H-Assist, iAD.N > 2M > 5M
   4+: DR, Assist, 6M, vanish-confirms
 
-##### Convergence
+##### Convergence
 
 Confirms
   236H > 236M > Vanish > SD >...

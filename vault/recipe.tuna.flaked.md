@@ -14,7 +14,7 @@ Easy Flaked Almond “Tuna” Salad
 * 1 garlic clove (6 g), minced
 * 3 to 4 tablespoons (45 to 60 mL) vegan mayo, to taste
 * 1 teaspoon Dijon mustard
-* 2 to 3 teaspoons fresh lemon juice, to taste
+* 2 to 3 teaspoons fresh lemon juice, to taste
 * 1/4 teaspoon fine grain sea salt, or to taste
 * Freshly ground black pepper, to taste
 * Pinch of kelp granules (optional, lends a "fishy" flavour)
@@ -27,5 +27,5 @@ Easy Flaked Almond “Tuna” Salad
 4. Serve on top of a salad or lettuce wrap, or in a sandwich or wrap. Refrigerate leftover salad for up to 3 days.
 
 Tags:
-  
+
     , recipe

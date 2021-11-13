@@ -2,11 +2,12 @@
 id: nbyF54kdC5agsbHsRFgxB
 title: Ssbm
 desc: ''
-updated: 1636377363435
+updated: 1636827501973
 created: 1633810179938
 ---
-## theory
-nojump up.b?
+jumpless up.b?
+
+doublejc: 1f
 
 ## practice
 wasting jumps

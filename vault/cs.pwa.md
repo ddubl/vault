@@ -13,7 +13,7 @@ Over the past few years, the web applications I’ve worked on have increasingly
 
 ## What is a Progressive Web Application?
 
-At their core, Progressive Web Applications are simply web applications. They’re a combination of HTML, CSS, and JavaScript. They use Progressive Enhancement to implement features such as caching and background sync if and *only* if the browser supports the proper APIs. With browser support, the Progressive Web Application can behave much like a native application. It loads instantly, works offline, and can be installed as if it were a native application.
+At their core, Progressive Web Applications are simply web applications. They’re a combination of HTML, CSS, and JavaScript. They use Progressive Enhancement to implement features such as caching and background sync if and *only* if the browser supports the proper APIs. With browser support, the Progressive Web Application can behave much like a native application. It loads instantly, works offline, and can be installed as if it were a native application.
 
 In order to better understand Progressive Web Apps, I set out to build a simple one. I wanted to avoid using frameworks and libraries to make sure I was dealing with the core concepts and technologies, rather than someone’s abstraction or a framework that added a layer of magic. I did make one notable exception in using Jake Archibald’s [idb](https://github.com/jakearchibald/idb) to wrap IndexedDB’s interface in [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise). Service Workers make heavy use of Promises, and the library helped simplify the interface. I’ll explain more about how IndexedDB fits into all of this when I get to the *really* interesting bits involving Background Sync.
 
@@ -164,7 +164,7 @@ The next step was to cache dynamic data. In my case, the list “to do” items 
 
 `self.addEventListener(``'fetch'``,` `function``(e) {`
 `var` `pathToCache = /\/todos\``//;`
-`var` `url         = e.request.url;`
+`var` `url         = e.request.url;`
 `if` `(e.request.method ===` `'GET'``) {`
 `if` `(pathToCache.test(url)) {`
 `e.respondWith(`
@@ -175,7 +175,7 @@ The next step was to cache dynamic data. In my case, the list “to do” items 
 `.then(``function` `(response) {`
 `cache.put(e.request, response.clone());`
 `return` `response;`
-`//  An error! Return older response from cache`
+`//  An error! Return older response from cache`
 `}).``catch``(``function` `() {`
 `return` `cache.match(e.request);`
 `});`
@@ -247,7 +247,7 @@ This worked beautifully! After successfully retrieving the list of items from th
 
 Using the service worker to cache static and dynamic resources is relatively simple and only requires a minimal change to the actual application to register the service worker. However, that only goes so far. It’s great for applications that are heavy on presenting data, but doesn’t help much when the application is truly *interactive*. Background sync can help since the service worker can retry requests that fail.
 
-This is where things got interesting. And complicated. Adding background sync required changes to the application itself. In the case of my app, I needed to add a different handler for submitting the add/update form. It also opens up the difficulties in _what_ to show in the user interface. A “to do” app is a good candidate for an [Optimistic UI](https://uxplanet.org/optimistic-1000-34d9eefe4c05) (which assumes the network requests will *eventually* succeed, so show that expected state to the user), but more complex applications may need to take a different route.
+This is where things got interesting. And complicated. Adding background sync required changes to the application itself. In the case of my app, I needed to add a different handler for submitting the add/update form. It also opens up the difficulties in _what_ to show in the user interface. A “to do” app is a good candidate for an [Optimistic UI](https://uxplanet.org/optimistic-1000-34d9eefe4c05) (which assumes the network requests will *eventually* succeed, so show that expected state to the user), but more complex applications may need to take a different route.
 
 Changing the submit handler was fairly easy, but using background sync opened up the necessity to persist the information for the transactions. After some research, I found recommendations to store the data to be transferred within [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API). It can store all of the data necessary, the service worker has access to the data, and it allows for the ability to queue multiple requests. This is where the previously-mentioned `idb` library came in handy.
 
@@ -300,16 +300,16 @@ The code below checks that the browser supports background sync, and then adds a
 `app.todoForm.addEventListener(``'submit'``,` `function``(event) {`
 `event.preventDefault();`
 `var` `method =` `'POST'``;`
-`var` `url    =` `'/todo'``;`
+`var` `url    =` `'/todo'``;`
 `// if it has an _id prop, change to 'PUT'`
 `if` `(app.todoId.value) {`
 `method =` `'PUT'``;`
-`url    =` `'/todo/'` `+ app.todoId.value;`
+`url    =` `'/todo/'` `+ app.todoId.value;`
 `}`
 `var` `message = {`
 `method : method,`
-`url    : url,`
-`item   : app.getItem()`
+`url    : url,`
+`item   : app.getItem()`
 `};`
 `store.outbox(``'readwrite'``).then(``function``(outbox) {`
 `return` `outbox.put(message);`
@@ -371,12 +371,12 @@ The service worker needs to have a ‘sync’ event listener. This event fires w
 `return` `Promise.all(messages.map(``function` `(message) {`
 `return` `fetch(message.url, {`
 `credential :` `'include'``,`
-`method     : message.method,`
-`body       : JSON.stringify(message.item),`
-`headers    : {`
-`'Accept'`           `:` `'application/json'``,`
+`method     : message.method,`
+`body       : JSON.stringify(message.item),`
+`headers    : {`
+`'Accept'`           `:` `'application/json'``,`
 `'X-Requested-With'` `:` `'XMLHttpRequest'``,`
-`'Content-Type'`     `:` `'application/json'`
+`'Content-Type'`     `:` `'application/json'`
 `}`
 `}).then(``function` `(response) {`
 `return` `response.json();`
@@ -400,7 +400,7 @@ The “eureka” moment came when I decided to walk away and take a break. When 
 
 At this point I had a basic progressive web application, but there were some real problems with it. The strategy used for caching the dynamic data and handling requests was not ideal, but it was good enough for this exercise. The more problematic piece related to the requests waiting for background sync and the state of the UI.
 
-I didn’t want to focus much on the actual UI for this application. So, to illustrate what was going on with the pending updates, I added a section to the “to do” list showing the pending updates in IndexedDB. If I update an item titled “Convert it into a plane”, the “Pending” section would include *Updating “Convert it into a plane”*. A better application might have used a more optimistic UI or at least displayed the new item within the main list.
+I didn’t want to focus much on the actual UI for this application. So, to illustrate what was going on with the pending updates, I added a section to the “to do” list showing the pending updates in IndexedDB. If I update an item titled “Convert it into a plane”, the “Pending” section would include *Updating “Convert it into a plane”*. A better application might have used a more optimistic UI or at least displayed the new item within the main list.
 
 [The app can present the data for editing, even when offline. (image/png)](https://www.e-gineering.com/wp-content/uploads/2017/04/OfflineSave.png)*The app can present the data for editing, even when offline, and successfully save when back online.*
 

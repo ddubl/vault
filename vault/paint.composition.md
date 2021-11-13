@@ -6,13 +6,13 @@ updated: 1633199321497
 created: 1633199321497
 ---
 [submit your art](http://emptyeasel.com/artwork-submission-form/) [write an article](http://emptyeasel.com/article-submission-form/) [get the newsletter](http://emptyeasel.com/newsletter/)
-[Designed to Sell: A Guide for Artists
+[Designed to Sell: A Guide for Artists
 ](http://unconventionalguides.com/cmd.php?Clk=5232058)
 
 [emptyeasel.com](http://emptyeasel.com/)menu
 
 * [art tutorials](http://emptyeasel.com/art-tutorials/)art tutorials
-    
+
     * [color theory 101](http://emptyeasel.com/art-tutorials/color-theory/)
     * [pencil drawing tips](http://emptyeasel.com/art-tutorials/drawing-tips/)
     * [painting tutorials](http://emptyeasel.com/art-tutorials/painting-tutorials/)
@@ -21,9 +21,9 @@ created: 1633199321497
     * [gimp instruction](http://emptyeasel.com/art-tutorials/gimp-help/)
     * [photography guides](http://emptyeasel.com/art-tutorials/photography-tips/)
     * [all other tutorials](http://emptyeasel.com/art-tutorials/other-tutorials/)
-    
+
 * [business advice](http://emptyeasel.com/art-business-advice/)business advice
-    
+
     * [art marketing tips](http://emptyeasel.com/art-business-advice/art-marketing-tips/)
     * [selling at art fairs](http://emptyeasel.com/art-business-advice/selling-art-at-art-fairs/)
     * [email list marketing](http://emptyeasel.com/art-business-advice/email-marketing-for-artists/)
@@ -33,17 +33,17 @@ created: 1633199321497
     * [seo tips for artists](http://emptyeasel.com/art-business-advice/seo-for-artists/)
     * [general art advice](http://emptyeasel.com/art-business-advice/general-art-advice/)
     * [motivation & more](http://emptyeasel.com/art-business-advice/motivation/)
-    
+
 * [research](http://emptyeasel.com/research/)research
-    
+
     * [art movements](http://emptyeasel.com/research/art-movements/)
     * [historical artists](http://emptyeasel.com/research/historical-artists/)
     * [art product reviews](http://emptyeasel.com/research/art-products/)
     * [websites for artists](http://emptyeasel.com/research/art-websites/)
     * [the online art market](http://emptyeasel.com/research/online-art-market/)
-    
+
 * [featured art](http://emptyeasel.com/featured-artists/)featured artists
-    
+
     * [oil paintings](http://emptyeasel.com/featured-artists/oil-paintings/)
     * [acrylic paintings](http://emptyeasel.com/featured-artists/acrylic-paintings/)
     * [watercolor paintings](http://emptyeasel.com/featured-artists/watercolor-paintings/)
@@ -53,22 +53,22 @@ created: 1633199321497
     * [fine art photography](http://emptyeasel.com/featured-artists/fine-art-photography/)
     * [sculpture & 3D art](http://emptyeasel.com/featured-artists/sculpture-and-3D-art/)
     * [all other mediums](http://emptyeasel.com/featured-artists/other-mediums/)
-    
+
 * [misc](http://emptyeasel.com/misc/)misc
-    
+
     * [art opinion pieces](http://emptyeasel.com/misc/art-opinion/)
     * [artist polls](http://emptyeasel.com/misc/artist-polls/)
     * [artist interviews](http://emptyeasel.com/misc/artist-interviews/)
     * [art contests](http://emptyeasel.com/misc/art-contests/)
     * [announcements](http://emptyeasel.com/misc/announcements/)
     * [the ee newsletter](http://emptyeasel.com/newsletter/)
-    
+
 
 We're an online artist community sharing ways to create and sell art. Try one of our [easy websites for artists](http://foliotwist.com/) or just browse around and enjoy!
 
 # 7 Steps to a Stronger Composition
 
-By [Carrie Brummer](http://www.artiststrong.com/) in [Art Business Advice](http://emptyeasel.com/art-business-advice/) > [General Art Advice](http://emptyeasel.com/art-business-advice/general-art-advice/)
+By [Carrie Brummer](http://www.artiststrong.com/) in [Art Business Advice](http://emptyeasel.com/art-business-advice/) > [General Art Advice](http://emptyeasel.com/art-business-advice/general-art-advice/)
 
 [‹ Previously
 in this series](http://emptyeasel.com/2018/09/10/how-to-find-the-perfect-illustrator-for-your-childrens-book/)
@@ -158,7 +158,7 @@ Good luck, and happy drawing!
 
 Then check out a few of our related articles.
 
- 0Save 
+ 0Save
 
 **Note: this post may contain affiliate links**
 
@@ -255,4 +255,4 @@ Best of EE:
 [Plain Brown](http://emptyeasel.com/2007/06/15/the-color-brown-plain-predictable-and-safe/)
 [Clean White](http://emptyeasel.com/2007/06/22/the-color-white-pure-cold-and-clean/)
 
-© 2006-2018 [EmptyEasel.com](http://emptyeasel.com/) [About](http://emptyeasel.com/faq/) [Contact](http://emptyeasel.com/contact/) [Sitemap](http://emptyeasel.com/visitor-sitemap/) [Privacy Policy](http://emptyeasel.com/privacy-statement/) [Terms of Use](http://emptyeasel.com/terms-of-use-and-disclaimer/) [Advertise](http://emptyeasel.com/advertise/)
+© 2006-2018 [EmptyEasel.com](http://emptyeasel.com/) [About](http://emptyeasel.com/faq/) [Contact](http://emptyeasel.com/contact/) [Sitemap](http://emptyeasel.com/visitor-sitemap/) [Privacy Policy](http://emptyeasel.com/privacy-statement/) [Terms of Use](http://emptyeasel.com/terms-of-use-and-disclaimer/) [Advertise](http://emptyeasel.com/advertise/)

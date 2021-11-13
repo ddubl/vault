@@ -27,7 +27,7 @@ Athlete Journal - Mature Athlete
 
 ## Question #1: Should I Use a Scale?
 
-***READER:** What's your take on using the scale to monitor body composition? In other words, do you use it at all, and if so, how frequently do you recommend?*
+***READER:** What's your take on using the scale to monitor body composition? In other words, do you use it at all, and if so, how frequently do you recommend?*
 
 **CHARLES SAYS:** I think that for most people, **the scale is the most practical method of evaluating changes in body composition.** But it shouldn’t be your only method by any means, since scale weight is only a proxy for body composition. In other words, **it’s an *indirect* measure, which means it’s capable of misleading you.** For example, a sudden increase in carbohydrate and/or sodium intake can cause fluid retention and weight gain, even though you didn’t gain any body fat.
 
@@ -256,11 +256,11 @@ Definitely check out the videos this week, **keep those questions coming**, and 
 
 *Photos courtesy of [Shutterstock](http://www.shutterstock.com/).*
 
-Topic:  [Smart Strength](http://breakingmuscle.com/knowledge/smart-strength)
+Topic:  [Smart Strength](http://breakingmuscle.com/knowledge/smart-strength)
 See more about: [body composition](http://breakingmuscle.com/category/tags/body-composition), [strength and conditioning](http://breakingmuscle.com/category/tags/strength-and-conditioning), [rest and recovery](http://breakingmuscle.com/category/tags/rest-and-recovery), [age](http://breakingmuscle.com/category/tags/age)
 
 [(image/jpeg)](http://breakingmuscle.com/coaches/charles-staley)Charles Staley
-Prominent both the United States and across the globe, Charles is recognized as a authoritative coach and innovator in the field of human performance. His knowledge, skills, and reputation have lead to appearances on NBC’s The TODAY Show and The CBS Early Show, along with numerous radio and podcast appearances. He has penned more than a thousand articles for major publications and online websites in the industry.   Often referred to as a visionary, an iconoclast and a rule-breaker,... [Read More](http://breakingmuscle.com/coaches/charles-staley)
+Prominent both the United States and across the globe, Charles is recognized as a authoritative coach and innovator in the field of human performance. His knowledge, skills, and reputation have lead to appearances on NBC’s The TODAY Show and The CBS Early Show, along with numerous radio and podcast appearances. He has penned more than a thousand articles for major publications and online websites in the industry.   Often referred to as a visionary, an iconoclast and a rule-breaker,... [Read More](http://breakingmuscle.com/coaches/charles-staley)
 [More Articles](http://breakingmuscle.com/coaches/charles-staley)
 
 ### Topics

@@ -10,7 +10,7 @@ Reading Types · An Introduction to Elm
 ___
 To really understand why there are two arrows in the type of divide, it helps to convert the definition to use anonymous functions. divide x y = x / yfunction : Float - Float - Float divide x = \y - x / yfunction : Float - Float - Float divide = \x - (\y - x / y)function : Float - Float - FloatAll of these are totally equivalent. We just moved the arguments over, turning them into anonymous functions one at a time. So when we run an expression like divide 3 2 we are actually doing a bunch of evaluation steps:
 
-— 
+—
 
 I think this to be highly unorthodox but strangely efficient. This means that all functions are automatically curryable and possibly - yet to determine - partially applicable.
 

@@ -127,9 +127,9 @@ Follow ATG on [Instagram @atginsta](http://instagram.com/atginsta), [on Twitter 
 
 ## [ROM Progression Method Details](http://www.allthingsgym.com/rom-progression-method-details-for-531/)
 
-[CrossFit “Bring Sally Up” Paused Squat Workout (image/jpeg)](http://www.allthingsgym.com/crossfit-bring-sally-paused-squat-workout/)
+[CrossFit “Bring Sally Up” Paused Squat Workout (image/jpeg)](http://www.allthingsgym.com/crossfit-bring-sally-paused-squat-workout/)
 
-## [CrossFit “Bring Sally Up” Paused Squat Challenge](http://www.allthingsgym.com/crossfit-bring-sally-paused-squat-workout/)
+## [CrossFit “Bring Sally Up” Paused Squat Challenge](http://www.allthingsgym.com/crossfit-bring-sally-paused-squat-workout/)
 
 [Ilya Ilin Special 196kg Snatch 240kg Clean & Jerk (image/jpeg)](http://www.allthingsgym.com/ilya-ilin-science-of-victory-documentary-196kg-snatch-240kg-clean-jerk/)
 
@@ -141,4 +141,4 @@ Follow ATG on [Instagram @atginsta](http://instagram.com/atginsta), [on Twitter 
 
 [Get the All Things Gym Shirt (image/jpeg)](http://store.hookgrip.com/shop/all-things-gym-t-shirt/)[Get the ATG Chingiz Shirt (image/jpeg)](http://store.hookgrip.com/shop/chingiz-leaning-on-things-t-shirt-by-atg/) [Get the All Things Gym Shirt (image/jpeg)](http://store.hookgrip.com/shop/all-things-gym-t-shirt/)[Get the ATG Chingiz Shirt (image/jpeg)](http://store.hookgrip.com/shop/chingiz-leaning-on-things-t-shirt-by-atg/) [Get the All Things Gym Shirt (image/jpeg)](http://store.hookgrip.com/shop/all-things-gym-t-shirt/)[Get the ATG Chingiz Shirt (image/jpeg)](http://store.hookgrip.com/shop/chingiz-leaning-on-things-t-shirt-by-atg/)
 
-Copyright © 2015 · Gregor · All Things Gym
+Copyright © 2015 · Gregor · All Things Gym

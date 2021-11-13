@@ -5,7 +5,7 @@ desc: ''
 updated: 1633199321522
 created: 1633199321522
 ---
-install scoop - install cmder - install bash4win - 
+install scoop - install cmder - install bash4win -
 
 add fasd
 

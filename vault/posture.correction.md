@@ -17,5 +17,5 @@ upper trapezius
 *45 degree angle - tongue on top*
 *levator scapula stretch: push skull off of neck*
 *scalenes*
-*often (image/png)* 
+*often (image/png)*
 *the shorteinign is stronger on one side*

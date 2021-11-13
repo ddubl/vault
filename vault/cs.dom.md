@@ -153,7 +153,7 @@ These functions allow you to get and change the value of an attribute at any tim
 ```
 var box = document.getElementById('somebox');
  var flex = box.getAttribute("flex");
- 
+
  var box2 = document.getElementById('anotherbox');
  box2.setAttribute("flex", "2");12345
 ```
@@ -163,7 +163,7 @@ However, the `` `[flex](https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XU
 ```
 var box = document.getElementById('somebox');
  var flex = box.flex;
- 
+
  var box2 = document.getElementById('anotherbox');
  box2.flex = 2;12345
 ```
@@ -198,27 +198,27 @@ Many XUL elements have their own properties that are unique to that element. Ref
 
 The DOM is a tree structure with a single root node with children. You can get a reference to the root node using the document's `[documentElement](https://developer.mozilla.org/en/DOM/document.documentElement)` property. The root node is always an element, but this is not the case for other nodes in the tree. An element corresponds to a tag is the XUL source, but you may also find text nodes, comment nodes and a few other types in a document tree. In the case of XUL, the root element will be the `` `[window](https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XUL/window)` `` tag in the XUL document. Each node in the tree may have children and those children may have child nodes of their own. Since the DOM is a tree structure, you can navigate through the tree using a variety of properties. Some common properties are listed below:
 
-[firstChild](https://developer.mozilla.org/En/DOM/Node.firstChild) 
+[firstChild](https://developer.mozilla.org/En/DOM/Node.firstChild)
 
 reference to the first child node of an element
 
-[lastChild](https://developer.mozilla.org/En/DOM/Node.lastChild) 
+[lastChild](https://developer.mozilla.org/En/DOM/Node.lastChild)
 
 reference to the last child node of an element
 
-[childNodes](https://developer.mozilla.org/En/DOM/Node.childNodes) 
+[childNodes](https://developer.mozilla.org/En/DOM/Node.childNodes)
 
 holds a list of the children of an element
 
-[parentNode](https://developer.mozilla.org/En/DOM/Node.parentNode) 
+[parentNode](https://developer.mozilla.org/En/DOM/Node.parentNode)
 
 reference to the parent of an node
 
-[nextSibling](https://developer.mozilla.org/En/DOM/Node.nextSibling) 
+[nextSibling](https://developer.mozilla.org/En/DOM/Node.nextSibling)
 
 reference to the next sibling in sequence
 
-[previousSibling](https://developer.mozilla.org/En/DOM/Node.previousSibling) 
+[previousSibling](https://developer.mozilla.org/En/DOM/Node.previousSibling)
 
 reference to the previous sibling in sequence
 

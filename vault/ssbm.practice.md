@@ -19,7 +19,7 @@ when hogging:
 down ^ dj.wavedash
 
 amsah tech
-shield ^ d.f/b  ^ Cdown
+shield ^ d.f/b  ^ Cdown
 
 training-mode
 20xx_4.07++

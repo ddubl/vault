@@ -41,7 +41,7 @@ neutral specials air-air ideal SD (angle) assist ki-blast offense DR #MH skd saf
 
 goal specific variations: setup, damage, meter, time Starter [https://www.reddit.com/r/dragonballfighterz/comments/7vmnl7/damage_scaling_everything_you_need_to_know/] Grouped by proration entering the combo 1-2: #H, #M, 2-4 #L > (2) > Launch, 236M/H-Assist, iAD.N > 2M > 5M 4+: DR, Assist, 6M, vanish-confirms
 
-##### Convergence
+##### Convergence
 
 Confirms 236H > 236M > Vanish > SD >... Links PickUps Tags Extensions ...> Vanish > w236L/j.2H > j.LLL Setups / Oki
 
@@ -112,8 +112,8 @@ Tech GC-Tech
 9/12/2019 ssj goku spark loops optimal corner boku spark corner loops gohan universal corner leg loop wawa v kaz finals: @30:08 nice gohan conversion loop @1:18 nice ender gohan around @5:00 insane boku combo @8:50 ssJoku self ex-236 self-extender combo
 
 Tags:
-  
-    , 
-    , 
-    , 
+
+    ,
+    ,
+    ,
     , dbfz, fgc, gaming, practice

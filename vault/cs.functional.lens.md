@@ -39,7 +39,7 @@ Compose is just the ES6 version of a [variadic compose I worked through here](ht
 
 My quick-n-dirty version of ***curry*** here is really sort of an “autocurry”: that is, it takes a function with a set/known number of arguments and then allows us to call that function with the arguments grouped in any which way we want. ***(1,2,3)*** or ***(1,2)(3)***, or ***(1)(2)(3)***: whatever. If the total number of arguments passed so far isn’t enough, it just returns a new, partially-applied function waiting for the remaining arguments.
 
-***mapWith***, finally, is just a curried, “point-free” version of a map operation, meaning that we can pass it the function first and then later pass it the Functor (a “mappable”) that we want to map over before getting a result. It’s important that ***mapWith*** delegates the ***.map*** operation to the Functor itself, meaning that it knows nothing about how the Functor interprets what “mapping” is (other than it obeys the Functor Laws).
+***mapWith***, finally, is just a curried, “point-free” version of a map operation, meaning that we can pass it the function first and then later pass it the Functor (a “mappable”) that we want to map over before getting a result. It’s important that ***mapWith*** delegates the ***.map*** operation to the Functor itself, meaning that it knows nothing about how the Functor interprets what “mapping” is (other than it obeys the Functor Laws).
 
 These are all useful tools in their own right, and you can find them in most functional libraries. But it’s worth seeing and thinking through how they’re constructed: how they do what they do.
 
@@ -55,11 +55,11 @@ More on that soon, but first, something else should strike you as weird about al
 
 Let’s look at the final set of toolset functions for a hint at what’s going to happen:
 
-Now this is all very suspicious. We know that Lenses are going to rely, heavily, on calling the setter/getter “***mapWith***” method on… well, something, and you might have assumed that it was going to be something familiar like an Array that actually HAS a native ***.map()*** method. But if that was really all “mapping” over something meant… then we wouldn’t have a special word like Functor in the first place: we’d just talk about Lists or Arrays and be done with it.
+Now this is all very suspicious. We know that Lenses are going to rely, heavily, on calling the setter/getter “***mapWith***” method on… well, something, and you might have assumed that it was going to be something familiar like an Array that actually HAS a native ***.map()*** method. But if that was really all “mapping” over something meant… then we wouldn’t have a special word like Functor in the first place: we’d just talk about Lists or Arrays and be done with it.
 
 But “mapping” has a much broader meaning than just applying a function to each item in an ordered list. Again: “Mapping” over something in a larger sense means taking a particular *type* of “container” (of which an array of values is just one kind), opening it up, applying a function to the contents in a way that’s in accordance with the logic of that container, and then returning the same *type* of container, structurally intact.
 
-From this, we can intuit that primitive values probably aren’t going to be worked on directly (they don’t *have* ***.map()*** methods after all!): they’re instead going to be wrapped in *some* sort of special container that does. So here, finally, are the core Lens *operations* & how they make exactly that happen:
+From this, we can intuit that primitive values probably aren’t going to be worked on directly (they don’t *have* ***.map()*** methods after all!): they’re instead going to be wrapped in *some* sort of special container that does. So here, finally, are the core Lens *operations* & how they make exactly that happen:
 
 Let’s unwrap (heh) what’s going on here. We know that the core Lens methods are, themselves, curried. That means that we can call ***objectLens*** with just the first argument (the key/index) and get back a new function waiting for more arguments.
 
@@ -71,7 +71,7 @@ Those 3 different execution operations require further explanation:
 
 ***View*** is the simplest case: it’s all about just extracting and returning the property found at a particular location (a very similar in result to a lodash-fp _.get). We’re simply passing in a Lens and then, later, the target object/array that we want it to work on.
 
-What is ***view*** actually *doing* with those two elements? As we said: it’ll be filling in the remaining arguments to the lens function. So the function ***f*** that the lens function actually gets is… the constructor for the Functor, ***Const***. Because of how ***Const*** is structured, that means that when the getter portion of the Lens runs ***Const*** on the retrieved value, it’ll return a ***Const*** Functor with the retrieved value now stored in the property, “value.” But ***Const*** also has its own special “map” operation defined, which means that when the ***arrayLens***/***objectLens*** runs ***mapWith***, it’ll use ***Const****’s* particular implementation of ***.map***. And what does *that* version of map do with the function passed into it?
+What is ***view*** actually *doing* with those two elements? As we said: it’ll be filling in the remaining arguments to the lens function. So the function ***f*** that the lens function actually gets is… the constructor for the Functor, ***Const***. Because of how ***Const*** is structured, that means that when the getter portion of the Lens runs ***Const*** on the retrieved value, it’ll return a ***Const*** Functor with the retrieved value now stored in the property, “value.” But ***Const*** also has its own special “map” operation defined, which means that when the ***arrayLens***/***objectLens*** runs ***mapWith***, it’ll use ***Const****’s* particular implementation of ***.map***. And what does *that* version of map do with the function passed into it?
 
 Well, its signature this: ***map() => return this;*** so…
 
@@ -101,7 +101,7 @@ Again, that might seem like a lot of extra work (since certain parts of the Lens
 
 If it’s not obvious why that’s all so useful, that’s probably because we haven’t really demonstrated how we can use Lenses yet.
 
-In practice, you’ll find that Lenses have another killer feature, which is that they, themselves, compose. In the simplest form, that means that ***compose(objectLens(‘comments’), arrayLens(0))*** creates a Lens that’s focused on the path [“comments”][0] . Doing this leaves us with an ordered set of instructions: “go through the door marked ‘comments’, then the door marked 0.”
+In practice, you’ll find that Lenses have another killer feature, which is that they, themselves, compose. In the simplest form, that means that ***compose(objectLens(‘comments’), arrayLens(0))*** creates a Lens that’s focused on the path [“comments”][0] . Doing this leaves us with an ordered set of instructions: “go through the door marked ‘comments’, then the door marked 0.”
 
 Lonsdorf’s Lenses include a utility called “***makeLenses***” which allows you to pass a list of string keys. The result (which he usually assigns to a variable name like L for convenience) is an object that contains all the pre-baked Lenses you might need in a particular program. Here’s a similar version in written variadic form that also uses the set Lens operation internally:
 
@@ -131,7 +131,7 @@ Addendum (1/22): Just to prove that I don’t know what I’m talking about when
 
 One thing the Lonsdorf article also made me realize that I should note is that, unlike Ramda, my quick little implementation isn’t directly exposing a way to quickly define a custom getter/setter pair for a Lens. Why would you want to do that? Because you might want to get/set on something other than native objects/arrays (Lonsdorf’s article is all about using Immutable.js collections, for instance). It’d be easy to add an additional abstraction level to things (a method for creating a lens by specifying a getter/setter and then just re-implementing our stock object/array Lenses with it), but it’s definitely worth mentioning, and in that spirit, here’s a quick re-write to add a higher-level way of defining a Lens:
 
-…which allows us to re-implement our array and object Lenses as well as more easily define new Lens types that will work on a different structures, such as a [ES2015 Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map). We *could* have just written a one-line mapLens function with the ***.get()***/***.set()*** built in of course, but it’s almost always nicer to break things down into simple, composable parts.
+…which allows us to re-implement our array and object Lenses as well as more easily define new Lens types that will work on a different structures, such as a [ES2015 Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map). We *could* have just written a one-line mapLens function with the ***.get()***/***.set()*** built in of course, but it’s almost always nicer to break things down into simple, composable parts.
 
 Here’s [a new REPL so you can experiment](http://goo.gl/MpWnuV) with all that.
 

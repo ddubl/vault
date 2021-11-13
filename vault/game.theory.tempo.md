@@ -9,7 +9,7 @@ created: 1633199321471
 ## on tempo
 
 quantized game:
-    ccgs
+    ccgs
 because, all other games, microability is a huge factor (sc2: marine-meme)
 (rise of autobattlers?)
 

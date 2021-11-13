@@ -112,8 +112,8 @@ function f() {
   return [1, 2];
 }
 
-var a, b; 
-[a, b] = f(); 
+var a, b;
+[a, b] = f();
 console.log(a); // 1
 console.log(b); // 2
 ```
@@ -207,8 +207,8 @@ A property can be unpacked from an object and assigned to a variable with a diff
 ```
 var o = {p: 42, q: true};
 var {p: foo, q: bar} = o;
- 
-console.log(foo); // 42 
+
+console.log(foo); // 42
 console.log(bar); // true
 ```
 
@@ -336,10 +336,10 @@ function whois({displayName, fullName: {firstName: name}}) {
   console.log(displayName + ' is ' + name);
 }
 
-var user = { 
-  id: 42, 
+var user = {
+  id: 42,
   displayName: 'jdoe',
-  fullName: { 
+  fullName: {
       firstName: 'John',
       lastName: 'Doe'
   }
@@ -368,14 +368,14 @@ The [Rest/Spread Properties for ECMAScript](https://github.com/tc39/proposal-obj
 
 ```
 let {a, b, ...rest} = {a: 10, b: 20, c: 30, d: 40}
-a; // 10 
-b; // 20 
+a; // 10
+b; // 20
 rest; // { c: 30, d: 40 }
 ```
 
 ### Invalid JavaScript identifier as a property name
 
-Destructuring can be used with property names that are not valid JavaScript [identifiers](https://developer.mozilla.org/en-US/docs/Glossary/Identifier) by providing an alternative identifer that is valid.
+Destructuring can be used with property names that are not valid JavaScript [identifiers](https://developer.mozilla.org/en-US/docs/Glossary/Identifier) by providing an alternative identifer that is valid.
 
 ```
 const foo = { 'fizz-buzz': true };
@@ -413,7 +413,7 @@ Basic support
 
 [2.0](https://developer.mozilla.org/en-US/Firefox/Releases/2) (1.8.1)
 
-No support
+No support
 
 (Yes)
 
@@ -427,11 +427,11 @@ Computed property names
 
 [34](https://developer.mozilla.org/en-US/Firefox/Releases/34) (34)
 
-No support
+No support
 
 (Yes)
 
-No support
+No support
 
 Rest in arrays
 
@@ -451,21 +451,21 @@ Rest in objects
 
 60.0
 
-No support
+No support
 
 [55](https://developer.mozilla.org/en-US/Firefox/Releases/55) (55)
 
-No support
+No support
 
-No support
+No support
 
-No support
+No support
 
 [1] Requires "Enable experimental Javascript features" to be enabled under `about:flags`
 
 ## Firefox-specific notes
 
-* Firefox provided a non-standard language extension in [JS1.7](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.7) for destructuring. This extension has been removed in Gecko 40 (Firefox 40 / Thunderbird 40 / SeaMonkey 2.37). See [bug 1083498](https://bugzilla.mozilla.org/show_bug.cgi?id=1083498).
-* Starting with Gecko 41 (Firefox 41 / Thunderbird 41 / SeaMonkey 2.38) and to comply with the ES2015 specification, parenthesized destructuring patterns, like `([a, b]) = [1, 2]` or `({a, b}) = { a: 1, b: 2 }`, are now considered invalid and will throw a [`SyntaxError`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError). See [Jeff Walden's blog post](http://whereswalden.com/2015/06/20/new-changes-to-make-spidermonkeys-and-firefoxs-parsing-of-destructuring-patterns-more-spec-compliant/) and [bug 1146136](https://bugzilla.mozilla.org/show_bug.cgi?id=1146136) for more details.
+* Firefox provided a non-standard language extension in [JS1.7](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.7) for destructuring. This extension has been removed in Gecko 40 (Firefox 40 / Thunderbird 40 / SeaMonkey 2.37). See [bug 1083498](https://bugzilla.mozilla.org/show_bug.cgi?id=1083498).
+* Starting with Gecko 41 (Firefox 41 / Thunderbird 41 / SeaMonkey 2.38) and to comply with the ES2015 specification, parenthesized destructuring patterns, like `([a, b]) = [1, 2]` or `({a, b}) = { a: 1, b: 2 }`, are now considered invalid and will throw a [`SyntaxError`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError). See [Jeff Walden's blog post](http://whereswalden.com/2015/06/20/new-changes-to-make-spidermonkeys-and-firefoxs-parsing-of-destructuring-patterns-more-spec-compliant/) and [bug 1146136](https://bugzilla.mozilla.org/show_bug.cgi?id=1146136) for more details.
 
 ## See also

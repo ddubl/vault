@@ -15,9 +15,9 @@ created: 1633199319495
 
 Spices and herbs have been used for thousands of centuries by many cultures to enhance the flavor and aroma of foods. Early cultures also recognized the value of using spices and herbs in preserving foods and for their medicinal value. Scientific experiments since the late 19th century have documented the antimicrobial properties of some spices, herbs, and their components *(17, 20)*.
 
- **Antimicrobial Effectiveness of Spices and Herbs**
+ **Antimicrobial Effectiveness of Spices and Herbs**
 Table 1 describes the relative antimicrobial effectiveness of some spices and herbs.
- 
+
 
 **Table 1. Antimicrobial Effectiveness of Spices and Herbs***
 
@@ -37,84 +37,84 @@ Black pepper, red pepper, ginger
 
 Weak
 
- * Adapted from Zaika *(20)*.
+ * Adapted from Zaika *(20)*.
 
 Studies in the past decade confirm that the growth of both gram-positive and gram-negative foodborne bacteria, yeast. and mold can be inhibited by garlic, onion, cinnamon, cloves, thyme, sage, and other spices. Effects of the presence of these spices / herbs can be seen in food products such as pickles, bread, rice, and meat products. The fat, protein, water, and salt contents of food influence microbial resistance. Thus, it is observed that higher levels of spices are necessary to inhibit growth in food than in culture media *(17)*. Table 2 is a list of various spices and herbs and their inhibitory effect on various microorganisms.
- 
+
 
 **Table 2. Inhibitory Effects of Spices and Herbs***
 
-**Spice / Herb** 
+**Spice / Herb**
 
-**Microorganisms** 
+**Microorganisms**
 
-**Reference** 
+**Reference**
 
-Garlic 
+Garlic
 
-*Salmonella typhymurium, Escherichia coli, Staphylococcus aureus, Bacillus cereus, Bacillus subtilis,* mycotoxigenic *Aspergillus, Candida albicans* 
+*Salmonella typhymurium, Escherichia coli, Staphylococcus aureus, Bacillus cereus, Bacillus subtilis,* mycotoxigenic *Aspergillus, Candida albicans*
 
-*(1, 5, 9, 15)* 
+*(1, 5, 9, 15)*
 
-Onion 
+Onion
 
 *Aspergillus flavis, Aspergillus parasiticus*
 
 *(16)*
 
-Cinnamon 
+Cinnamon
 
-Mycotoxigenic *Aspergillus, Aspergillus parasiticus* 
+Mycotoxigenic *Aspergillus, Aspergillus parasiticus*
 
-*(1, 3, 4)* 
+*(1, 3, 4)*
 
-Cloves 
-
-Mycotoxigenic *Aspergillus* 
-
-*(1, 7)* 
-
-Mustard 
+Cloves
 
 Mycotoxigenic *Aspergillus*
 
-*(1)* 
+*(1, 7)*
 
-Allspice 
+Mustard
 
-Mycotoxigenic *Aspergillus* 
+Mycotoxigenic *Aspergillus*
 
-*(1, 7)* 
+*(1)*
 
-Oregano 
+Allspice
 
-Mycotoxigenic *Aspergillus, Salmonella* spp*., Vibrio parahaemolyticus* 
+Mycotoxigenic *Aspergillus*
 
-*(1, 2, 10, 12)* 
+*(1, 7)*
 
-Rosemary 
+Oregano
+
+Mycotoxigenic *Aspergillus, Salmonella* spp*., Vibrio parahaemolyticus*
+
+*(1, 2, 10, 12)*
+
+Rosemary
 
 *Bacillus cereus, Staphylococcus aureus, Vibrio parahaemolyticus*
 
-*(19)* 
+*(19)*
 
 Bay leaf
 
-*Clostridium botulinum* 
+*Clostridium botulinum*
 
- *(8)* 
+ *(8)*
 
-Sage 
+Sage
 
 *Bacillus cereus, Staphylococcus aureus, Vibrio parahaemolyticus*
 
- *(18, 19)* 
+ *(18, 19)*
 
-Thyme 
+Thyme
 
-*Vibrio parahaemolyticus* 
+*Vibrio parahaemolyticus*
 
-*(2, 12)* 
+*(2, 12)*
 
 * Adapted from Shelef *(17)*.
 
@@ -123,58 +123,58 @@ Spices and herbs may be contaminated because of conditions in which they were gr
 
 **Antimicrobial Compounds in Spices and Herbs**
 Essential oils extracted from spices and herbs are generally recognized as containing the active antimicrobial compounds. Table 3 is a list of the proximate essential oil content of some spices and herbs and their antimicrobial components.
- 
+
 
 **Table 3. Antimicrobial Components of Spices and Herbs***
 
-**Spice / Herb** 
+**Spice / Herb**
 
 **Proximate Essential Oil Content (%)**
 
- **Antimicrobial Component(s)** 
+ **Antimicrobial Component(s)**
 
-Garlic 
+Garlic
 
-0.3 - 0.5 
+0.3 - 0.5
 
-Allicin 
+Allicin
 
-Mustard 
+Mustard
 
-0.5 - 1.0 
+0.5 - 1.0
 
-Allyl isothiocyanate 
+Allyl isothiocyanate
 
-Cinnamon 
+Cinnamon
 
-0.5 - 2.0 
+0.5 - 2.0
 
-Cinnamaldehyde, Eugenol 
+Cinnamaldehyde, Eugenol
 
-Cloves 
+Cloves
 
 16 - 18
 
-Eugenol 
+Eugenol
 
-Sage 
+Sage
 
-0.7 - 2.0 
+0.7 - 2.0
 
-Thymol, Eugenol 
+Thymol, Eugenol
 
-Oregano 
+Oregano
 
 0.8 - 0.9
 
-Thymol, Carvacrol 
+Thymol, Carvacrol
 
 * Adapted from Shelef *(17)*.
 
 Allicin and allyl isothocyanate are sulfur-containing compounds. Allicin, isolated from garlic oil, inhibits the growth of both gram-negative and gram-positive bacteria. Sulfur-containing compounds are also present in onions, leeks, and chives.
 
 Eugenol, carvacrol, and thymol are phenol compounds and, as Table 3 indicates, are found in cinnamon, cloves, sage, and oregano. The essential oil fraction is particularly high in cloves, and eugenol comprises 95% of the fraction. The presence of these compounds in cinnamon and cloves, when added to bakery items, function as mold inhibitors in addition to adding flavor and aroma to baked products. Paster et al. *(14)* have shown that essential oils of oregano and thyme (which contain carvacrol and thymol) are effective as fumigants against fungi on stored grain. These investigators have proposed using them as an alternative to chemicals for preseving stored grains.
- 
+
 
 **Antioxidant Action**
 
@@ -198,7 +198,7 @@ Zaika *(20)* has given an excellent summary of the antimicrobial effectiveness o
 11. Nutrients present in spices / herbs may stimulate growth and/or biochemical activities of microorganisms.
 
 Thus, food product safety and shelf life depend in some part on the type, quantity, and character of spices and herbs added to the products.
- 
+
 
 **References**
 
@@ -222,8 +222,8 @@ Thus, food product safety and shelf life depend in some part on the type, quanti
 18. Shelef, L. A., Jyothi, E. K., and Bulgarelli, M. 1984. Effect of sage on growth of enteropathogenic and spoilage bacteria in sage containing broths and foods. J. Food Sci. 737-740, 809.
 19. Shelef, L. A., Naglik, O. A., and Bogen, D. W. 1980. Sensitivity of some common food-borne bacteria to the spices sage, rosemary, and allspice. J. Food Sci. 45(4):1045-1044.
 20. Zaika, L. L. 1988. Spices and herbs: Their antimicrobial activity and its determination. J. Food Safety. 9:97-118.
- 
+
 
 To [HITM home page](http://www.hi-tm.com/)
 
- Search templates (CTRL+Space)
+ Search templates (CTRL+Space)

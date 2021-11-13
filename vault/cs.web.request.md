@@ -33,8 +33,8 @@ An options object containing any custom settings that you want to apply to the r
 * `credentials`: The request credentials you want to use for the request: `omit`, `same-origin`, or `include`. The default is `omit`. In Chrome the default is `same-origin` before Chrome 47 and `include` starting with Chrome 47.
 * `cache`: The [cache mode](https://developer.mozilla.org/en-US/docs/Web/API/Request/cache) you want to use for the request.
 * `redirect`: The redirect mode to use: `follow`, `error`, or `manual`. In Chrome the default is `manual` before Chrome 47 and `follow` starting with Chrome 47.
-* `referrer`: A [`USVString`](https://developer.mozilla.org/en-US/docs/Web/API/USVString) specifying `no-referrer`, `client`, or a URL. The default is `client`.
-* `integrity`: Contains the [subresource integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity) value of the request (e.g., `sha256-BpfBw7ivV8q2jLiT13fxDYAe2tJllusRSZ273h2nFSE=`).
+* `referrer`: A [`USVString`](https://developer.mozilla.org/en-US/docs/Web/API/USVString) specifying `no-referrer`, `client`, or a URL. The default is `client`.
+* `integrity`: Contains the [subresource integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity) value of the request (e.g., `sha256-BpfBw7ivV8q2jLiT13fxDYAe2tJllusRSZ273h2nFSE=`).
 
 ## Errors[**Edit](https://developer.mozilla.org/en-US/docs/Web/API/Request/Request$edit#Errors)
 
@@ -79,7 +79,7 @@ var myInit = { method: 'GET',
 var myRequest = new Request('flowers.jpg',myInit);
 
 fetch(myRequest).then(function(response) {
-  ... 
+  ...
 });24681012141618202224262830
 ```
 
@@ -127,7 +127,7 @@ The definition of 'Request()' in that specification.](https://fetch.spec.what
 
 LSLiving Standard
 
- 
+
 
 ## Browser compatibility[**Edit](https://developer.mozilla.org/en-US/docs/Web/API/Request/Request$edit#Browser_compatibility)
 
@@ -149,15 +149,15 @@ Safari (WebKit)
 Basic support
 
 42.0 [1]
- 
+
 
 [39](https://developer.mozilla.org/en-US/Firefox/Releases/39) (39) [2]
 
-No support
+No support
 
 29 [3]
 
-No support
+No support
 
 Streaming response body
 
@@ -165,11 +165,11 @@ Streaming response body
 
 ?
 
-No support
+No support
 
 ?
 
-No support
+No support
 
 `navigate` mode
 
@@ -177,11 +177,11 @@ No support
 
 [46](https://developer.mozilla.org/en-US/Firefox/Releases/46) (46)
 
-No support
+No support
 
 (Yes)
 
-No support
+No support
 
 `referrer` init option
 
@@ -189,11 +189,11 @@ No support
 
 [47](https://developer.mozilla.org/en-US/Firefox/Releases/47) (47)
 
-No support
+No support
 
 (Yes)
 
-No support
+No support
 
 cross-origin `referrer` stripped out and `navigate` mode converted to `same-origin` when constructor created from existing `Request` object.
 
@@ -201,13 +201,13 @@ cross-origin `referrer` stripped out and `navigate` mode converted to `same-orig
 
 [54](https://developer.mozilla.org/en-US/Firefox/Releases/54) (54)
 
-No support
+No support
 
 (Yes)
 
-No support
+No support
 
-* [1] Some default values for the init parameter changed in Chrome 47. See the Properties section for details. 
+* [1] Some default values for the init parameter changed in Chrome 47. See the Properties section for details.
 * [2] Behind a preference in 34.
 * [3] Behind a preference in 28.
 

@@ -16,7 +16,7 @@ Below you’ll find some basic beer recipes that incorporate mushrooms. Each rec
 
 ### *Turkey Tail Ale*
 
-A golden pale ale with turkey tail (Trametes *versicolor)*
+A golden pale ale with turkey tail (Trametes *versicolor)*
 
 * 6 pounds extra-light malted grain
 * 4 ounces fresh or 2 ounces dried turkey tail mushrooms
@@ -25,7 +25,7 @@ A golden pale ale with turkey tail (Trametes *versicolor)*
 
 ### *Iceman Amber*
 
-An amber ale with birch polypore (Piptoporus *betulinus)* and amadou (Fomes *fomentarius)*
+An amber ale with birch polypore (Piptoporus *betulinus)* and amadou (Fomes *fomentarius)*
 
 * 6 pounds extra-light malted grain
 * 1 pound amber malt
@@ -48,7 +48,7 @@ A natural red lager with reishi (Ganoderma spp.)
 
 ### *Agarikon Stout*
 
-A dark, earthy brew with agarikon (Laricifomes *officinalis, Fomitopsis officinalis)*
+A dark, earthy brew with agarikon (Laricifomes *officinalis, Fomitopsis officinalis)*
 
 * 1 pound chocolate malted grain
 * 1 pound crystal malted grain

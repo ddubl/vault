@@ -17,7 +17,7 @@ Or maybe you’re not. There’s only one way to find out…
 
 It’s a long one, but it’s a listicle so you can skip the boring ones (3, 6, 8, 10).
 
-### #1 Sending data down and up
+### #1 Sending data down and up
 
 The one thing I’d recommend to everyone new to React is to get your head around the pattern of passing information down (as objects, strings, etc.) and passing methods down to allow child components to pass information back up.
 
@@ -25,7 +25,7 @@ Like sending down a packet of chips and a walkie talkie to miners trapped underg
 
 How about a picture? The below *thing* is the simplest form of this pattern.
 
-(image/png) (image/png)Worth a thousand words?
+(image/png) (image/png)Worth a thousand words?
 
 Parent on the left, child on the right. You can think of the two props that connect these components as allowing information to flow in either direction between the two.
 
@@ -35,7 +35,7 @@ That’s not really a pattern.
 
 The rest are patterns. I promise.
 
-### #2 Fixing HTML’s inputs
+### #2 Fixing HTML’s inputs
 
 One of the great things about React, and web components in general, is that you get to iron out the kinks if something in html doesn’t work the way you want.
 
@@ -53,7 +53,7 @@ It’s not purely cosmetic though; there are more improvements to be had:
 
 The point is not to do it like I do it. The point is to make them your own — you don’t need to keep working with the somewhat ass-about nature of HTML’s user input elements.
 
-### #3 Binding labels to inputs with unique IDs
+### #3 Binding labels to inputs with unique IDs
 
 On the topic of inputs… if you care about your users, you’ll bind your `<label>` elements to your `<input>`s via an `id`/`for` combo.
 
@@ -205,7 +205,7 @@ return `element-id-${count++}`;
 
 [view raw](https://gist.github.com/davidgilbertson/0377b00b31afc4ac7c9bbb9b8706cca7/raw/ff81c7332d8ec6725ec6749d7459268b82a821b6/elementIdCreator.js) [elementIdCreator.js](https://gist.github.com/davidgilbertson/0377b00b31afc4ac7c9bbb9b8706cca7#file-elementidcreator-js) hosted with ❤ by [GitHub](https://github.com/)
 
-### #4 Controlling CSS with props
+### #4 Controlling CSS with props
 
 When you want to apply different CSS in different instances (e.g. ‘primary’ and ‘secondary’ buttons) you can pass in props to control which CSS to apply.
 
@@ -467,7 +467,7 @@ This cannot be pleasant to maintain.
 
 With React we can do better. We can thoughtfully design which classes are applied to our components. We can remove global resets and move it all inside our `Button.scss`. We can remove all reliance on specificity and ordering of files.
 
-Side note: I dream of a day when we will be able to tell browsers that we don’t want their opinion about style at all. `::user-agent-styles: none-whatsoever;` — make it happen, vendors. [Edit: a clever chap in the comments has pointed out that `all: unset` may cure what ails me.]
+Side note: I dream of a day when we will be able to tell browsers that we don’t want their opinion about style at all. `::user-agent-styles: none-whatsoever;` — make it happen, vendors. [Edit: a clever chap in the comments has pointed out that `all: unset` may cure what ails me.]
 
 ### #5 The switching component
 
@@ -1015,7 +1015,7 @@ return (
 
 [view raw](https://gist.github.com/davidgilbertson/88f25c3ad800fcf099b00e2201949e8b/raw/9a30735dedd056416d27250c687b945ba6717d4c/numberToPrice-with-usage.jsx) [numberToPrice-with-usage.jsx](https://gist.github.com/davidgilbertson/88f25c3ad800fcf099b00e2201949e8b#file-numbertoprice-with-usage-jsx) hosted with ❤ by [GitHub](https://github.com/)
 
-Note that I’m not checking that I got a valid number in any of the above. That’s because …
+Note that I’m not checking that I got a valid number in any of the above. That’s because …
 
 ### #9 The store is the component’s servant
 
@@ -1073,7 +1073,7 @@ fetch(`/api/search?${queryParams}`)
 
 Your components will thank you for it.
 
-### #10 Importing components without relative paths
+### #10 Importing components without relative paths
 
 Wouldn’t it be sweet if instead of doing this:
 

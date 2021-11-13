@@ -59,7 +59,7 @@ The progressions are laid out in order of easiest to hardest. Remember that the 
 
 **[(image/png)](http://ashotofadrenaline.net/wp-content/uploads/2013/07/Screen-Shot-2013-07-30-at-3.20.57-PM.png)[Decline Push Ups](http://www.youtube.com/watch?v=b_CC4kAF1HQ)** **(5 Points)** - Now we are really starting to step up our game. Find something to put your feet on like a chair or couch. Then crank out your push ups. The exercise shifts the focus to the upper portion of your chest. If you are looking for that extra lift in your pecs than this is the perfect exercise.
 
-**[(image/png)](http://ashotofadrenaline.net/wp-content/uploads/2013/07/Screen-Shot-2013-07-30-at-3.27.06-PM.png)[Dips w/Elbows Out](http://www.youtube.com/watch?v=p5aT2-EhApE)** (**6 Points)**- Dips are one of my favorite chest exercises. Find some parallel bars at the local park or get some chairs and do them off of the back rests or the seat (if it’s high enough). Make sure your elbows are pointed out. This will shift the focus from your triceps to your chest.
+**[(image/png)](http://ashotofadrenaline.net/wp-content/uploads/2013/07/Screen-Shot-2013-07-30-at-3.27.06-PM.png)[Dips w/Elbows Out](http://www.youtube.com/watch?v=p5aT2-EhApE)** (**6 Points)**- Dips are one of my favorite chest exercises. Find some parallel bars at the local park or get some chairs and do them off of the back rests or the seat (if it’s high enough). Make sure your elbows are pointed out. This will shift the focus from your triceps to your chest.
 
 **[(image/png)](http://ashotofadrenaline.net/wp-content/uploads/2013/08/Screen-Shot-2013-08-01-at-6.36.06-PM.png)[Uneven Push Up](http://www.youtube.com/watch?v=WwplF13DQZc)** **(7 Points)** - Get in the same position as the normal push up but shift your weight over to one side. You can either put your hand on an object like how you see in the video or you can simply shift your weight to on side.
 
@@ -75,7 +75,7 @@ The progressions are laid out in order of easiest to hardest. Remember that the 
 
 **[(image/png)](http://ashotofadrenaline.net/wp-content/uploads/2013/07/Screen-Shot-2013-07-31-at-5.24.28-AM.png)[Planche on Rings (Maltese)](http://www.youtube.com/watch?v=QfPW02-Txxo)** **(13 Points)** - And the kingpin of all chest body weight exercises…? The Maltese. Few people on the planet have the patience and determination to master this move. It is very much a “**gymnastic**” move but if you have a set of rings you’ll be to practice this move too.
 
-**Your Score For Chest: ___** 
+**Your Score For Chest: ___**
 
 ## **Shoulders**
 
@@ -99,7 +99,7 @@ The progressions are laid out in order of easiest to hardest. Remember that the 
 
 **[(image/png)](http://ashotofadrenaline.net/wp-content/uploads/2013/07/Screen-shot-2013-07-31-at-6.21.38-PM.png)[Iron Cross](http://www.youtube.com/watch?v=w2gPF1G_gN0)** **(10 Points)**- The Iron Cross is not only a brutally hard exercise but also an aesthetically pleasing move. I can’t do it yet but some day I will!
 
-**Your Score For Shoulders: ___** 
+**Your Score For Shoulders: ___**
 
 ## **Biceps**
 
@@ -115,7 +115,7 @@ The progressions are laid out in order of easiest to hardest. Remember that the 
 
 [(image/png)](http://ashotofadrenaline.net/wp-content/uploads/2013/07/Screen-Shot-2013-07-31-at-9.41.50-PM.png)**[One Arm Chin Ups](http://www.youtube.com/watch?v=JxoLbji8ts0)** **(6 Points)** - These chin ups are very difficult. I have yet to master them.
 
-**Your Score For Biceps: ___** 
+**Your Score For Biceps: ___**
 
 ## **Triceps**
 
@@ -131,7 +131,7 @@ The progressions are laid out in order of easiest to hardest. Remember that the 
 
 [(image/png)](http://ashotofadrenaline.net/wp-content/uploads/2013/08/Screen-Shot-2013-08-01-at-5.45.55-PM.png)**[Tiger Bend](http://www.youtube.com/watch?v=95fApjT8J8c)** **(6 Points)** - The King Pumba of all tricep exercises. I can’t do this one but my buddy **[Hit Richards](http://ashotofadrenaline.net/interview-with-calisthenics-kingz-founder-hit-richards/)** can. Check out the video to learn how to do it.
 
-**Your Score For Triceps: ___** 
+**Your Score For Triceps: ___**
 
 ## **Back**
 
@@ -153,7 +153,7 @@ The progressions are laid out in order of easiest to hardest. Remember that the 
 
 [(image/png)](http://ashotofadrenaline.net/wp-content/uploads/2013/08/Screen-Shot-2013-08-01-at-5.59.32-PM.png)**[One Arm Pull Up](http://www.youtube.com/watch?v=XBFRZnjK8a4)** **(9 Points)** - This is just like the one arm chin up except you will have an overhand grip and not an underhand grip.
 
-**Your Score For Back: ___** 
+**Your Score For Back: ___**
 
 ## **Core**
 
@@ -183,7 +183,7 @@ The progressions are laid out in order of easiest to hardest. Remember that the 
 
 [(image/png)](http://ashotofadrenaline.net/wp-content/uploads/2013/08/Screen-Shot-2013-08-01-at-6.14.57-PM.png)**[Human Flag](http://www.youtube.com/watch?v=XAtZj6lvFpw)** **(13 Points)** - The Human Flag works the core and shoulders a ton. I can’t do them yet but it is certainly on my list! Honestly, I could have just as easily added this exercise to the shoulder section but decided to put them here.
 
-**Your Score For Core: ___** 
+**Your Score For Core: ___**
 
 ## **Legs**
 
@@ -207,7 +207,7 @@ The progressions are laid out in order of easiest to hardest. Remember that the 
 
 [(image/png)](http://ashotofadrenaline.net/wp-content/uploads/2013/08/Screen-Shot-2013-08-01-at-6.23.54-PM.png)**[Pistol Squat](http://www.youtube.com/watch?v=DjxQrgLsty4)** **(10 Points)**- My absolute FAVORITE leg exercise of all time. It takes balance, flexibility and strength. The ultimate combination.
 
-**Your Score For Legs: ___** 
+**Your Score For Legs: ___**
 
 Now add up your total score from each category (*Chest Score + Shoulder Score + Bicep Score + Tricep Score + Back Score + Core Score + Leg Score = Total Score*) and check your level!
 

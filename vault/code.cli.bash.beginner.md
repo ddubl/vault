@@ -13,7 +13,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -25,7 +25,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -37,7 +37,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -49,7 +49,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -61,7 +61,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -73,7 +73,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -85,7 +85,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -97,7 +97,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -109,7 +109,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -121,7 +121,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -133,7 +133,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -145,7 +145,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -157,7 +157,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -169,7 +169,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -181,7 +181,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -193,7 +193,7 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *
 
@@ -205,6 +205,6 @@ Garrels BVBA
 
 <[tille wants no spam _at_ garrels dot be](<http://www.tldp.org/LDP/Bash-Beginners-Guide/html/mailto:tille> wants no spam _at_ garrels dot be)>
 
-Version 1.11 Last updated 20081227 Edition
+Version 1.11 Last updated 20081227 Edition
 
 * * *

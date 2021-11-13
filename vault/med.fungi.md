@@ -26,7 +26,7 @@ Photo Credit: successo images
 
 Understanding how food interacts with our bodies and the role it plays in healing various health conditions can be helpful. Whether food is used as part of a medical treatment or a prevention-focused diet, knowledge is power. Though some may disregard medicinal food, medical researchers have proven how prescriptive diets have been used to minify health risks. One such functional food is mushrooms. There are currently [38,000](http://www.motherearthliving.com/health-and-wellness/not-just-pretty-fungi.aspx) discovered and classified species of mushrooms that hold medicinal benefits.
 
-In the last two decades there has been widespread interest in the role of the immune system for maintaining good health. According to a [study](https://www.academia.edu/305933/Medicinal_Mushrooms_Their_therapeutic_properties_and_current_medical_usage_with_special_emphasis_on_cancer_treatments) on medicinal mushrooms, diseases related to immune dysfunction “such as cancer, chronic fatigue syndrome, AIDS/HIV, hepatitis and autoimmune conditions” are gaining wide attention from medical researchers and clinicians. As a result, practitioners are looking to mushrooms for their medicinal effects on the immune system.  
+In the last two decades there has been widespread interest in the role of the immune system for maintaining good health. According to a [study](https://www.academia.edu/305933/Medicinal_Mushrooms_Their_therapeutic_properties_and_current_medical_usage_with_special_emphasis_on_cancer_treatments) on medicinal mushrooms, diseases related to immune dysfunction “such as cancer, chronic fatigue syndrome, AIDS/HIV, hepatitis and autoimmune conditions” are gaining wide attention from medical researchers and clinicians. As a result, practitioners are looking to mushrooms for their medicinal effects on the immune system.
 
 The immune-strengthening benefits of certain fungi and their extracts have even shown to have an [anti-cancer effect](http://www.ajol.info/index.php/ajb/article/viewFile/14900/58644). While research foundations such as [Cancer Research UK](http://www.cancerresearchuk.org/cancer-help/about-cancer/cancer-questions/mushrooms-in-cancer-treatment) confirm that there is no evidence that mushrooms or mushroom extracts can prevent or cure cancer, specific fungi can prolong and improve the lives of cancer patients, as well as enhance their recovery process.
 
@@ -60,7 +60,7 @@ The immune-boosting nutrients and health benefits of medicinal mushrooms continu
 
 *These statements have not been evaluated by the FDA and are not intended to diagnose, treat, or cure any disease. Consult with your physician before making any medical decisions.*
 
-Andreea Nica is a writer, educator and media strategist, and the founder of [Organicommunications](http://organicommunications.com/).
+Andreea Nica is a writer, educator and media strategist, and the founder of [Organicommunications](http://organicommunications.com/).
 
 .
  [Share on Facebook](http://www.alternet.org/personal-health/5-types-medicinal-mushrooms-and-surprising-ways-they-can-boost-your-health#)
@@ -125,12 +125,12 @@ iPhone 10 year anniversary: Apple CEO Tim Cook says 'best is yet to come’
 
 Powered by
 
- [](http://popup.taboola.com/en/?template=colorbox&utm_source=rs-alternet&utm_medium=referral&utm_content=autosized-generated-2r:autosized-generated-2r:) [by Taboola](http://popup.taboola.com/en/?template=colorbox&utm_source=rs-alternet&utm_medium=referral&utm_content=autosized-generated-2r:autosized-generated-2r:) 
-[Sponsored Links](http://popup.taboola.com/en/?template=colorbox&utm_source=rs-alternet&utm_medium=referral&utm_content=autosized-generated-2r:autosized-generated-2r:) 
+ [](http://popup.taboola.com/en/?template=colorbox&utm_source=rs-alternet&utm_medium=referral&utm_content=autosized-generated-2r:autosized-generated-2r:) [by Taboola](http://popup.taboola.com/en/?template=colorbox&utm_source=rs-alternet&utm_medium=referral&utm_content=autosized-generated-2r:autosized-generated-2r:)
+[Sponsored Links](http://popup.taboola.com/en/?template=colorbox&utm_source=rs-alternet&utm_medium=referral&utm_content=autosized-generated-2r:autosized-generated-2r:)
 
 From the Web
 
- [](http://popup.taboola.com/en/?template=colorbox&utm_source=rs-alternet&utm_medium=referral&utm_content=text-links-vertical:text-links-vertical:) [by Taboola](http://popup.taboola.com/en/?template=colorbox&utm_source=rs-alternet&utm_medium=referral&utm_content=text-links-vertical:text-links-vertical:) 
-[Sponsored Links](http://popup.taboola.com/en/?template=colorbox&utm_source=rs-alternet&utm_medium=referral&utm_content=text-links-vertical:text-links-vertical:) 
+ [](http://popup.taboola.com/en/?template=colorbox&utm_source=rs-alternet&utm_medium=referral&utm_content=text-links-vertical:text-links-vertical:) [by Taboola](http://popup.taboola.com/en/?template=colorbox&utm_source=rs-alternet&utm_medium=referral&utm_content=text-links-vertical:text-links-vertical:)
+[Sponsored Links](http://popup.taboola.com/en/?template=colorbox&utm_source=rs-alternet&utm_medium=referral&utm_content=text-links-vertical:text-links-vertical:)
 
 Recommended

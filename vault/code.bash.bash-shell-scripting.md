@@ -505,8 +505,8 @@ The above uses two built-in commands:
 * The construction [[ *condition* ]] returns an exit status of zero (success) if *condition* is true, and a nonzero exit status (failure) if *condition* is false. In our case, *condition* is -e source.txt, which is true if and only if there exists a file named source.txt.
 * The construction
 
-    if *command1* ; then
-      *command2*
+    if *command1* ; then
+      *command2*
     fi
 
     first runs *command1*; if that completes successfully (that is, if its exit status is zero), then it goes on to run *command2*.
@@ -644,7 +644,7 @@ True if *string1* and *string2* are equal.
 
 True if *string* matches *pattern*. (*pattern* has the same form as a pattern in filename expansion; for example, unquoted * means "zero or more characters".)
 
-*string* != *pattern*
+*string* != *pattern*
 
 True if *string* does *not* match *pattern*.
 
@@ -696,7 +696,7 @@ if [[ -e source.txt ]] && ! [[ -e destination.txt ]] ; then
   cp source.txt destination.txt
 fi
 
-The test-command `[[ -e source.txt ]] && ! [[ -e destination.txt ]]` uses the && and ! operators that we saw above that work based on exit status. [[ *condition* ]] is "successful" if *condition* is true, which means that `[[ -e source.txt ]] && ! [[ -e destination.txt ]]` will only run `! [[ -e destination.txt ]]` if source.txt exists. Furthermore, ! inverts the exit status of `[[ -e destination.txt ]]`, so that `! [[ -e destination.txt ]]` is "successful" if and only if destination.txt *doesn't* exist. The end result is that `[[ -e source.txt ]] && ! [[ -e destination.txt ]]` is "successful" — "true" — if and only if source.txt *does* exist and destination.txt does *not* exist.
+The test-command `[[ -e source.txt ]] && ! [[ -e destination.txt ]]` uses the && and ! operators that we saw above that work based on exit status. [[ *condition* ]] is "successful" if *condition* is true, which means that `[[ -e source.txt ]] && ! [[ -e destination.txt ]]` will only run `! [[ -e destination.txt ]]` if source.txt exists. Furthermore, ! inverts the exit status of `[[ -e destination.txt ]]`, so that `! [[ -e destination.txt ]]` is "successful" if and only if destination.txt *doesn't* exist. The end result is that `[[ -e source.txt ]] && ! [[ -e destination.txt ]]` is "successful" — "true" — if and only if source.txt *does* exist and destination.txt does *not* exist.
 
 The construction `[[ … ]]` actually has built-in internal support for these operators, such that we can also write the above this way:
 
@@ -1139,7 +1139,7 @@ prints 19. Note that using "expr" requires an escape character "\" before the mu
 
 ### Numeric operators[[edit](https://en.wikibooks.org/w/index.php?title=Bash_Shell_Scripting&action=edit&section=37)]
 
-In addition to the familiar notations + (addition) and - (subtraction), arithmetic expressions also support * (multiplication), / (integer division, described above), % (the "remainder" operation; for example, 11 divided by 5 is 2 remainder 1, so 11 % 5 is 1), and ** ("exponentiation", i.e. involution; for example, 24 = 16, so 2 ** 4 is 16).
+In addition to the familiar notations + (addition) and - (subtraction), arithmetic expressions also support * (multiplication), / (integer division, described above), % (the "remainder" operation; for example, 11 divided by 5 is 2 remainder 1, so 11 % 5 is 1), and ** ("exponentiation", i.e. involution; for example, 24 = 16, so 2 ** 4 is 16).
 
 The operators + and -, in addition to their "binary" (two-operand) senses of "addition" and "subtraction", have "unary" (one-operand) senses of "positive" and "negative". Unary + has basically no effect; unary - inverts the sign of its operand. For example, -(3*4) evaluates to -12, and -(-(3*4)) evaluates to 12.
 
@@ -1213,7 +1213,7 @@ Arithmetic expressions support the integer comparison operators <, >, <= (meanin
 
 They also support the Boolean operators && ("and"), which evaluates to 0 if either of its operands is zero, and to 1 otherwise; || ("or"), which evaluates to 1 if either of its operands is nonzero, and to 0 otherwise; and ! ("not"), which evaluates to 1 if its operand is zero, and to 0 otherwise. Aside from their use of zero to mean "false" and nonzero values to mean "true", these are just like the operators &&, ||, and ! that we've seen outside arithmetic expressions. Like those operators, these are "short-cutting" operators that do not evaluate their second argument if their first argument is enough to determine a result. For example, (( ( i = 0 ) && ( j = 2 ) )) will not evaluate the ( j = 2 ) part, and therefore will not set $j to 2, because the left operand of && is zero ("false").
 
-And they support the conditional operator *b* ? *e1* : *e2*. This operator evaluates *e1*, and returns its result, if *b* is nonzero; otherwise, it evaluates *e2* and returns its result.
+And they support the conditional operator *b* ? *e1* : *e2*. This operator evaluates *e1*, and returns its result, if *b* is nonzero; otherwise, it evaluates *e2* and returns its result.
 
 These operators can be combined in complex ways:
 
@@ -1466,8 +1466,8 @@ Explanation
 !
 
 * Logically negates the exit status of a pipeline. For example, if grep YES votes.txt returns 0, then ! grep YES votes.txt returns 1, but is otherwise equivalent.
-* Also supported by the [ ... ] builtin, and inside conditional expressions. For example, if [[ -e file.txt ]] is true, then [[ ! -e file.txt ]] is false.
-* Also supported in arithmetic expressions. For example, if $i is nonzero, then $(( ! i )) is 0.
+* Also supported by the [ ... ] builtin, and inside conditional expressions. For example, if [[ -e file.txt ]] is true, then [[ ! -e file.txt ]] is false.
+* Also supported in arithmetic expressions. For example, if $i is nonzero, then $(( ! i )) is 0.
 * See also #! below.
 
 "…"
@@ -1573,7 +1573,7 @@ At sign. Typically used as a variable containing all arguments passed to the env
 
 [
 
-Open square bracket. Used as a more visually appealing alternative to test. E.g. if [ condition ] ; then etc
+Open square bracket. Used as a more visually appealing alternative to test. E.g. if [ condition ] ; then etc
 
 \
 

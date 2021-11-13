@@ -26,7 +26,7 @@ The comments on yesterday’s post indicated some general interest in strong dis
 
 Here’s a safe, super-strong way to disinfect. We covered it in *The Urban Homestead*, and it floats around the interwebs, too, so it may be review for some of you.
 
-1) Take a bottle of hydrogen peroxide (3% solution, the kind you buy in the drugstore). Leave it in the  brown bottle it comes in because hydrogen peroxide is light sensitive. Screw a spray bottle nozzle onto the brown bottle.
+1) Take a bottle of hydrogen peroxide (3% solution, the kind you buy in the drugstore). Leave it in the  brown bottle it comes in because hydrogen peroxide is light sensitive. Screw a spray bottle nozzle onto the brown bottle.
 
 2) Fill another spray bottle with undiluted white vinegar.
 

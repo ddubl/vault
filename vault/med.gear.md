@@ -15,9 +15,9 @@ Wow thats a lot ! We have a stack called ULTRA 8 its 300 mg EQ , 200mg Test E , 
  100mg Trenbolone-Enantathe
  100mg Masteron Enanthate
 
-dostinex - cabergoline: Cabergoline
+dostinex - cabergoline: Cabergoline
 
-Cabergoline, an ergot derivative, is a potent dopamine receptor agonist on D₂ receptors. Rat studies show cabergoline has a direct inhibitory effect on pituitary lactotroph cells. [Wikipedia](http://en.wikipedia.org/wiki/Cabergoline)
+Cabergoline, an ergot derivative, is a potent dopamine receptor agonist on D₂ receptors. Rat studies show cabergoline has a direct inhibitory effect on pituitary lactotroph cells. [Wikipedia](http://en.wikipedia.org/wiki/Cabergoline)
 https://www.drugs.com/cdi/dostinex.html
 
 treating disorders associated with high prolactin levels: pituitary tumor:
@@ -32,56 +32,56 @@ treating disorders associated with high prolactin levels: pituitary tumor:
 
 Contact your doctor or health care provider right away if any of these apply to you.
 
-* if you have liver problems or high blood pressure
+* if you have liver problems or high blood pressure
 * Some MEDICINES MAY INTERACT with Dostinex. Tell your health care provider if you are taking any other medicines, especially any of the following:
-    
+
     * Macrolides (eg, clarithromycin) because they may increase the risk of Dostinex's side effects
     * Butyrophenones (eg, haloperidol), metoclopramide, phenothiazines (eg, chlorpromazine), or thioxanthenes (eg, thiothixene) because they may decrease Dostinex's effectiveness
     * "Triptans" (eg, sumatriptan) because the risk of their side effects may be increased by Dostinex
 * This may not be a complete list of all interactions that may occur. Ask your health care provider if Dostinex may interact with other medicines that you take. Check with your health care provider before you start, stop, or change the dose of any medicine.
 
-**Oral** [**steroids**](http://www.steroid.com/) **Drug Active half-life** 
-[Anadrol](http://www.steroid.com/Anadrol.php) / Anapolan50 (oxymetholone) 8 to 9 hours 
-[Anavar](http://www.steroid.com/Anavar.php) (oxandrolone) 9 hours 
-[Dianabol](http://www.steroid.com/Dianabol.php) ([methandrostenolone](http://www.steroid.com/Dianabol.php) , methandienone) 4.5 to 6 hours 
+**Oral** [**steroids**](http://www.steroid.com/) **Drug Active half-life**
+[Anadrol](http://www.steroid.com/Anadrol.php) / Anapolan50 (oxymetholone) 8 to 9 hours
+[Anavar](http://www.steroid.com/Anavar.php) (oxandrolone) 9 hours
+[Dianabol](http://www.steroid.com/Dianabol.php) ([methandrostenolone](http://www.steroid.com/Dianabol.php) , methandienone) 4.5 to 6 hours
 [Winstrol](http://www.steroid.com/Winstrol.php) ([stanozolol](http://www.steroid.com/Winstrol.php) )
-(tablets or depot taken orally) 9 hours 
-**Depot [steroids](http://www.steroid.com/) Drug Active half-life** 
-[Deca](http://www.steroid.com/Deca.php) -[durabolin](http://www.steroid.com/Deca.php) ([Nandrolone](http://www.steroid.com/Deca.php) decanate) 14 days 
-[Equipoise](http://www.steroid.com/Equipoise.php) 14 days 
-Finaject ([trenbolone](http://www.steroid.com/Trenbolone-Acetate.php) acetate) 3 days 
-[Primobolan](http://www.steroid.com/Primobolan.php) (methenolone [enanthate](http://www.steroid.com/Testosterone-Enanthate.php)) 10.5 days 
-[Sustanon](http://www.steroid.com/Sustanon-250.php) or [Omnadren](http://www.steroid.com/Omnadren.php) 15 to 18 days 
-Testosterone [Cypionate](http://www.steroid.com/Testosterone-Cypionate.php) 12 days 
-Testosterone [Enanthate](http://www.steroid.com/Testosterone-Enanthate.php) 10.5 days 
-Testosterone [Propionate](http://www.steroid.com/Testosterone-Propionate.php) 4.5 days 
-Testosterone [Suspension](http://www.steroid.com/Testosterone-Suspension.php) 1 day 
-Winstrol (stanozolol) 1 day 
-**Steroid esters Drug Active half-life** 
-Formate 1.5 days 
-Acetate 3 days 
-[Propionate](http://www.steroid.com/Testosterone-Propionate.php) 2 days Phenylpropionate 4.5 days 
-Butyrate 6 days 
-Valerate 7.5 days 
-Hexanoate 9 days 
-Caproate 9 days 
-Isocaproate 9 days 
-Heptanoate 10.5 days 
-[Enanthate](http://www.steroid.com/Testosterone-Enanthate.php) 10.5 days Octanoate 12 days 
-Cypionate 12 days 
-Nonanoate 13.5 days 
-Decanoate 15 days 
-Undecanoate 16.5 days 
-**Ancillaries Drug Active half-life** 
-[Arimidex](http://www.steroid.com/Arimidex.php) 3 days 
-[Clenbuterol](http://www.steroid.com/Clenbuterol.php) 1.5 days 
-Clomid 5 days 
-[Cytadren](http://www.steroid.com/Cytadren.php) 6 hours 
+(tablets or depot taken orally) 9 hours
+**Depot [steroids](http://www.steroid.com/) Drug Active half-life**
+[Deca](http://www.steroid.com/Deca.php) -[durabolin](http://www.steroid.com/Deca.php) ([Nandrolone](http://www.steroid.com/Deca.php) decanate) 14 days
+[Equipoise](http://www.steroid.com/Equipoise.php) 14 days
+Finaject ([trenbolone](http://www.steroid.com/Trenbolone-Acetate.php) acetate) 3 days
+[Primobolan](http://www.steroid.com/Primobolan.php) (methenolone [enanthate](http://www.steroid.com/Testosterone-Enanthate.php)) 10.5 days
+[Sustanon](http://www.steroid.com/Sustanon-250.php) or [Omnadren](http://www.steroid.com/Omnadren.php) 15 to 18 days
+Testosterone [Cypionate](http://www.steroid.com/Testosterone-Cypionate.php) 12 days
+Testosterone [Enanthate](http://www.steroid.com/Testosterone-Enanthate.php) 10.5 days
+Testosterone [Propionate](http://www.steroid.com/Testosterone-Propionate.php) 4.5 days
+Testosterone [Suspension](http://www.steroid.com/Testosterone-Suspension.php) 1 day
+Winstrol (stanozolol) 1 day
+**Steroid esters Drug Active half-life**
+Formate 1.5 days
+Acetate 3 days
+[Propionate](http://www.steroid.com/Testosterone-Propionate.php) 2 days Phenylpropionate 4.5 days
+Butyrate 6 days
+Valerate 7.5 days
+Hexanoate 9 days
+Caproate 9 days
+Isocaproate 9 days
+Heptanoate 10.5 days
+[Enanthate](http://www.steroid.com/Testosterone-Enanthate.php) 10.5 days Octanoate 12 days
+Cypionate 12 days
+Nonanoate 13.5 days
+Decanoate 15 days
+Undecanoate 16.5 days
+**Ancillaries Drug Active half-life**
+[Arimidex](http://www.steroid.com/Arimidex.php) 3 days
+[Clenbuterol](http://www.steroid.com/Clenbuterol.php) 1.5 days
+Clomid 5 days
+[Cytadren](http://www.steroid.com/Cytadren.php) 6 hours
 T3 10 hours
 
 Detectioin times
 
-[DECA](https://www.steroid.com/Deca-Durabolin.php) - [DURABOLIN](https://www.steroid.com/Durabolin.php)
+[DECA](https://www.steroid.com/Deca-Durabolin.php) - [DURABOLIN](https://www.steroid.com/Durabolin.php)
 NORANDREN
 DECA-DURABOL
 DECA - DURABOL
@@ -89,7 +89,7 @@ TURINABOL DEPOT
 [ANABOLICUM](https://www.steroid.com/Anabolicum.php)
 [DYNABOLAN](https://www.steroid.com/Dynabolan.php)
 
-[NANDROLONE DECANOATE](https://www.steroid.com/Deca-Durabolin.php) NANDROLONE UNDECANOATE
+[NANDROLONE DECANOATE](https://www.steroid.com/Deca-Durabolin.php) NANDROLONE UNDECANOATE
 
 17 - 18 MONTHS
 
@@ -102,7 +102,7 @@ ANABOLIN
 
 11 - 12 MONTHS
 
-[DIANABOL](https://www.steroid.com/Dianabol.php) (INJECT)
+[DIANABOL](https://www.steroid.com/Dianabol.php) (INJECT)
 D-BOL (INJECT)
 
 METHANDIENONE (INJECTABLE)
@@ -115,7 +115,7 @@ GANABOL
 [EQUIPOISE](https://www.steroid.com/Equipoise.php)
 EQUIGAN
 
-[BOLDENONE](https://www.steroid.com/Equipoise.php) UNDECYLENATE
+[BOLDENONE](https://www.steroid.com/Equipoise.php) UNDECYLENATE
 
 4 - 5 MONTHS
 
@@ -129,7 +129,7 @@ TREMBOLONE ACETATE
 
 [TESTOSTERONE CYPIONATE](https://www.steroid.com/Testosterone-Cypionate.php)
 
-TESTOSTERONE [CYPIONATE](https://www.steroid.com/Testosterone-Cypionate.php)
+TESTOSTERONE [CYPIONATE](https://www.steroid.com/Testosterone-Cypionate.php)
 
 3 MONTHS
 
@@ -176,7 +176,7 @@ STROMBA
 WINSTROLV
 STANOLV
 
-[STANOZOLOL](https://www.steroid.com/Stanozolol.php) (INJECT)
+[STANOZOLOL](https://www.steroid.com/Stanozolol.php) (INJECT)
 
 2 MONTHS
 
@@ -207,13 +207,13 @@ METHANDIENONE (ORAL)
 
 [PRIMOBOLAN DEPOT](https://www.steroid.com/primobolan-depot.php)
 
-(INJECTABLE) METHENOLONE [ENANTHATE](https://www.steroid.com/Testosterone-Enanthate.php)
+(INJECTABLE) METHENOLONE [ENANTHATE](https://www.steroid.com/Testosterone-Enanthate.php)
 
 4 - 5 WEEKS
 
 [ANAVAR](https://www.steroid.com/Anavar.php)
 LIPIDEX
-[OXANDROLONE](https://www.steroid.com/Oxandrolone.php) SPA
+[OXANDROLONE](https://www.steroid.com/Oxandrolone.php) SPA
 
 OXANDROLONE
 

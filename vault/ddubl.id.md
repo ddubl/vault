@@ -12,6 +12,6 @@ dwl : pronounced devil
   ssbm: ib.ttv_ddbublYOU
 grimnir : norse gods
 einn øgha : sole organ
-  Organ ohne Körper :  ooken (group)
+  Organ ohne Körper :  ooken (group)
 obJeta
 butch cassidy

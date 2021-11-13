@@ -82,7 +82,7 @@ Anchors do not match any characters. They match a position. ^ matches at the sta
 
 Alternation is the regular expression equivalent of "or". cat|dog matches cat in About cats and dogs. If the regex is applied again, it matches dog. You can add as many alternatives as you want: cat|dog|mouse|fish.
 
-Alternation has the lowest precedence of all regex operators. cat|dog food matches cat or dog food. To create a regex that matches cat food or dog food, you need to group the alternatives: (cat|dog) food.
+Alternation has the lowest precedence of all regex operators. cat|dog food matches cat or dog food. To create a regex that matches cat food or dog food, you need to group the alternatives: (cat|dog) food.
 
 [Learn more about alternation](http://www.regular-expressions.info/alternation.html)
 

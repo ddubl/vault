@@ -67,8 +67,11 @@
         "gitblame.ignoreWhitespace": true,
         "gitlens.blame.ignoreWhitespace": true,
         "workbench.colorTheme": "Gruvbox Material Dark",
-        "editor.tabCompletion": "on",
-        "typescript.inlayHints.enumMemberValues.enabled": true
+        "markdownShortcuts.icons.strikethrough": false,
+        "markdownShortcuts.icons.italic": false,
+        "markdownShortcuts.icons.bullets": false,
+        "markdownShortcuts.icons.bold": false,
+        "editor.tabCompletion": "on"
 
     }
 }

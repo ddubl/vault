@@ -27,10 +27,10 @@ created: 1633199321453
 ### Directions
 
 1. In a large skillet or dutch oven set over medium heat, add the oil. When the oil is hot, saute the onion until tender. Add the carrots and potatoes, cook for 5 minutes.
-2. Pour in the coconut milk and chicken broth, bring mixture to a simmer. Add peanut butter, brown sugar, lime juice, fish sauce and curry pastes, mix to combine. Let the potatoes and carrots simmer for 10 minutes, then add the sliced chicken. Continue cooking for an additional 10-15 minutes or until the vegetables are tender and the chicken is fully cooked.
+2. Pour in the coconut milk and chicken broth, bring mixture to a simmer. Add peanut butter, brown sugar, lime juice, fish sauce and curry pastes, mix to combine. Let the potatoes and carrots simmer for 10 minutes, then add the sliced chicken. Continue cooking for an additional 10-15 minutes or until the vegetables are tender and the chicken is fully cooked.
 3. Remove from the heat, serve over freshly cooked white or brown rice. Garnish with additional peanuts, sliced lime and thai basil, if desired.
 
-* I used Chaokoh brand coconut milk
+* I used Chaokoh brand coconut milk
 
 Tags:
 
