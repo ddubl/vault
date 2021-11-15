@@ -35,10 +35,10 @@ commands:
             leaveTrace: true
     randomNote: {}
     insertNote:
-        initialValue: templates
+        initialValue: template
     insertNoteLink:
-        aliasMode: none
-        enableMultiSelect: true
+        aliasMode: snippet
+        enableMultiSelect: false
     insertNoteIndex:
         enableMarker: true
 workspace:
@@ -109,3 +109,5 @@ workspace:
     maxNoteLength: 204800
     enableUserTags: true
     enableHashTags: true
+    workspaces: {}
+noRandomlyColoredTags: true

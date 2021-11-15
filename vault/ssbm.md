@@ -2,7 +2,7 @@
 id: nbyF54kdC5agsbHsRFgxB
 title: Ssbm
 desc: ''
-updated: 1636827501973
+updated: 1636983214446
 created: 1633810179938
 ---
 jumpless up.b?
@@ -28,3 +28,11 @@ tumble percentages [[ssbm.fox]]
 how long is fox's total sh duration?
 
 can I shine jc. j2 drill not ff and retain safety
+
+## mechanics
+### stick
+#### fastfall ff
+y:-.6625
+### buffers
+#### fastfall
+fastfall bufferable for 3f #? always? #test

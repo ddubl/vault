@@ -2,7 +2,7 @@
 id: GduD9p988bMOZ290GlhqJ
 title: Vim
 desc: ''
-updated: 1636840541187
+updated: 1636982665797
 created: 1636203835676
 ---
 
@@ -11,6 +11,9 @@ matching character = %
 #research
 next group
   }
+
+## motions
+f, t are direction-specific
 
 ## marks
 delete all with :delmarks!
@@ -22,7 +25,6 @@ issues with global marks
 
 #q how to regex in ":s//g"?
 
-
 ## surround - vim.surround
 :v S(surroundings)
   for brackets/braces, closing braces insert without spaces
@@ -30,8 +32,23 @@ issues with global marks
   ys(move)(surroundings)
   cs(move)(surroundings)
 
+### brackets
+ysi(Bracket)
+  [ with space
+  ] without
+
 ## search case sensitive
 :set smartcase/ignorecase/noignorecase
 
 ## remove highlighting
 :noh
+
+## reselect visual
+* gv
+for surround commands, now that we have brackets, the ys-commands work
+
+#? paste to eol?
+## insert to [motion]
+move to space in normal
+get to insert
+^r and specify register to paste

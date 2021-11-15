@@ -2,10 +2,14 @@
 id: xLv0FWdgaR1TAh5aC4gcJ
 title: vscode
 desc: ''
-updated: 1636839892281
+updated: 1636911692943
 created: 1636733565597
 ---
 ## search-replace
+
+replace with unicode?
+-> regex \n
+
 ### in selection
 I was able to get it to work but the workflow is poor:
 

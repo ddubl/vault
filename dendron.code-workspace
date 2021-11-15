@@ -15,6 +15,10 @@
     },
     "folders": [
         {
+            "path": "dendron/vault",
+            "name": "dendron"
+        },
+        {
             "path": "stream"
         },
         {
@@ -38,6 +42,7 @@
         "editor.suggest.showSnippets": true,
         "editor.suggest.snippetsPreventQuickSuggestions": false,
         "editor.tabSize": 2,
+        "editor.wordWrap": "off",
         "files.autoSave": "onFocusChange",
         "git.enableSmartCommit": true,
         "git.fetchOnPull": true,
@@ -63,7 +68,7 @@
         "workbench.preferredLightColorTheme": "Gruvbox Material Light",
         "gitblame.ignoreWhitespace": true,
         "gitlens.blame.ignoreWhitespace": true,
-        "workbench.colorTheme": "Gruvbox Material Dark",
+        "workbench.colorTheme": "Gruvbox Material Light",
         "markdownShortcuts.icons.strikethrough": false,
         "markdownShortcuts.icons.italic": false,
         "markdownShortcuts.icons.bullets": false,

@@ -2,7 +2,7 @@
 id: HdP8T49HhsXYpf0Emi10K
 title: Cheatsheet
 desc: ''
-updated: 1636840594663
+updated: 1636974126919
 created: 1636835713375
 ---
 
@@ -115,6 +115,10 @@ created: 1636835713375
 *   at       - a block with <> tags
 *   ib       - inner block with ()
 *   iB       - inner block with {}
+  #? with []
+  #a replace iB with i(Bracket)
+    [ with space
+    ] without
 *   it       - inner block with <> tags
 *   Esc      - exit visual mode
 
