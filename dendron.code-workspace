@@ -68,7 +68,7 @@
         "workbench.preferredLightColorTheme": "Gruvbox Material Light",
         "gitblame.ignoreWhitespace": true,
         "gitlens.blame.ignoreWhitespace": true,
-        "workbench.colorTheme": "Gruvbox Material Light",
+        "workbench.colorTheme": "Gruvbox Material Dark",
         "markdownShortcuts.icons.strikethrough": false,
         "markdownShortcuts.icons.italic": false,
         "markdownShortcuts.icons.bullets": false,
