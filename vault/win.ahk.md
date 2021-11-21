@@ -2,12 +2,12 @@
 id: S0TKePyBqHHy7YH5tPlYB
 title: Ahk
 desc: ''
-updated: 1636417567074
+updated: 1637442648840
 created: 1636406624931
 ---
 RShift - RShift/Escape
-
 Hyper
+#todo
 make CapsLK into Prefix:
   generatorFunction for [[CustomCombinations|https://www.autohotkey.com/docs/Hotkeys.htm#combo]]
 
@@ -43,3 +43,5 @@ Class Game
 ## concepts
 
 defining custom combinations makes the first key work as a prefix keys and lose their native function! If subsequent hotkeys use the modifier key, the use hooks
+
+#issue rightShift stuck? /rightEscape doesn't trigger

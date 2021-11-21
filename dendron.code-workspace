@@ -35,7 +35,7 @@
             "defaultStyle": {}
         },
         "dendron.rootDir": ".",
-        "editor.fontFamily": "VictorMono Nerd Font, Cascadia Code PL, Monaco, 'Courier New', monospace",
+        "editor.fontFamily": "Cascadia Code PL, Victor Mono,  Monaco, 'Courier New', monospace",
         "editor.snippetSuggestions": "inline",
         "editor.suggest.localityBonus": true,
         "editor.suggest.showSnippets": true,
@@ -67,11 +67,6 @@
         "markdownShortcuts.icons.bullets": false,
         "markdownShortcuts.icons.bold": false,
         "editor.tabCompletion": "on",
-        "gitdoc.enabled": true,
-        "gitdoc.autoPull": "onCommit",
-        "gitdoc.autoCommitDelay": 10000,
-        "gitdoc.autoPush": "onCommit",
-        "vim.enableNeovim": true,
-        "vim.vimrc.path": "$home/.config/nvim/init.vim"
+        "editor.acceptSuggestionOnEnter": "smart"
     }
 }

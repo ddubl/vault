@@ -2,10 +2,15 @@
 id: nXnoHSB9pHdHoZPR7S2m2
 title: Powershell
 desc: ''
-updated: 1633199321476
+updated: 1637436741385
 created: 1633199321476
 ---
-# Powershell Learnings
+
+## Concepts
+
+### PSDrive
+### default-variables
+
 Before starting: set SetExecutionPolicy and enable Developer features in windows
 
 Most important difference between powershell and other shells:
