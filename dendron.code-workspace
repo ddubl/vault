@@ -15,10 +15,6 @@
     },
     "folders": [
         {
-            "path": "dendron/vault",
-            "name": "dendron"
-        },
-        {
             "path": "stream"
         },
         {
@@ -49,7 +45,6 @@
         "git.pruneOnFetch": true,
         "gitdoc.autoPullDelay": 10000,
         "gitdoc.autoPushDelay": 10000,
-        "gitdoc.enabled": true,
         "gitlens.codeLens.enabled": false,
         "markdownlint.config": {
             "MD013": false,
@@ -65,6 +60,7 @@
         "window.autoDetectColorScheme": true,
         "workbench.iconTheme": "gruvbox-material-icon-theme",
         "workbench.preferredLightColorTheme": "Gruvbox Material Light",
+        "workbench.preferredDarkColorTheme": "Duotoned",
         "gitblame.ignoreWhitespace": true,
         "gitlens.blame.ignoreWhitespace": true,
         "workbench.colorTheme": "Duotoned",
@@ -73,6 +69,9 @@
         "markdownShortcuts.icons.bullets": false,
         "markdownShortcuts.icons.bold": false,
         "editor.tabCompletion": "on",
-        "workbench.preferredDarkColorTheme": "Duotoned"
+        "gitdoc.enabled": true,
+        "gitdoc.autoPull": "onCommit",
+        "gitdoc.autoCommitDelay": 10000,
+        "gitdoc.autoPush": "onCommit"
     }
 }

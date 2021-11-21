@@ -2,9 +2,8 @@
 id: v8QFDGIeCZhgcgFHnc0K6
 title: Sfv
 desc: ''
-updated: 1636296394500
+updated: 1637534654214
 created: 1634391048552
-stub: true
 ---
 ## fundamentals
 
