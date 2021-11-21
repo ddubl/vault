@@ -2,7 +2,11 @@
 id: Sllst1CcXd9eXOFdHiFZy
 title: Dev
 desc: ''
-updated: 1636842259803
+<<<<<<< HEAD
+updated: 1637533244885
+=======
+updated: 1637320966609
+>>>>>>> cfd0cd1 (--no-message)
 created: 1636471406096
 ---
 meta
@@ -48,3 +52,10 @@ todo-state-sync -> view conversion
 todoist   list
 workflowy text
 gcal      calendar
+
+## tooling
+### ui design
+- flutter
+
+## snippet management
+gist on github via gisto

@@ -2,7 +2,7 @@
 id: 26jJupgXQTdVhVC2cHfoL
 title: windows-dotfiles-KonBCuE9o9lD
 desc: ''
-updated: 1633199321522
+updated: 1637533258243
 created: 1633199321522
 ---
 install scoop - install cmder - install bash4win -
@@ -35,3 +35,23 @@ vsCode
 Design
 Adobe Suite
 Unity
+
+## macos
+### system
+brew
+
+### cli
+iterm
+tmux
+
+### editors
+vim/nvim
+emacs
+vscode
+
+## workflow
+think
+  textual
+  vocal
+  video
+  movement/proprioceptional

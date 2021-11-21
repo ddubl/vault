@@ -63,6 +63,8 @@
         "rpc.enabled": false,
         "todo-tree.tree.scanMode": "workspace",
         "window.autoDetectColorScheme": true,
+        "workbench.iconTheme": "gruvbox-material-icon-theme",
+        "workbench.preferredLightColorTheme": "Gruvbox Material Light",
         "gitblame.ignoreWhitespace": true,
         "gitlens.blame.ignoreWhitespace": true,
         "workbench.colorTheme": "Duotoned",
@@ -70,6 +72,7 @@
         "markdownShortcuts.icons.italic": false,
         "markdownShortcuts.icons.bullets": false,
         "markdownShortcuts.icons.bold": false,
-        "editor.tabCompletion": "on"
+        "editor.tabCompletion": "on",
+        "workbench.preferredDarkColorTheme": "Duotoned"
     }
 }
