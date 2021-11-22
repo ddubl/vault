@@ -2,11 +2,7 @@
 id: thhQgSiM2RZYg1TZjaOep
 title: Training
 desc: ''
-<<<<<<< HEAD
-updated: 1637533268537
-=======
-updated: 1637320823871
->>>>>>> cfd0cd1 (--no-message)
+updated: 1637582807578
 created: 1633292753469
 stub: true
 ---
@@ -25,7 +21,7 @@ pro/regressions
 
 data
   load/mov pat
-  mov pat:
+  mov pat
 
 flow
 
