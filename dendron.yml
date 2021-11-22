@@ -22,7 +22,7 @@ site:
         action: useVault
         payload:
             - dwl
-            - todo
+            - task
             - journal
             - stream
     siteNotesDir: ~/vault
@@ -57,11 +57,11 @@ workspace:
                 type: git
                 url: 'git@github.com:ddubl/vault.git#stream'
         -
-            fsPath: todo
-            name: todo
+            fsPath: task
+            name: task
             remote:
                 type: git
-                url: 'git@github.com:ddubl/vault.git#todo'
+                url: 'git@github.com:ddubl/vault.git#task'
         -
             fsPath: journal
             name: journal
