@@ -1,0 +1,12 @@
+---
+id: S09ULFKQQUIHGYsXcSQyN
+title: Band
+desc: ''
+updated: 1637685137935
+created: 1637684974852
+---
+register subcit, muscular tension, putting them together into patterns, that yield keyboard presses?
+non-visual, very haptic way of engaging with text.
+
+being able to take keyboard apart and arrange it in space.
+fingers don't need to be in typing position -> i.e. before you
