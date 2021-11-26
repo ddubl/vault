@@ -2,7 +2,7 @@
 id: S09ULFKQQUIHGYsXcSQyN
 title: Band
 desc: ''
-updated: 1637685137935
+updated: 1637923955464
 created: 1637684974852
 ---
 register subcit, muscular tension, putting them together into patterns, that yield keyboard presses?
