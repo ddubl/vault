@@ -2,9 +2,9 @@
 	path = journal
 	url = git@github.com:ddubl/vault.git
     branch = journal
-[submodule "todo"]
+[submodule "task"]
 	path = task
-	url = git@github.com:ddubl/vault.git
+	url = ./task
     branch = task
 [submodule "stream"]
 	path = stream
