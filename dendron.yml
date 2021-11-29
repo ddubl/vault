@@ -1,10 +1,8 @@
-version: 3
+version: 4
 useFMTitle: true
 useNoteTitleForLink: true
-noLegacyNoteRef: true
 mermaid: true
 useKatex: true
-usePrettyRefs: true
 dev:
     enablePreviewV2: true
 site:
@@ -33,6 +31,7 @@ commands:
             selectionMode: extract
             confirmVaultOnCreate: true
             leaveTrace: true
+            bubbleUpCreateNew: true
     randomNote: {}
     insertNote:
         initialValue: template
@@ -42,7 +41,7 @@ commands:
     insertNoteIndex:
         enableMarker: true
 workspace:
-    dendronVersion: 0.65.0
+    dendronVersion: 0.70.0
     vaults:
         -
             fsPath: vault
@@ -111,3 +110,9 @@ workspace:
     enableHashTags: true
     workspaces: {}
 noRandomlyColoredTags: true
+preview:
+    enableFMTitle: true
+    enableNoteTitleForLink: true
+    enableMermaid: true
+    enablePrettyRefs: true
+    enableKatex: true

@@ -2,15 +2,18 @@
 id: GduD9p988bMOZ290GlhqJ
 title: Vim
 desc: ''
-updated: 1636982665797
+updated: 1638067801490
 created: 1636203835676
 ---
+
+base building block
+- buffer
 
 matching character = %
 
 #research
 next group
-  }
+}
 
 ## motions
 f, t are direction-specific
@@ -52,3 +55,6 @@ for surround commands, now that we have brackets, the ys-commands work
 move to space in normal
 get to insert
 ^r and specify register to paste
+
+#? how to navigate filetrees?
+-> :e . netrw in current dir, but navigation breaks

@@ -35,7 +35,7 @@
             "defaultStyle": {}
         },
         "dendron.rootDir": ".",
-        "editor.fontFamily": "Victor Mono, Cascadia Code PL, Monaco, 'Courier New', monospace",
+        "editor.fontFamily": "VictorMono Nerd Font, Cascadia Code PL, Monaco, 'Courier New', monospace",
         "editor.snippetSuggestions": "inline",
         "editor.suggest.localityBonus": true,
         "editor.suggest.showSnippets": true,
@@ -60,13 +60,8 @@
         "pasteImage.prefix": "/",
         "rpc.enabled": false,
         "todo-tree.tree.scanMode": "workspace",
-        "window.autoDetectColorScheme": true,
-        "workbench.iconTheme": "gruvbox-material-icon-theme",
-        "workbench.preferredLightColorTheme": "Gruvbox Material Light",
-        "workbench.preferredDarkColorTheme": "Duotoned",
         "gitblame.ignoreWhitespace": true,
         "gitlens.blame.ignoreWhitespace": true,
-        "workbench.colorTheme": "Duotoned",
         "markdownShortcuts.icons.strikethrough": false,
         "markdownShortcuts.icons.italic": false,
         "markdownShortcuts.icons.bullets": false,
@@ -75,6 +70,8 @@
         "gitdoc.enabled": true,
         "gitdoc.autoPull": "onCommit",
         "gitdoc.autoCommitDelay": 10000,
-        "gitdoc.autoPush": "onCommit"
+        "gitdoc.autoPush": "onCommit",
+        "vim.enableNeovim": true,
+        "vim.vimrc.path": "$home/.config/nvim/init.vim"
     }
 }

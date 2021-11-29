@@ -2,7 +2,7 @@
 id: xLv0FWdgaR1TAh5aC4gcJ
 title: vscode
 desc: ''
-updated: 1637505716912
+updated: 1638050595103
 created: 1636733565597
 ---
 ## search-replace
@@ -32,5 +32,9 @@ Could you go with a regExp to find your lines? Do they contain only .'s and 1's?
 
 #issue custom tab indent with spaces
 
-<footer>
+#issue maximize-toggle, non-customizable, mode:focus #?
+
+#issue vim gf -> context dependent: dendron goToFile ->
+
+>>EOF
 [^1]:https://stackoverflow.com/questions/44335619/find-and-replace-in-visual-studio-code
