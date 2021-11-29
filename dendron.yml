@@ -41,7 +41,7 @@ commands:
     insertNoteIndex:
         enableMarker: true
 workspace:
-    dendronVersion: 0.70.0
+    dendronVersion: 0.71.0
     vaults:
         -
             fsPath: vault

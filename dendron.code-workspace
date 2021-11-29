@@ -21,9 +21,6 @@
             "path": "./journal"
         },
         {
-            "path": "./todo"
-        },
-        {
             "path": "vault"
         }
     ],
