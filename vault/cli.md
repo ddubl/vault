@@ -2,7 +2,7 @@
 id: jckovSqoukMt1Am0tWqG1
 title: CLI
 desc: ''
-updated: 1638062565731
+updated: 1638355230060
 created: 1636904252349
 ---
 
@@ -33,3 +33,10 @@ pr: print
 
 # upgrades
 [n] ls : lsd
+
+# escape sequences
+2>&1
+
+OSC, OSI, ESI, \e#######, ESC]]I, onFocus: windowFocusReporting: ]]ESC #?
+
+[] vim-mode escaping, hyper-keys

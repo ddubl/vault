@@ -2,10 +2,11 @@
 id: ueB5HngqlsMWiDa9VBAoJ
 title: Tmux
 desc: ''
-updated: 1638062707552
+updated: 1638354604161
 created: 1636903106989
 ---
 #? quickswap current pane/window to pane/window
+-> :swapp -s -t
 #? current tmux does not allow nesting panes in windows?
 
 tmux settings:
