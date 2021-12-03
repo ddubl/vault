@@ -1,6 +1,6 @@
 [submodule "journal"]
 	path = journal
-	url = git@github.com:ddubl/vault.git
+	url = git@github.com:ddubl/vault
 	branch = journal
 [submodule "task"]
 	path = task

@@ -24,6 +24,7 @@ site:
             - task
             - journal
             - stream
+            - task
     siteNotesDir: ~/vault
     assetsPrefix: asset
 commands:
@@ -110,10 +111,10 @@ workspace:
     enableUserTags: true
     enableHashTags: true
     workspaces: {}
-noRandomlyColoredTags: true
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
+noRandomlyColoredTags: true
