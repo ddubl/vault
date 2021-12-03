@@ -32,7 +32,6 @@
             "defaultStyle": {}
         },
         "dendron.rootDir": ".",
-        "editor.fontFamily": "Cascadia Code PL, Victor Mono,  Monaco, 'Courier New', monospace",
         "editor.snippetSuggestions": "inline",
         "editor.suggest.localityBonus": true,
         "editor.suggest.showSnippets": true,
