@@ -1,0 +1,118 @@
+version: 4
+useFMTitle: true
+useNoteTitleForLink: true
+mermaid: true
+useKatex: true
+dev:
+    enablePreviewV2: true
+site:
+    copyAssets: true
+    siteHierarchies:
+        - root
+        - todo
+    siteRootDir: dwl
+    usePrettyRefs: true
+    title: dwlish brainspace
+    description: knowledge graphs and edges
+    siteLastModified: true
+    gh_edit_branch: main
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - dwl
+            - task
+            - journal
+            - stream
+    siteNotesDir: ~/vault
+    assetsPrefix: asset
+commands:
+    lookup:
+        note:
+            selectionMode: extract
+            confirmVaultOnCreate: true
+            leaveTrace: true
+            bubbleUpCreateNew: true
+    randomNote: {}
+    insertNote:
+        initialValue: template
+    insertNoteLink:
+        aliasMode: snippet
+        enableMultiSelect: false
+    insertNoteIndex:
+        enableMarker: true
+workspace:
+    dendronVersion: 0.71.0
+    vaults:
+        -
+            fsPath: vault
+            name: dwl
+            remote:
+                type: git
+                url: 'git@github.com:ddubl/vault.git#master'
+        -
+            fsPath: stream
+            name: stream
+            remote:
+                type: git
+                url: 'git@github.com:ddubl/vault.git#stream'
+        -
+            fsPath: task
+            name: task
+            remote:
+                type: git
+                url: 'git@github.com:ddubl/vault.git#task'
+        -
+            fsPath: journal
+            name: journal
+            remote:
+                type: git
+                url: 'git@github.com:ddubl/vault.git#journal'
+    journal:
+        dailyDomain: journal
+        dailyVault: journal
+        name: daily
+        dateFormat: y.MM.dd
+        addBehavior: childOfDomain
+    scratch:
+        name: scratch
+        dateFormat: y.MM.dd.HHmmss
+        addBehavior: asOwnDomain
+    task:
+        prioritySymbols:
+            H: high
+            M: medium
+            L: low
+        statusSymbols:
+            '': ' '
+            wip: w
+            done: x
+            assigned: a
+            moved: m
+            blocked: b
+            delegated: l
+            dropped: d
+            pending: 'y'
+        todoIntegration: true
+        createTaskSelectionType: selection2link
+        addBehavior: asOwnDomain
+        name: task
+        dateFormat: y.MM.dd
+    graph:
+        zoomSpeed: 1
+    enableAutoCreateOnDefinition: true
+    enableXVaultWikiLink: true
+    enableRemoteVaultInit: true
+    workspaceVaultSyncMode: sync
+    enableAutoFoldFrontmatter: true
+    maxPreviewsCached: 10
+    maxNoteLength: 204800
+    enableUserTags: true
+    enableHashTags: true
+    workspaces: {}
+noRandomlyColoredTags: true
+preview:
+    enableFMTitle: true
+    enableNoteTitleForLink: true
+    enableMermaid: true
+    enablePrettyRefs: true
+    enableKatex: true
