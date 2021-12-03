@@ -1,12 +1,12 @@
 [submodule "journal"]
 	path = journal
 	url = git@github.com:ddubl/vault.git
-    branch = journal
+	branch = journal
 [submodule "task"]
 	path = task
-	url = ./task
-    branch = task
+	url = git@github.com:ddubl/vault.git
+	branch = task
 [submodule "stream"]
 	path = stream
 	url = git@github.com:ddubl/vault.git
-    branch = stream
+	branch = stream

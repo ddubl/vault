@@ -1,4 +1,4 @@
----
+
 id: TXmJvsVlSeJiBlmEIxqVV
 title: scopeResolution
 desc: ''

@@ -61,6 +61,7 @@
         "markdownShortcuts.icons.bullets": false,
         "markdownShortcuts.icons.bold": false,
         "editor.tabCompletion": "on",
-        "editor.acceptSuggestionOnEnter": "smart"
+        "editor.acceptSuggestionOnEnter": "smart",
+        "gitdoc.enabled": true
     }
 }

@@ -9,7 +9,8 @@ site:
     copyAssets: true
     siteHierarchies:
         - root
-        - todo
+        - task
+        - stream
     siteRootDir: dwl
     usePrettyRefs: true
     title: dwlish brainspace

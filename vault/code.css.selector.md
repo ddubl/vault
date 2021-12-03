@@ -1,4 +1,4 @@
----
+
 id: Ekrgn7lRPTNZZXLwpMmkx
 title: Selector
 desc: ''
@@ -11,7 +11,8 @@ I have set up a mixin for a button using display:inline-block. I am trying to ge
 
 Here's an example... I want the. parent class to receive the font-size: 0px line.
 
-```
+---
+```markdown
 @mixin button() {
     display:inline-block;
     font-size: 1em;
@@ -25,6 +26,7 @@ Here's an example... I want the. parent class to receive the font-size: 0px line
     }
 }
 ```
+---
 
 [sass](http://stackoverflow.com/questions/tagged/sass) [compass-sass](http://stackoverflow.com/questions/tagged/compass-sass) [css](http://stackoverflow.com/questions/tagged/css)
 
@@ -49,7 +51,8 @@ up vote 6 down vote accepted
 
 No, this is not possible. You could do something like this, though:
 
-```
+---
+```markdown
 @mixin button($child: '.child') {
     font-size: 0px;
     //other stuff to make a pretty button
@@ -64,10 +67,12 @@ No, this is not possible. You could do something like this, though:
     @include button();
 }
 ```
+---
 
 Output:
 
-```
+---
+```markdown
 .parent {
   font-size: 0px;
 }
@@ -76,6 +81,7 @@ Output:
   font-size: 1em;
 }
 ```
+---
 
 [share](http://stackoverflow.com/a/16151082/5045566)|[edit](http://stackoverflow.com/posts/16151082/edit)
 
@@ -88,7 +94,8 @@ up vote 8 down vote
 
 As of Sass 3.4 this is now possible.
 
-```
+---
+```markdown
 @mixin parent {
 
   @each $selector in & {
@@ -144,6 +151,7 @@ As of Sass 3.4 this is now possible.
   }
 }
 ```
+---
 
 [share](http://stackoverflow.com/a/25648134/5045566)|[edit](http://stackoverflow.com/posts/25648134/edit)
 
@@ -158,13 +166,16 @@ There is a XXX! selector in the draft for the CSS 4 spec, which will act as the 
 
 So if you have this selector
 
-```
+---
+```markdown
 .a > .b! > .c
 ```
+---
 
 It will match e.g. for this
 
-```
+---
+```markdown
 <div class="a">
     <div class="b">
         <div class="c">
@@ -172,6 +183,7 @@ It will match e.g. for this
     </div>
 </div>
 ```
+---
 
 but the style declarations will not take effect on `.c`, but on `.b`, because I announced by the exclamation mark, that this element should be the subject of the style <http://dev.w3.org/csswg/selectors4/#subject>
 
@@ -181,11 +193,13 @@ See also this stack: [Is there a CSS parent selector?](http://stackoverflow.com/
 
 How to apply? Well, I don't know exactly in SASS, but in LESS it would be
 
-```
+---
+```markdown
 *! > & {
     /* ... */
 }
 ```
+---
 
 [share](http://stackoverflow.com/a/16151795/5045566)|[edit](http://stackoverflow.com/posts/16151795/edit)
 
