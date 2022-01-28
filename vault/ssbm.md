@@ -2,10 +2,11 @@
 id: nbyF54kdC5agsbHsRFgxB
 title: Ssbm
 desc: ''
-updated: 1638023946029
+updated: 1638717299925
 created: 1633810179938
 ---
 jumpless up.b?
+-> move to up before jump-buffer window (3f)
 
 doublejc: 1f
 

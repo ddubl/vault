@@ -2,17 +2,29 @@
 id: vUAlo2hmJNCMkC6hlxMpd
 title: Os
 desc: ''
-updated: 1633199321552
+updated: 1642770306295
 created: 1633199321552
 ---
-buffer special
-
-whiff - special
-
-motion-buffer confirm
+fuzzy
 fuzzy-guard
 
-dp
+buffer special
+  different special on whiff
+  nEdge timings to different buttons
+whiff - special
+
+on reaction: whiff - punish
+need to prep/position
+
+punish OS:
+distanced foe, normal whiffs
+can take advantage of hitstun
+
+
+motion-buffer confirm
+
+dp - block
+  high block high is really hard if you have a hcb-special
 
 offensive grab OS
 defensive grab OS
@@ -34,4 +46,4 @@ lk demon/hit os
 crosscut dp os
  xx ca
  
- 
+flipout > demon 
