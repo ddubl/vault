@@ -2,7 +2,7 @@
 id: YTb3r8bT5Ek0hURohU1T5
 title: eurW1
 desc: ''
-updated: 1635927937215
+updated: 1642626265804
 created: 1633199319571
 ---
 guys still got sfv:arcade edition in the description, but I got u:
@@ -18,3 +18,4 @@ TOP16 WINNERS
 1:29:40 ryan hart (sagat) vs fhassa (urien)
 
 TOP16 LOSERS
+eot
