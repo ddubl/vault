@@ -2,7 +2,7 @@
 id: ZwilPJPTCrQvdVqlH7laC
 title: Gameplan
 desc: ''
-updated: 1639083199744
+updated: 1643475740207
 created: 1639077055146
 ---
 
@@ -16,3 +16,5 @@ whiff-punish
 counter-poke
 
 what am I reacting to?
+enter footsies
+
