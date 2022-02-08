@@ -64,6 +64,7 @@
         "markdownShortcuts.icons.bold": false,
         "editor.tabCompletion": "on",
         "editor.acceptSuggestionOnEnter": "smart",
-        "gitdoc.enabled": true
+        "gitdoc.enabled": true,
+        "zenMode.centerLayout": false
     }
 }
