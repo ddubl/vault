@@ -2,9 +2,15 @@
 id: xfy6HF2Aej3RfT05Kukyt
 title: Stream
 desc: ''
-updated: 1637027731195
+updated: 1638992978991
 created: 1634721775346
 ---
+
+headless discovery streams:
+- sfv: luke
+
+- ggst: happy gameplay discovery
+-
 
 themes
 
@@ -19,14 +25,17 @@ Phucked Philosophy:
 WTF: What the Fink
 DiD: dwl's in details
 Tournament-Ready
-  SFV
-  SG
-  GG:Strive
-  SC:BW
-  SC2
-  AoE4
-  MtG
-  HS
+  FG:
+    SFV
+    SG
+    GG:Strive
+  RTS:
+    SC:BW
+    SC2
+    AoE4
+  CCG:
+    MtG
+    HS/RuneTerra
   Powerlifting
   Bodybuilding
   Chess
@@ -37,7 +46,7 @@ chill
 yt
 twitch
 egghead
-#? share/edu
+liveEdu
 facebook
-wiki
+wikis
 autoPublish
