@@ -65,10 +65,7 @@
         "editor.tabCompletion": "on",
         "editor.acceptSuggestionOnEnter": "smart",
         "gitdoc.enabled": true,
-<<<<<<< HEAD
-=======
         "zenMode.fullScreen": false,
->>>>>>> 457abbd (--no-message)
         "zenMode.centerLayout": false
     }
 }
