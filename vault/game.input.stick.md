@@ -2,11 +2,13 @@
 id: N9eITWG43VrDthnwwNTAB
 title: Stick
 desc: ''
-updated: 1639161428959
+updated: 1643639278923
 created: 1639147408394
 ---
 
 base movement
+- slow
+- keep contact
 hand position
   relaxed
   poised for next
