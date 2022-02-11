@@ -2,7 +2,7 @@
 id: RSmYPDCNNoq5GGMlG6Mx1
 title: Standards
 desc: ''
-updated: 1633199321439
+updated: 1644401282515
 created: 1633199321439
 ---
 jazz standards
@@ -13,7 +13,6 @@ all of me - frank sinatra
 mack the knife/three penny opera - sonny rollins / kurt weill
 
 2. All The Things You Are
-
 3. Alone Together
 4. Autumn Leaves
 5. Billie’s Bounce
