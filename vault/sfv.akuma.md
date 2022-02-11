@@ -2,7 +2,7 @@
 id: FIwAH9k2T7fy1UNvP4nLv
 title: Akuma
 desc: ''
-updated: 1644518754217
+updated: 1644593763985
 created: 1633199321549
 ---
 
@@ -70,6 +70,10 @@ recorner
 #### corner
 damage:...xVT1 > dash > s.mK xx m.rfb > l.dp
 
+## techniques
+cr. dp
+cr. rfb
+
 # Mix
 ## demon
  midscreen
@@ -84,3 +88,15 @@ damage:...xVT1 > dash > s.mK xx m.rfb > l.dp
 ### vs
 #### guile
 evade baby-boom: backjump.mP xx l.tatsu?
+
+## observations
+### takamura
+- m.tatsu sideswap on stun
+- s.lk counterpoke buffers - what into?
+- b.hp xx m.tatsu counterpoke buffers
+### naooon
+stun round ender: df.grab?
+
+## test
+max range cc s.hK -> still s.mK conversions
+late-cancel framedata on s.mK xx l.rfb

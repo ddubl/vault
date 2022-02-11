@@ -2,7 +2,7 @@
 id: v8QFDGIeCZhgcgFHnc0K6
 title: Sfv
 desc: ''
-updated: 1643470608134
+updated: 1644591616491
 created: 1634391048552
 ---
 
@@ -35,3 +35,13 @@ active frame start on frame 0 post
 ## tools
 
 generative transclusions
+
+## techniques
+crouching dp
+crouching rfb
+
+dual buffer selects
+
+1f-invul|block
+
+
