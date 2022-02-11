@@ -2,13 +2,13 @@
 id: FIwAH9k2T7fy1UNvP4nLv
 title: Akuma
 desc: ''
-updated: 1644061594889
+updated: 1644518754217
 created: 1633199321549
 ---
 
 # GOALS
 0) footsie c.mK/s.mP xx 
-0a) knockdowen
+0a) knockdown
 close enough to s.lP xx|/> s.lP || throw
 # strings
 
@@ -44,6 +44,31 @@ recorner
   b.hP xx tpCenter
 
 ### escape
+# setups
+## xVT1
+  xx m.rfb xVT1 (fk:c.lK) h.df
+    :kdr  |- sideswap: df.slide (+2)
+    :kdrb |- ss: df.slide: (+5)
+
+# Conversions
+
+## xVT1
+### l.rfb close
+...> s.mK xx l.rfb xVT1
+  sideswap: b.hP(1) xxx m.dp
+  carry (preserve VT): dash > dash > m.tatsu > h.dp
+  carry + damage: dash > b.hP xx l.fb > dash > h.dp
+  close2corner: b.hP xlate h.rfb > h.dp
+   -> more meter (delay to apex) b.hP x(delay) l.rfb > m.tatsu > l.dp
+  corner: l.rfb xVT1 h.rfb > l/m/h.dp
+  setup:l.rfb xVT1 dash s.mP
+    
+### m.rfb close
+  sideswap: m.tatsu w/l.tatsu [kdr:0]
+
+### fb spaced -> standing
+#### corner
+damage:...xVT1 > dash > s.mK xx m.rfb > l.dp
 
 # Mix
 ## demon
