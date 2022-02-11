@@ -2,7 +2,11 @@
 id: 9RNTCrsgQWhF6QhW8GVDA
 title: Developing Gameplans
 desc: ''
+<<<<<<< HEAD
 updated: 1644845572627
+=======
+updated: 1644413169819
+>>>>>>> 05c19fe (--no-message)
 created: 1636540190469
 ---
 gameplans
@@ -27,9 +31,9 @@ these options are:
 -> rebolas games
 once you figure out how to deal with raw sweeps and you can anti-air. ez.
 
-might think the strongest thing is jumping in?
+might think the strongest thing is "jumping in"?
 it does the most damage?
-you are vulnerable forever!
+you are vulnerable forever (40+ frames)!
 -> strongest option in the game?
   - least vulnerable that gives you an advantage/pressures opponent
 ie. walking!
@@ -83,5 +87,7 @@ common situations/neutral?
 specific phases of the game:
   generalize certain situations
 
-now, where we at?
-[[sfv.gameplan]]
+it's not complicated, but I have never heard it explicitly stated.
+Obviously you start building out layer after layer, which are character-specific interactions.
+
+now, where do I stand?...
