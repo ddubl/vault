@@ -66,6 +66,8 @@
         "editor.acceptSuggestionOnEnter": "smart",
         "gitdoc.enabled": true,
         "zenMode.fullScreen": false,
-        "zenMode.centerLayout": false
+        "zenMode.centerLayout": false,
+        "workbench.experimental.layoutControl.enabled": true,
+        "workbench.list.smoothScrolling": true
     }
 }
