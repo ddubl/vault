@@ -2,7 +2,7 @@
 id: 9RNTCrsgQWhF6QhW8GVDA
 title: Developing Gameplans
 desc: ''
-updated: 1643493519316
+updated: 1644845572627
 created: 1636540190469
 ---
 gameplans
@@ -82,3 +82,6 @@ common situations/neutral?
 
 specific phases of the game:
   generalize certain situations
+
+now, where we at?
+[[sfv.gameplan]]
