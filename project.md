@@ -2,7 +2,7 @@
 id: HoLd4KAhHsadRtVb6poUO
 title: Project
 desc: ''
-updated: 1638053173372
+updated: 1645005753900
 created: 1637959839459
 ---
 
@@ -23,11 +23,13 @@ created: 1637959839459
 # sports
 sfv-hitboxViewer
 + decompilation
-
+|-> rebuilding working on current patch
 ![[d:vault/games]]
 
 ## 3T
 + automated programming
++-> juggernautAI?
+educational programming
 - stereovisual velocity-training
 - movement-pattern/load recognition
 
