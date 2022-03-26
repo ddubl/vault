@@ -1,6 +1,32 @@
-version: 5
+version: 4
+useFMTitle: true
+useNoteTitleForLink: true
+mermaid: true
+useKatex: true
 dev:
     enablePreviewV2: true
+site:
+    copyAssets: true
+    siteHierarchies:
+        - root
+        - task
+        - stream
+    siteRootDir: dwl
+    usePrettyRefs: true
+    title: dwlish brainspace
+    description: knowledge graphs and edges
+    siteLastModified: true
+    gh_edit_branch: main
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - dwl
+            - task
+            - journal
+            - stream
+            - task
+    siteNotesDir: ~/vault
+    assetsPrefix: asset
 commands:
     lookup:
         note:
@@ -8,8 +34,6 @@ commands:
             confirmVaultOnCreate: true
             leaveTrace: true
             bubbleUpCreateNew: true
-            vaultSelectionModeOnCreate: smart
-            fuzzThreshold: 0.2
     randomNote: {}
     insertNote:
         initialValue: template
@@ -18,9 +42,8 @@ commands:
         enableMultiSelect: false
     insertNoteIndex:
         enableMarker: true
-    copyNoteLink: {}
 workspace:
-    dendronVersion: 0.83.0
+    dendronVersion: 0.71.0
     vaults:
         -
             fsPath: vault
@@ -88,47 +111,10 @@ workspace:
     enableUserTags: true
     enableHashTags: true
     workspaces: {}
-    enableEditorDecorations: true
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
-    automaticallyShowPreview: false
 noRandomlyColoredTags: true
-publishing:
-    enableFMTitle: true
-    enableNoteTitleForLink: true
-    enableMermaid: true
-    enablePrettyRefs: true
-    enableKatex: true
-    assetsPrefix: asset
-    copyAssets: true
-    siteHierarchies:
-        - root
-        - task
-        - stream
-    enableSiteLastModified: true
-    siteRootDir: dwl
-    enableFrontmatterTags: true
-    enableHashesForFMTags: false
-    enableRandomlyColoredTags: true
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - dwl
-            - task
-            - journal
-            - stream
-            - task
-    writeStubs: false
-    seo:
-        title: dwlish brainspace
-        description: knowledge graphs and edges
-    github:
-        enableEditLink: true
-        editLinkText: Edit this page on GitHub
-        editBranch: main
-        editViewMode: tree
-    enablePrettyLinks: true

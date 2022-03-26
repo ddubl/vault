@@ -2,7 +2,7 @@
 id: FIwAH9k2T7fy1UNvP4nLv
 title: Akuma
 desc: ''
-updated: 1644593763985
+updated: 1645707588712
 created: 1633199321549
 ---
 
@@ -10,6 +10,11 @@ created: 1633199321549
 0) footsie c.mK/s.mP xx 
 0a) knockdown
 close enough to s.lP xx|/> s.lP || throw
+
+# BASE
+structured around jab > throw
+
+
 # strings
 
 # Situations
@@ -34,6 +39,8 @@ enter neutral
   [] sweep #practice
 
 ## Pressure
+
+
 s.hP xt s.hP _o(fk:dash.f,s.lP)s.lK:3
 
 ## duress
