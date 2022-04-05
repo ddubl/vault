@@ -5,12 +5,15 @@ desc: ''
 updated: 1638992978991
 created: 1634721775346
 ---
+features/capabilities:
+- dynamic align
+- context-buttons streamdeck
+- goTo container/scene obs
+- tagging system
 
 headless discovery streams:
 - sfv: luke
-
 - ggst: happy gameplay discovery
--
 
 themes
 
