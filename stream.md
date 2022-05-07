@@ -16,6 +16,11 @@ headless discovery streams:
 - ggst: happy gameplay discovery
 
 themes
+- colorize
+- smash intro theme sfx
+- punchy intro sfx/vfx
+- white outline vfx
+- shader dotted
 
 automation tooling - touchportal extension?
   js / dotnet tooling
