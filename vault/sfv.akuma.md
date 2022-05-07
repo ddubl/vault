@@ -14,7 +14,6 @@ close enough to s.lP xx|/> s.lP || throw
 # BASE
 structured around jab > throw
 
-
 # strings
 
 # Situations
@@ -40,8 +39,9 @@ enter neutral
 
 ## Pressure
 
-
 s.hP xt s.hP _o(fk:dash.f,s.lP)s.lK:3
+## oki
+.. vt1.dp: [fdash, +19]
 
 ## duress
 OS-parry: (eg. )
@@ -58,6 +58,15 @@ recorner
     :kdrb |- ss: df.slide: (+5)
 
 # Conversions
+
+## Punishes
+### all dp
+#### VT1
+[367dmg, 573, [[plus time]-2500VT, -280ex], vt1.dp.oki]: [CC]s.hK > c.hP > 2,3(mw.f) s.mK xx l.vt1fb > ex.df[df] xx ex.airFB > [any].vt1.dp
+[467, 384, 840ex, vt1.dp.oki]
+### 1-hit dp
+### multihit dp
+j.hP > 
 
 ## xVT1
 ### l.rfb close

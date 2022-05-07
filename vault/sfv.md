@@ -44,4 +44,6 @@ dual buffer selects
 
 1f-invul|block
 
-
+# mechanics
+stun:
+  
