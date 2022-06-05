@@ -1,60 +1,8 @@
 ---
-id: xfy6HF2Aej3RfT05Kukyt
+id: f6zu8x947pmzw2zadu6nvha
 title: Stream
 desc: ''
 updated: 1638992978991
 created: 1634721775346
 ---
-features/capabilities:
-- dynamic align
-- context-buttons streamdeck
-- goTo container/scene obs
-- tagging system
 
-headless discovery streams:
-- sfv: luke
-- ggst: happy gameplay discovery
-
-themes
-- colorize
-- smash intro theme sfx
-- punchy intro sfx/vfx
-- white outline vfx
-- shader dotted
-
-automation tooling - touchportal extension?
-  js / dotnet tooling
-  ![[stream.note]]
-
-Phucked Philosophy:
-  [[phil.freedom]]
-  [[phil.training]]
-  [[phil.reading.list]]
-WTF: What the Fink
-DiD: dwl's in details
-Tournament-Ready
-  FG:
-    SFV
-    SG
-    GG:Strive
-  RTS:
-    SC:BW
-    SC2
-    AoE4
-  CCG:
-    MtG
-    HS/RuneTerra
-  Powerlifting
-  Bodybuilding
-  Chess
-  Piano
-chill
-
-## endpoints:
-yt
-twitch
-egghead
-liveEdu
-facebook
-wikis
-autoPublish
