@@ -2,11 +2,7 @@
 id: 9RNTCrsgQWhF6QhW8GVDA
 title: Developing Gameplans
 desc: ''
-<<<<<<< HEAD
-updated: 1644845572627
-=======
 updated: 1644413169819
->>>>>>> 05c19fe (--no-message)
 created: 1636540190469
 ---
 gameplans
