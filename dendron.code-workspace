@@ -68,6 +68,7 @@
         "zenMode.fullScreen": false,
         "zenMode.centerLayout": false,
         "workbench.experimental.layoutControl.enabled": true,
-        "workbench.list.smoothScrolling": true
+        "workbench.list.smoothScrolling": true,
+        "gitdoc.autoCommitDelay": 5000
     }
 }

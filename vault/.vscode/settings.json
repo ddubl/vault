@@ -1,4 +1,8 @@
 {
   "restructuredtext.confPath": "",
-  "restructuredtext.pythonRecommendation.disabled": true
+  "restructuredtext.pythonRecommendation.disabled": true,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "git.fetchOnPull": true,
+  "gitHistory.includeRemoteBranches": true
 }
