@@ -2,11 +2,12 @@
 id: nbyF54kdC5agsbHsRFgxB
 title: Ssbm
 desc: ''
-updated: 1638717299925
+updated: 1654181736114
 created: 1633810179938
 ---
 jumpless up.b?
 -> move to up before jump-buffer window (3f)
+-> slight-roll (like notchless firefox-stalls)
 
 doublejc: 1f
 
@@ -20,6 +21,8 @@ tech
 #missing
 delayed multishines
 
+TECH CHASE!
+
 approach
 shieldstun
 shine, jab, hop, wavedash
@@ -31,6 +34,15 @@ how long is fox's total sh duration?
 can I shine jc. j2 drill not ff and retain safety
 
 ## mechanics
+per move only one hitbox connects
+hitbox stacks resolve by precedence
+lower ID denotes higher precedence
+
+### basics
+1f ledgegrab-fastfall-jump
+  angle -> ledgedash
+jump-ff-lcancel
+
 ### jc
 ub.b, grab, smashA
 ### stick
@@ -44,7 +56,9 @@ fastfall bufferable for 3f #? always? #test
 - cc|asdiD||?walk
 - ccGrab.f|wd.f||?tech.f
 - #i generally, ledge-coverage with meaty-light-smash.A
-
+### recovery
+- sweetspot sideB || walltech
+- up-b ledgehog || walltech
 ## Buffers
 - walk.ooC
 - shield.grab

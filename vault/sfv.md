@@ -2,7 +2,7 @@
 id: v8QFDGIeCZhgcgFHnc0K6
 title: Sfv
 desc: ''
-updated: 1644591616491
+updated: 1653584073847
 created: 1634391048552
 ---
 
@@ -12,10 +12,15 @@ footsies
   poke
   punish
 
+What space do I occupy? How?
+Hands to neutral, relaxed
 ## situations
 find ways to walk
 string attacks so you can confirm, conserve timings and diverge options
 #eg 
+
+-> specifics char
+
 
 ### common
 ![[sfv.akuma^#Situations.post-throw.Dash]] > demon: o.wakeup.4f
@@ -24,11 +29,15 @@ string attacks so you can confirm, conserve timings and diverge options
 frame advantage notation: if -4 punishable by 4 framer
 active frame start on frame 0 post
 
+###
+
 ## manifesto
-0) piano uncertainty buttons
-1) buffer for game
-2) fireballs on dp-characters are hcfs and you hold forward - button slight delay
+0) what game do we play and where?
+1) work specifics
+2) keep it clean
 3) dps hold df or OS-direction
+--- above, except 3 is bullshit...
+
 
 ## building blocks
 
@@ -37,6 +46,8 @@ active frame start on frame 0 post
 generative transclusions
 
 ## techniques
+hold non-diagonals for fb and diag for dp
+delay walk-fb
 crouching dp
 crouching rfb
 

@@ -2,7 +2,7 @@
 id: FIwAH9k2T7fy1UNvP4nLv
 title: Akuma
 desc: ''
-updated: 1645707588712
+updated: 1653066725997
 created: 1633199321549
 ---
 
@@ -33,6 +33,10 @@ enter neutral
   close
   far
 -> oki
+
+### poke
+#### counterpoke
+  disadvantaged on ground:
 
 ### anti-air
   [] sweep #practice

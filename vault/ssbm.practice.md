@@ -2,7 +2,7 @@
 id: SXDByWDjx3j1KSsdA4ME5
 title: Practice
 desc: ''
-updated: 1633199321496
+updated: 1654360442706
 created: 1633199321496
 ---
 short hop - pluck jump buttons
@@ -13,6 +13,8 @@ tilt from buffers can be fully tilted
 
 boost grab
 chain grab
+  spacies on 0% -> latest f2 dashback jc.grab
+  > getting pivot grab?
 
 ledge dash
 when hogging:
