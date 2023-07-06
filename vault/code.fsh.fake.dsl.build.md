@@ -57,7 +57,7 @@ You can find more users [here](http://fsharp.github.io/FAKE/users.html).
 
 ## How to get FAKE
 
-# Using FAKE
+## Using FAKE
 
 If you want to learn about FAKE you should read the ["Getting started with FAKE"](http://fsharp.github.io/FAKE/gettingstarted.html) tutorial.
 

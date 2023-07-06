@@ -19,7 +19,7 @@ Additionally, depending on your Docker system configuration, you may be required
 For more information about installing Docker or sudo configuration, refer to the installation instructions for your operating system.
 Download a pre-built image
 
-# Download an ubuntu image
+## Download an ubuntu image
 
 $ docker pull ubuntu
 This will find the ubuntu image by name on Docker Hub and download it from Docker Hub to a local image cache.

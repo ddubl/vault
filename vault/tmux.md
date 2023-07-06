@@ -2,12 +2,11 @@
 id: 3mip6g0obhm40rpg74hz7hm
 title: Tmux
 desc: ''
-updated: 1687860211770
+updated: 1688561659539
 created: 1636903106989
 ---
 
 mvp: default layout book
-
 #f print pane history
 
 indicate marked pane #todo
@@ -28,30 +27,26 @@ tmux settings:
 define leader as $cmd
 
 #todo #todo.done <C-a ?> display cmds correctly
--> leader definition
+-> leader definition resolves
 
 #todo integrations
-+ term, $os.mac: iterm
+- term, $os.mac: iterm
   - themeing: semantic, dynamic
-+ emacs
-+ vim
-+ tmux
+- emacs
+- vim
+- tmux
 -> navigation
 
 :understanding pane/window/tab nesting in iterm
 add attach sth to pane/window
 breaking pane -> window as inverse 'breaking up the tree' of window -> pane
 
-[] themeing
-- default themeing uses ANSI-Colors from iterm2
 ## theme
-~/.tmux.conf
-
-#todo fix status line
-- [ ] #fix emacs doom config
+color functions
+#t fix status line
 - [ ] #fix theme #extend
 
-send to all panes #i
+#i send to all panes
   Ctrl-b :setw synchronize-panes on
     cmd
     sync-panes off

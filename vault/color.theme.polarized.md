@@ -2,9 +2,10 @@
 id: zb0m617g5mqbqtktoc7gbvk
 title: Polarized
 desc: ''
-updated: 1678268884876
+updated: 1688124970751
 created: 1636911874445
 ---
+
 primary: #8d79b9 := luv:55%
   hsluv: [41%, 58%, 62% || 65%, 79%]
 secondary: #34280a := luv:17%
@@ -26,7 +27,6 @@ color-studio: {#8d79b9, #f6f3ff, #f9f5e1, #ffffff, #000000, #000000}
 => materialized : pastelled
 
 ## palette
-
 -- POLARIZED - PALETTE -----------
 theme_polarized_neutral_black       = "#1e1e1e"
 theme_polarized_neutral_d50         = "#292828"
@@ -68,5 +68,4 @@ links:visited #7367f0
 float+1 := brighten(1.2)
 
 ## elements
-
 ## semantic

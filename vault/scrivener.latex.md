@@ -13,9 +13,9 @@ Posted on [January 14, 2015](https://abnormaldata.wordpress.com/2015/01/14/confi
 
 [Latex logo (image/png)](http://www.latex-project.org/)**This post** explains my Scrivener + LaTeX [workflow](https://abnormaldata.wordpress.com/2015/01/14/configuring-scrivener-latex/#workflow) and how I [configured](https://abnormaldata.wordpress.com/2015/01/14/configuring-scrivener-latex/#setup) Scrivener to output LaTeX.
 
-**\*Edit 25 May 2016:** As indicated in the comments below, I no longer use this workflow (which requires MMD). It just got too complicated. I now write the Scrivener manuscript directly in latex and then compile as a text file, which I then compile to latex using my favorite tex editor. This procedure bypasses MMD completely. I’d love to be able to use Scrivener + MMD the way it was intended – compile the same file to any format I want… at least RTF and Tex…_and_have citations, tables, figures, and equations numbered and referenced correctly . Tips welcome. 🙂\*
+**\*Edit 25 May 2016:** As indicated in the comments below, I no longer use this workflow (which requires MMD). It just got too complicated. I now write the Scrivener manuscript directly in latex and then compile as a text file, which I then compile to latex using my favorite tex editor. This procedure bypasses MMD completely. I’d love to be able to use Scrivener + MMD the way it was intended – compile the same file to any format I want… at least RTF and Tex…\_and_have citations, tables, figures, and equations numbered and referenced correctly . Tips welcome. 🙂\*
 
-# So you want to write in Scrivener but compile with Latex?
+## So you want to write in Scrivener but compile with Latex?
 
 Scrivener does **_not_** do bibliography management, nor does it do typesetting. You must **Compile** the manuscript in Scrivener and then use whatever biblio manager and typesetter you normally use.
 

@@ -2,7 +2,7 @@
 id: ide924eeww8sie03mkn5aqd
 title: dotfiles
 desc: ''
-updated: 1687860211789
+updated: 1688124970694
 created: 1633199321522
 ---
 
@@ -26,7 +26,7 @@ link-ledger breakdown
 
 mvp:
   nesting dotfiles -> nested modules
-    [ ] ie: tmux <[[Tmu|dendron://vault/dotfiles.tmux]]>
+    - [ ] ie: tmux <[[Tmu|dendron://vault/dotfiles.tmux]]>
       as branch
     diff upstream
       #d:upstream

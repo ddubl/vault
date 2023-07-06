@@ -2,7 +2,7 @@
 id: zxfs9vjpm9sm4bitmacsodp
 title: Flow
 desc: ''
-updated: 1687432323463
+updated: 1688561659565
 created: 1638022787958
 ---
 
@@ -48,7 +48,6 @@ text search notes -> vscode fulltext search : vscode.searchEditors()
 ## git-hook (?)
 [m]^2n either fully automate git.add(), git.commit() or leave as is.
 -> using keyboard shortcuts on dendron default hook 'workspace: add and commit'
-[]
 
 #+TODO couple subtask status to task/note
 task title := note title
@@ -60,3 +59,12 @@ trait doctoring
 integrating notebooks into dendaron workflows:
   #issue linking to cell via vscode.dev resolves via browser
   -> x-url resolver? // vscode//browser settings
+
+## doctor: redo markdown header nesting
+search regex: \#+\s and replace with \#$&
+
+## task management
+element nesting
+  meta-definition in project-related todos
+  x-vault tags
+    tags:[todo,to,t] - #flow different behaviour from other tags

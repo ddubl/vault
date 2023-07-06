@@ -8,13 +8,21 @@ created: 1631569265688
 uggernaut-iE6l48vm7Xyg
 desc: ''
 updated: 1631569265688
-created: 1631569265688
----
+
+## created: 1631569265688
+
 uggernaut-iE6l48vm7Xyg
 desc: ''
 updated: 1631569265688
-created: 1631569265688
----
+
+## created: 1631569265688
+
+uggernaut-iE6l48vm7Xyg
+desc: ''
+updated: 1631569265688
+
+## created: 1631569265688
+
 uggernaut-iE6l48vm7Xyg
 desc: ''
 updated: 1631569265688
@@ -147,7 +155,7 @@ _Quinn Henoch has a Doctorate of Physical Therapy from the University of Indiana
 
 [Website](http://dsstrength.com/), [Facebook](https://www.facebook.com/Darksidestrength), [Twitter](https://twitter.com/DrQuinnHenochPT)
 
-# Get three Juggernaut manuals free
+## Get three Juggernaut manuals free
 
 - [Top 6 of April](http://www.jtsstrength.com/articles/2014/05/06/top-6-april/)
 - [The Scapula and Thoracic Spine: A Classic Love Story To Improve Your Overhead Position](http://www.jtsstrength.com/articles/2014/05/01/the-scapula-and-thoracic-spine-a-classic-love-story-to-improve-your-overhead-position/)

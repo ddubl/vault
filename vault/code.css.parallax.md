@@ -10,7 +10,7 @@ created: 1633199319576
 By [Stefan Judis](http://4waisenkinder.de/) on June 9, 2014
 While this solution is elegant on desktop computers, it **does not** function on mobile devices. To create a mobile-compatible pure CSS parallax scrolling effect, [please visit this post by Keith Clark](http://blog.keithclark.co.uk/pure-css-parallax-websites/).
 
-_I generally dislike ESPN because  they're the McDonalds of sports news but they recently did a [piece on Luis Suarez](http://espn.go.com/espn/feature/story/_/id/10984370/portrait-serial-winner-luis-suarez-soccer-most-beautiful-player) that was eye-catching.  The content itself was great but their use of parallax and imagery was outstanding.  They've employed this technique in a few of their features now and I've been so impressed that I implored my readers to write about how it's done.  The following is a post principally written by Stefan Judis with detail added by myself.  Enjoy!_
+_I generally dislike ESPN because  they're the McDonalds of sports news but they recently did a [piece on Luis Suarez]\(<http://espn.go.com/espn/feature/story/>_/id/10984370/portrait-serial-winner-luis-suarez-soccer-most-beautiful-player) that was eye-catching.  The content itself was great but their use of parallax and imagery was outstanding.  They've employed this technique in a few of their features now and I've been so impressed that I implored my readers to write about how it's done.  The following is a post principally written by Stefan Judis with detail added by myself.  Enjoy!\_
 
 ## Introduction
 
@@ -37,7 +37,7 @@ bar
 baz
 bazz
 
-# Example for 'background-attachment : fixed'
+## Example for 'background-attachment : fixed'
 
 ## [@stefanjudis](https://twitter.com/stefanjudis)
 
@@ -145,5 +145,5 @@ Stefan Judis (image/jpeg)
 
 Stefan is a frontend developer from Berlin. He maintains the projects grunt-phantomas and grunt-photobox. Improving performance, automating everything, visualizing datasets and drinking good coffee are the things he is doing most of the time.
 
-[__4waisenkinder.de](http://4waisenkinder.de/)[__stefanjudis](https://twitter.com/stefanjudis)[__Posts](https://davidwalsh.name/author/stefan)
+[\_\_4waisenkinder.de](http://4waisenkinder.de/)[\_\_stefanjudis](https://twitter.com/stefanjudis)[\_\_Posts](https://davidwalsh.name/author/stefan)
 

@@ -512,7 +512,7 @@ The above uses two built-in commands:
 
 In other words, the above is equivalent to this:
 
-# !/bin/bash
+## !/bin/bash
 
 [[-e source.txt]] && cp source.txt destination.txt
 
@@ -680,7 +680,7 @@ else
   exit 1 # terminate the script with a nonzero exit status (failure)
 fi
 
-Later, when we learn about shell functions, we will find a more compact way to express this. (In fact, even with what we already know, there is a more compact way to express this: rather than setting $verbose_mode to TRUE or FALSE, we can set $echo_if_verbose_mode to echo or :, where the colon : is a Bash built-in command that does nothing. We can then replace all uses of echo with "$echo_if_verbose_mode". A command such as "$echo_if_verbose_mode" _message_ would then become echo _message_, printing _message_, if verbose-mode is turned on, but would become : _message_, doing nothing, if verbose-mode is turned off. However, that approach might be more confusing than is really worthwhile for such a simple purpose.)
+Later, when we learn about shell functions, we will find a more compact way to express this. (In fact, even with what we already know, there is a more compact way to express this: rather than setting $verbose_mode to TRUE or FALSE, we can set $echo_if_verbose_mode to echo or :, where the colon : is a Bash built-in command that does nothing. We can then replace all uses of echo with "$echo_if_verbose_mode". A command such as "$echo_if_verbose_mode" \_message_ would then become echo _message_, printing _message_, if verbose-mode is turned on, but would become : _message_, doing nothing, if verbose-mode is turned off. However, that approach might be more confusing than is really worthwhile for such a simple purpose.)
 
 ### Combining conditions\[[edit](https://en.wikibooks.org/w/index.php?title=Bash_Shell_Scripting&action=edit&section=23)]
 
@@ -1259,7 +1259,7 @@ but, once you get used to the syntax, it makes it more clear what is going on.
 
 In addition to regular arithmetic and Boolean operators, Bash also offers "bitwise" operators, meaning operators that operate on integers _qua_ bit-strings rather than _qua_ integers. If you are not already familiar with this concept, you can safely ignore these.
 
-Just as in C, the bitwise operators are & (bitwise "and"), | (bitwise "or"), ^ (bitwise "exclusive or"), ~ (bitwise "not"), &lt;&lt; (bitwise left-shift), and >> (bitwise right-shift), as well as &= and |= and ^= (which include assignment, just like +=).
+Just as in C, the bitwise operators are & (bitwise "and"), | (bitwise "or"), ^ (bitwise "exclusive or"), ~ (bitwise "not"), &lt;&lt; (bitwise left-shift), and >> (bitwise right-shift), as well as &lt;= and |= and ^= (which include assignment, just like +=).
 
 ### Integer literals\[[edit](https://en.wikibooks.org/w/index.php?title=Bash_Shell_Scripting&action=edit&section=45)]
 

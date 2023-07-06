@@ -2,7 +2,7 @@
 id: 2aehpdqrv3y95qftioj1ds2
 title: Theme
 desc: ''
-updated: 1687862794677
+updated: 1688124970745
 created: 1636911172910
 ---
 
@@ -22,12 +22,14 @@ ansi-colors
 min/max contrast
 
 define color map
+color :: (hue, chroma, tone) -> [Material Design](https://m3.material.io/theme-builder#/dynamic)
 functions
   category: light/dark, high-contrast
-  neutral
+  neutral :: polarized.neutral.dark || polarized.neutral.light
   primary
   secondary
-  …
+  ..
+
   functionality
     fore
       accent :: more contrast

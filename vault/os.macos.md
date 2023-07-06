@@ -2,9 +2,15 @@
 id: 6u7b0dgwb147ezo39ixnll0
 title: macOS
 desc: ''
-updated: 1637506772415
+updated: 1688561658448
 created: 1637506488693
 ---
+
+## ui
+- [ ]  eliminating title bars
+  ? macports-like hack : display: hidden;
+  ? hammerspoon confg - tiling manaer move window ooB
+  ? hammerspoon manipulate NSDisplayViewer Canvas
 
 ## core architecture
 ![[architecture overview|https://en.wikipedia.org/wiki/File:Diagram_of_Mac_OS_X_architecture.svg]]

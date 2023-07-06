@@ -2,9 +2,13 @@
 id: o1mbbnqlt6rgh4dvytfusqe
 title: macOS
 desc: ''
-updated: 1687448276805
+updated: 1688472416075
 created: 1676973569828
 ---
 
-finding bundle identifiers ^yar9q95y0l2h
+## config
+finding bundle identifiers ^find-bundle-id
 /usr/libexec/PlistBuddy -c 'CFBundleIdentifier' ${PathName} #flow.os.navigation
+
+## themeing
+iterm > zsh > tmux > (z)sh

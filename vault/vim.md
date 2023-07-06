@@ -2,14 +2,15 @@
 id: tds9fre553s7lvh250jstm7
 title: Vim
 desc: ''
-updated: 1687352465466
+updated: 1688561659546
 created: 1636203835676
 ---
 
+intent: print space and insert before
+
 move sneak : $ #t #$p.1
 
-ctags integration: word recognition #t #$p.2
-
+ ctags integration: word recognition #t #$p.2
 
 goTo:
 - last non-whitespace char?

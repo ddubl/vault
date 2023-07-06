@@ -85,7 +85,7 @@ All major engines have some form of support for lookarounds—with some importan
 [(direct link)](http://www.rexegg.com/regex-disambiguation.html#lookbehind_width)
 **Lookbehind: Fixed-Width / Constrained Width / Infinite Width**
 One important difference is whether lookbehind accepts variable-width patterns.
-✽ At the moment, I am aware of only three engines that allow infinite repetition within a lookbehind—as in (?&lt;=\\s_): .NET, Matthew Barnett's outstanding \[_regex_ module for Python](<https://pypi.python.org/pypi/regex>), whose features far outstrip those of the standard _re\* module, and the JGSoft engine used by Jan Goyvaerts' software such as EditPad Pro. I've also implemented an [infinite lookbehind demo for PCRE](http://www.rexegg.com/pcre-callouts.html#infinite_lb).
+✽ At the moment, I am aware of only three engines that allow infinite repetition within a lookbehind—as in (?&lt;=\\s_): .NET, Matthew Barnett's outstanding \[\_regex_ module for Python](<https://pypi.python.org/pypi/regex>), whose features far outstrip those of the standard \_re\* module, and the JGSoft engine used by Jan Goyvaerts' software such as EditPad Pro. I've also implemented an [infinite lookbehind demo for PCRE](http://www.rexegg.com/pcre-callouts.html#infinite_lb).
 ✽ Java accepts quantifiers within lookbehind, as long as the length of the matching strings falls within a pre-determined range. For instance, (?&lt;=cats?) is valid because it can only match strings of three or four characters. Likewise, (?&lt;=A{1,10}) is valid.
 ✽ PCRE (C, PHP, R …), Java and Ruby 2+ allow lookbehinds to contain alternations that match strings of different but pre-determined lengths (such as (?&lt;=cat|raccoon))
 ✽ Perl and Python require a lookbehind to match strings of a fixed length, so (?&lt;=cat|racoons) will not work.
@@ -97,7 +97,7 @@ To master lookarounds, there is a bit more you should really know. For these fin
 In regex as in the (2+3)_(5-2) of arithmetic, parentheses are often needed to group components of an expression together. For instance, the above operation yields 15. Without the parentheses, because the _ operator has higher precedence than the + and -, 2+3_5-2 is interpreted as 2+(3_5)-2, yielding… er… 15 (a happy coincidence).
 In regex, normal parentheses not only group parts of a pattern, they also capture the sub-match to a capture group. This is often tremendously useful. At other times, you do not need the overhead.
 In .NET, this capturing behavior of parentheses can be overridden by the (?n) flag or the RegexOptions.ExplicitCapture option. But in all flavors, .NET included, it is far more common to use (?: … ), which is the syntax for a non-capturing group. Watch out, as the syntax closely resembles that for a lookahead (?= … ).
-For instance (?:Bob|Chloe) matches _Bob_ or _Chloe_—but the name is not captured.
+For instance (?:Bob|Chloe) matches \_Bob_ or _Chloe_—but the name is not captured.
 Within a non-capturing group, you can still use capture groups. For instance, (?:Bob says: (\\w+)) would match _Bob says: Go_ and capture _Go_ in Group 1.
 Likewise, you can capture the content of a non-capturing group by surrounding it with parentheses. For instance, ((?:Bob|Chloe)\\d\\d) would capture "Chloe44".
 [(direct link)](http://www.rexegg.com/regex-disambiguation.html#nocap-with-modifier)
@@ -173,8 +173,8 @@ As we saw in the section on non-capture groups, you [can blend mode modifiers in
 But don't get carried away: you cannot blend inline modifiers with any random bit of regex syntax. For instance, the following are all illegal: `(?i=bob)`, `(?iP<name>bob)` and `(?i>bob)`
 **Using Inline Modifiers in the Middle of a Pattern**
 Usually, you'll use your inline modifiers at the start of the regex string to set the mode for the entire pattern. However, changing modes in the middle of a pattern can be useful, so I'll give you two examples.
-`(\b[A-Z]+\b)(?i).*?\b\1\b` This ensures that an upper-case word is repeated somewhere in the string, in any letter-case. First we capture an upper-case word to Group 1 (for instance _DOG_), then we set case-insensitive mode, then ._? matches any characters up to the back-reference \\1, which could be _dog_ or _dOg_. As a neat variation, (\\b[A-Z]+\\b)._?\\b(?=[a-z]+\\b)(?i)\\1\\b ensures that the back-reference is in lower-case.
-`^(\w+)\b.*\r?\n(?s).*?\b\1\b` This ensures that the first word of the string is repeated on a different line. First we capture a word to Group 1, then we get to the end of the line with ._, match a line break, then set DOTALL mode—allowing the ._? to match across lines, which brings us to our back-reference \\1.
+`(\b[A-Z]+\b)(?i).*?\b\1\b` This ensures that an upper-case word is repeated somewhere in the string, in any letter-case. First we capture an upper-case word to Group 1 (for instance _DOG_), then we set case-insensitive mode, then ._? matches any characters up to the back-reference \\1, which could be \_dog_ or _dOg_. As a neat variation, (\\b[A-Z]+\\b)._?\\b(?=[a-z]+\\b)(?i)\\1\\b ensures that the back-reference is in lower-case.
+`^(\w+)\b.*\r?\n(?s).*?\b\1\b` This ensures that the first word of the string is repeated on a different line. First we capture a word to Group 1, then we get to the end of the line with ._, match a line break, then set DOTALL mode—allowing the .\_? to match across lines, which brings us to our back-reference \\1.
 [(direct link)](http://www.rexegg.com/regex-disambiguation.html#subroutines)
 
 ## Subroutines: (?1) and (?&foo)
@@ -195,10 +195,10 @@ are both equivalent to our first example with numbered group 1. In Ruby 2+, for 
 Instead of using numbered groups, you can use named groups. In that case, in Perl and PHP the syntax for the subroutine call will be (?&group_name). In Ruby 2+ the syntax is \\g&lt;some_word>. For instance,
 `(?<some_word>\w+) (?&some_word)` is equivalent to our first example with numbered group 1.
 **Pre-Defined Subroutines**
-So far, when we defined our subroutines, we also matched something. For instance, (\\w+) defines subroutine 1 but also immediately matches some word characters. It so happens that Perl, PCRE and Python's alternate [_regex_ engine](https://pypi.python.org/pypi/regex) have terrific syntax that allows you to **pre-define a subroutine** without initially matching anything. This syntax is extremely useful to build large, modular expressions. We will look at it in the corresponding section: [Defined Subroutines: (?(DEFINE)(<foo> … ))(<bar> … ))](http://www.rexegg.com/regex-disambiguation.html#define)
+So far, when we defined our subroutines, we also matched something. For instance, (\\w+) defines subroutine 1 but also immediately matches some word characters. It so happens that Perl, PCRE and Python's alternate \[\_regex_ engine](<https://pypi.python.org/pypi/regex>) have terrific syntax that allows you to **pre-define a subroutine** without initially matching anything. This syntax is extremely useful to build large, modular expressions. We will look at it in the corresponding section: [Defined Subroutines: (?(DEFINE)(<foo> … ))(<bar> … ))](http://www.rexegg.com/regex-disambiguation.html#define)
 **Subroutines and Recursion**
 If you place a subroutine such as (?1) within the very capture group to which it refers—Group 1 in this case—then you have a recursive expression. For instance, the regex ^(A(?1)?Z)$ contains a recursive sub-pattern, because the call (?1) to subroutine 1 is embedded in the parentheses that define Group 1.
-If you try to trace the matching path of this regex in your mind, you will see that it matches strings like _AAAZZZ_, strings which start with any number of letters _A_ and end with letters _Z_ that perfectly balance the _A_s. After you open the parenthesis, the A matches an _A_… then the optional (?1)? opens another parenthesis and tries to match an _A_… and so on.
+If you try to trace the matching path of this regex in your mind, you will see that it matches strings like _AAAZZZ_, strings which start with any number of letters _A_ and end with letters _Z_ that perfectly balance the _A_s. After you open the parenthesis, the A matches an \_A_… then the optional (?1)? opens another parenthesis and tries to match an _A_… and so on.
 We'll look at recursion syntax in the next section. There is also a [page dedicated to recursion](http://www.rexegg.com/regex-recursion.html).
 **Warning**
 Note that the (?1) syntax looks confusingly similar to the ?(1) found in [conditionals](http://www.rexegg.com/regex-disambiguation.html#conditionals).
@@ -262,7 +262,7 @@ A quick note first: in case you wonder what the \\ are all about, they simply ma
 
 **(?(DEFINE)  # start DEFINE block**
 
-# pre-define quant subroutine
+## pre-define quant subroutine
 
   (?<quant>many|some|five)
 

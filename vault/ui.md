@@ -31,7 +31,7 @@ palette generation based on viewability
 - distinguishability of tokens, especially of close
 - sparseness of color
 
-# semantic themeing
+## semantic themeing
 
 palette-association is driven by what it applied to
 eg. neutral -> background for text-based interfaces

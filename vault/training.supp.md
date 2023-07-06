@@ -2,11 +2,11 @@
 id: wdjhxfm06mg6hnph7ds7kd0
 title: Supp
 desc: ''
-updated: 1687693017104
+updated: 1688124970735
 created: 1686485666013
 ---
 
-- protein
+- brute
   whey isolate/hydrolysate
   pea isolate
   hemp protein
@@ -14,3 +14,12 @@ created: 1686485666013
   hmb
   citrullin
   arginine
+
+  ashwagandha
+  mucuna pruriens
+  curcuma
+
+  berberine
+
+  enhancing lipolysis:
+  greentea extract (ecgc)

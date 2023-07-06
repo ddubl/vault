@@ -59,7 +59,7 @@ The following files should be used for defining global environment variables on 
 
 In this example, we add `~/bin` directory to the `PATH` for respective user. To do this, just put this in your preferred global environment variable config file (`/etc/profile` or `/etc/bash.bashrc`):
 
-# If user ID is greater than or equal to 1000 & if ~/bin exists and is a directory & if ~/bin is not already in your $PATH
+## If user ID is greater than or equal to 1000 & if ~/bin exists and is a directory & if ~/bin is not already in your $PATH
 
 # then export ~/bin to your $PATH.
 
@@ -105,7 +105,7 @@ $ export PATH="${PATH}:/home/my_user/tmp/usr/bin"
 
 The following section lists a number of common environment variables used by a Linux system and describes their values.
 
-- `DE` indicates the _D_esktop _E_nvironment being used. [xdg-open](https://wiki.archlinux.org/index.php/Xdg-open) will use it to choose more user-friendly file-opener application that desktop environment provides. Some packages need to be installed to use this feature. For [GNOME](https://wiki.archlinux.org/index.php/GNOME), that would be [libgnome](https://aur.archlinux.org/packages/libgnome/)AUR; for [Xfce](https://wiki.archlinux.org/index.php/Xfce) this is [exo](https://www.archlinux.org/packages/?name=exo). Recognised values of `DE` variable are: `gnome`, `kde`, `xfce`, `lxde` and `mate`.
+- `DE` indicates the \_D_esktop \_E_nvironment being used. [xdg-open](https://wiki.archlinux.org/index.php/Xdg-open) will use it to choose more user-friendly file-opener application that desktop environment provides. Some packages need to be installed to use this feature. For [GNOME](https://wiki.archlinux.org/index.php/GNOME), that would be [libgnome](https://aur.archlinux.org/packages/libgnome/)AUR; for [Xfce](https://wiki.archlinux.org/index.php/Xfce) this is [exo](https://www.archlinux.org/packages/?name=exo). Recognised values of `DE` variable are: `gnome`, `kde`, `xfce`, `lxde` and `mate`.
 
 The `DE` environment variable needs to be exported before starting the window manager. For example:
 

@@ -15,7 +15,7 @@ dash hop turnaround double laser
 shine SHFFL-0F:onHSlateNair
     fAd on CC?
 
-# + OoS
+## + OoS
 
 OoS b> cHop
 shine OoS w/ c-stick db

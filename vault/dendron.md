@@ -2,16 +2,26 @@
 id: 7i1txufkugn8e5o568oslax
 title: Dendron
 desc: ''
-updated: 1686232089002
+updated: 1688561659580
 created: 1636846848375
 ---
 
+parsing model
+- pull ts definitions programmatically
+
+#prt
+ahk\#+< focus breadcrumbs
+
+## flow
+### additions
+prepend change .- move to nesting / move nesting to top
+
+### extractions
 extract components:
 - pod: data sources | ingest
 - tag: custom syntax definition :hooks, :queries
 
 [Dendron Links](https://wiki.dendron.so/notes/3472226a-ff3c-432d-bf5d-10926f39f6c2/)
-
 boilerplate for submodule vault additions
 - assume new vault has the same config as existing vaults
 
@@ -43,8 +53,8 @@ definitions of how to interact with sourcematerial
   interactions through other applications
 
 availability through p2p
-  - if deletion of shard with few replicas -> ask
-  - keep references in cdn or other platforms (github/yt etc)
+- if deletion of shard with few replicas -> ask
+- keep references in cdn or other platforms (github/yt etc)
 
 #? resources-tag in frontmatter?
 
@@ -57,7 +67,6 @@ type-signatures as in haskell
 
 separation vault - git submodule per branch / sub-branch
   where hooks?
-
 
 syntactic definitions:
   types as yml tags: function hooks
@@ -79,15 +88,19 @@ syntactic definitions:
     template: onCreate
     hook: dynamic(?onSave)
 
+## notebooks
 interaction notebooks:
   opening - writing in transclusions
 
+## navigation
 followable navigation
   either generate notebook-like metafiles
   leave 'trail'
 
+## link
 linking/referencing resources
 
+## tags
 function tags
 ie. f::text:outline
 following type-signature notation conventions (haskell)

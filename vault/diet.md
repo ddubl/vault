@@ -2,7 +2,7 @@
 id: 438394l1zzhcjyia4280tuj
 title: Diet
 desc: ''
-updated: 1687692956919
+updated: 1688131283041
 created: 1649814163722
 ---
 
@@ -13,23 +13,23 @@ adding fermented foods
 - sour dough bread
 - kombucha
 
-probiotic/enzymatic
+probiotic/enzymatic additions
 - apple cider vinegar (pectin)
 - DAO / histamine digesting units (HDU)
 - α-galactosidase
-+ xylose isomerase
-+ lactase
-+ inulinase
-+ pectinase
--> enzymatin [Enzymatin® 120 St - shop-apotheke.ch](https://www.shop-apotheke.ch/de/beauty/3364323/enzymatin.htm?eventName=click%20on%20product%20list%20item&eventType=click&objectIDs=[03364323]&position=2&query=galactosidase&queryID=3d4c01f3cc55d8b68afefd5ecac402f1)
--> dao [intoleran DAO plus - 50 Kapseln 50 St - shop-apotheke.ch](https://www.shop-apotheke.ch/de/artikel/BE04567228/intoleran-dao-plus-50-kapseln.htm?query=dao&queryID=36b3a7461f75a54a975126cd73645e9b&objectIDs=[BE04567228]&position=4&eventName=click%20on%20product%20in%20suggest&eventType=click)
-\{{f}}p/30
--> [[training.supp]]
+
+- xylose isomerase
+- lactase
+- inulinase
+- pectinase
+  \-> enzymatin [Enzymatin® 120 St - shop-apotheke.ch](https://www.shop-apotheke.ch/de/beauty/3364323/enzymatin.htm?eventName=click%20on%20product%20list%20item&eventType=click&objectIDs=[03364323]&position=2&query=galactosidase&queryID=3d4c01f3cc55d8b68afefd5ecac402f1)
+  \-> dao [intoleran DAO plus - 50 Kapseln 50 St - shop-apotheke.ch](https://www.shop-apotheke.ch/de/artikel/BE04567228/intoleran-dao-plus-50-kapseln.htm?query=dao&queryID=36b3a7461f75a54a975126cd73645e9b&objectIDs=[BE04567228]&position=4&eventName=click%20on%20product%20in%20suggest&eventType=click)
+  {{f}}p/30
+  \-> [[training.supp]]
 
 ## issues
 - add and complications following
   #med : #frq -> #therapy
-
 #prac : #frq -> #therapy
 @type behavioral
 
@@ -47,8 +47,9 @@ probiotic/enzymatic
     cromoglicat eyedrops
     pollen season -> antihistamines
 
-# caloric distribution
-# micronutrient
+## caloric distribution
+
+## micronutrient
 greens w/ every meal
 adding greens in spices/condiments
 

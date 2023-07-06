@@ -2,13 +2,21 @@
 id: pc2uninwf8ayvwoqtgdnejl
 title: Tmux
 desc: ''
-updated: 1687789214534
+updated: 1688134992062
 created: 1664542515648
 ---
 
 open temp pane
 vim integration
   #feature
+
+breaking pane config
+  zsh param expansion
+  -> ${fgbg} with escape sequences renders background colors thorugh
+
+  CSI ]36
+  -> autoescape
+  #? how to print literal
 
 open {sth} as #feature
   pane

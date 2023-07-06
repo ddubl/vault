@@ -2,49 +2,55 @@
 id: 9ncgluup922qwx170crudtw
 title: Stack
 desc: ''
-updated: 1677014680420
+updated: 1688124970728
 created: 1633199321502
 ---
-## #d220725(yymmdd)
 
 Magnesium
-    ZMA
-        B6
-        Zinc
-        Magnesium Citrate
-Creatine
-Vit D3
-Nutrigreens
-Multimineral
-DHA, EPA (Cod Liver Oil)
-? GABA
+  bis-tartrate
+  citrate
+
+Vit
+  D3
+  K2
+
+DHA, EPA
 
 Chaga
 
-diet -> mate
-make: kombucha
+mate
+kombucha
+kimchi
+miso
+sour-dough bread
+apple cider vinegar
 
-
-Alibaba:
-Noopept
 Melatonin
-Citocholine
 Chaga
  Lion’s Mane Mushroom
 
-Modafinil
- https://afinil.eu/en/
-
+Creatine
+HMB
 Arginine
+Citrullin
+
+Tryptophan
+Ashwaganda
 GABA
 
-Psylocibin/LSD microdoses
+Psylocibin
+lsd microdoses
 
-Creatine
-Beta-alanine
+lipolytic
+  berberine
+  forskolin
+  carnitine
+  greentea extract
+  caffeine
+  CLA
+  Zinc/Calcium/Selenium
+  cholin/inositor
+  red pepper/ginger
 
-Minerals
-
-* Magnesium
-
-(Melanotan II)
+  glucomannan (manjok soluble fibre)
+  tryptophan

@@ -125,9 +125,9 @@ preview:
     enablePrettyRefs: true
     enableKatex: true
     automaticallyShowPreview: false
-    enableFrontmatterTags: false
+    enableFrontmatterTags: true
     enableHashesForFMTags: false
-    theme: light
+    theme: dark
 publishing:
     enableFMTitle: true
     enableNoteTitleForLink: true

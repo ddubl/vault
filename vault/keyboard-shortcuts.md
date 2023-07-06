@@ -10,7 +10,7 @@ created: 1665736224570
 macos - extended Logical
 \\therefore
 
-# shortcuts
+## shortcuts
 
 ## keys
 

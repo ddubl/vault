@@ -240,7 +240,7 @@ PowerShell has a family of conditional operators
   $Total = 180
   "My total is " + $Total
 
-# Result:
+## Result:
 
 My total is 180
 Hyphen -Dash -Minus

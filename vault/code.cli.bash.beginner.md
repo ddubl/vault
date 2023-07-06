@@ -17,7 +17,7 @@ Version 1.11 Last updated 20081227 Edition
 
 * * *
 
-# Bash Guide for Beginners
+## Bash Guide for Beginners
 
 ### Machtelt Garrels
 
