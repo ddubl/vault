@@ -2,7 +2,7 @@
 id: 7i1txufkugn8e5o568oslax
 title: Dendron
 desc: ''
-updated: 1688561659580
+updated: 1688647481655
 created: 1636846848375
 ---
 
@@ -15,6 +15,11 @@ ahk\#+< focus breadcrumbs
 ## flow
 ### additions
 prepend change .- move to nesting / move nesting to top
+
+### tracker
+github issue tracker.
+-> #f #gen associate with non-plaintext media
+: adapter -> pod :: extraction/integration
 
 ### extractions
 extract components:

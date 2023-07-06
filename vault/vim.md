@@ -2,7 +2,7 @@
 id: tds9fre553s7lvh250jstm7
 title: Vim
 desc: ''
-updated: 1688561659546
+updated: 1688647481666
 created: 1636203835676
 ---
 
@@ -156,7 +156,8 @@ When selecting lines of text in Visual mode, you must use the normal commands:
 For example:
 
 Enter Visual mode and mark some text/lines.
-Then type :diffput to push the selected lines to the other file or :diffget to get the selected lines from the other file.
+Then type :diffput to push the selected lines to the other file
+:diffget to get the selected lines from the other file.
 To belabor the point: This means that if there is a block of changes consisting of multiple lines, then selecting a subset of lines and issueing :diffput will only apply those changes in the other buffer.
 
 (:diffget and :diffput also accept ranges, see :h copy-diffs for more.)

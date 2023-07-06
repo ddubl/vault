@@ -2,9 +2,18 @@
 id: zxfs9vjpm9sm4bitmacsodp
 title: Flow
 desc: ''
-updated: 1688561659565
+updated: 1688651254754
 created: 1638022787958
 ---
+
+tag | backlink notes as log
+task.semantic := git.squash.semantic
+:: (taskRef, todoItem || node.task, git.log)
+
+footnotes in frontmatter
+-> alternate way to handle footnotes
+
+tag -> typeClass
 
 linking prepends #f
 
