@@ -32,6 +32,10 @@
         },
         {
             "path": "./dnd"
+        },
+        {
+            "name": "codebook",
+            "path": "../codebook"
         }
     ],
     "settings": {

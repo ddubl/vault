@@ -2,7 +2,7 @@
 id: 3mip6g0obhm40rpg74hz7hm
 title: Tmux
 desc: ''
-updated: 1688561659539
+updated: 1689000163238
 created: 1636903106989
 ---
 
@@ -44,7 +44,12 @@ breaking pane -> window as inverse 'breaking up the tree' of window -> pane
 ## theme
 color functions
 #t fix status line
-- [ ] #fix theme #extend
+- [w] #fix theme #extend
+  - [x] colorscheme ![[dendron://vault/cli.macos#colorscheme]]
+  - [x] status line colors
+  - [d] format
+    - [i] trimming character replacement in windows status
+  - [w] highlight line colour #todo.current
 
 #i send to all panes
   Ctrl-b :setw synchronize-panes on

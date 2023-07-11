@@ -1,10 +1,13 @@
 ---
 id: bg17hvopr9mslgy942jlfaq
-title: Syntax
+title: Extension
 desc: ''
-updated: 1688651254744
+updated: 1688743654648
 created: 1687430542383
 ---
+
+type annotations
+directives
 
 styleguide
   vimmable

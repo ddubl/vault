@@ -2,7 +2,7 @@
 id: tds9fre553s7lvh250jstm7
 title: Vim
 desc: ''
-updated: 1688647481666
+updated: 1688743654643
 created: 1636203835676
 ---
 
@@ -40,9 +40,9 @@ qwerty - qwertz : remap yank to z #?
 closing vim #p ZZ
 
 ## bindings
- \--> international
+ => input localizations
 - [ ] backtick-mark traversal is broken
-- ## [ ]
+- [ ] global marks : ledger -> journeys
 
 base building block
 - buffer
@@ -56,12 +56,12 @@ next group : }
 [how to move to the next enclosing brackets in VI](https://stackoverflow.com/questions/1509855/how-to-move-to-the-next-enclosing-brackets-in-vi)
 use [ and ] to cycle to the previous and next matching brackets respectively. Commonly:
 
-\[( - Previous (
-\[{ - Previous {
-\[&lt; - Previous &lt;
+[( - Previous (
+[{ - Previous {
+[&lt; - Previous &lt;
 and more interesting ones
 
-\[m - Previous method start
+[m - Previous method start
 [M - Previous method end
 The same also applies for next items:
 ]} - Next }
@@ -104,7 +104,7 @@ ysi(Bracket)
   [ with space
   ] without
 
-### selection
+### variant visualmode
 S and the same commands as before
 
 ## search case sensitive
@@ -115,27 +115,27 @@ S and the same commands as before
 
 ## reselect visual
 - gv
-  \#? paste to eol?
+  #? paste to eol?
 
 ## insert to [motion]
 move to space in normal
 get to insert
 ^r and specify register to paste
 
-\#? how to navigate filetrees?
-\-> :e . netrw in current dir, but navigation breaks
+#? how to navigate filetrees?
+-> :e . netrw in current dir, but navigation breaks
 
 ## literal input
 C-v in input mode and enter character
-\-> escape sequences
+-> escape sequences
 
 ## merge [Merge changes using vimdiff](https://stackoverflow.com/questions/27832630/merge-changes-using-vimdiff#answers)
 
-\-> [[vim.plugins#fugitive]]
+-> [[vim.plugins#fugitive]]
 do - Get changes from other window into the current window.
 dp - Put the changes from current window into the other window.
 ]c - Jump to the next change.
-\[c - Jump to the previous change.
+[c - Jump to the previous change.
 zo - Open folded lines.
 zc - Close folded lines.
 zr - Unfold both files completely.
@@ -161,17 +161,12 @@ Then type :diffput to push the selected lines to the other file
 To belabor the point: This means that if there is a block of changes consisting of multiple lines, then selecting a subset of lines and issueing :diffput will only apply those changes in the other buffer.
 
 (:diffget and :diffput also accept ranges, see :h copy-diffs for more.)
-
 Compare two buffers inside Vim
-
 If you load up two files in splits (:vs or :sp), you can do :diffthis on each window and achieve a diff of files that were already loaded in buffers.
-
 :diffoff can be used to turn off the diff mode.
-
 This Vimcasts post and video show this in practice.
 
 How to apply all changes between buffers
-
 Make sure that all participating buffers are in diff mode (see :h start-vimdiff)
 a. Get changes from a buffer to the current one: :%diffget {buffer-number}
 b. Put all changes from current buffer into another: :%diffput {buffer-number}

@@ -2,9 +2,19 @@
 id: 7i1txufkugn8e5o568oslax
 title: Dendron
 desc: ''
-updated: 1688647481655
+updated: 1688995747411
 created: 1636846848375
 ---
+
+#flow
+paste link and goTo
+- goto note
+- copy note ref
+- paste note ref to origin
+-> trail
+
+#flow
+todo element mutation #i
 
 parsing model
 - pull ts definitions programmatically

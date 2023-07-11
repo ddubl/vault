@@ -2,9 +2,10 @@
 id: pl58a1efixd64ts30nml7cv
 title: Config
 desc: ''
-updated: 1665485270147
+updated: 1689066178023
 created: 1665484949802
 ---
+
 plaintext configs
 
 vscode
@@ -14,5 +15,6 @@ vscode
     */folders
     hammerspoon
 
-
 ## paths
+symlinks pathresolver
+ledger -> config submodule
