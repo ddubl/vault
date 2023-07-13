@@ -2,9 +2,13 @@
 id: tds9fre553s7lvh250jstm7
 title: Vim
 desc: ''
-updated: 1688743654643
+updated: 1689165755932
 created: 1636203835676
 ---
+
+:help mark-motions
+`.
+`^
 
 intent: print space and insert before
 

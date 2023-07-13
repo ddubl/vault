@@ -2,9 +2,15 @@
 id: y0ym0o8q5hvu8qgsoi98uda
 title: Projects
 desc: ''
-updated: 1689073330690
+updated: 1689255949016
 created: 1643633838840
+tag: [plan]
 ---
+
+workflows
+
+## goals
+SNBF23
 
 ## [[projects.ddublu]]
 MVP : site - sales / books
