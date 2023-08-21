@@ -2,9 +2,14 @@
 id: o1mbbnqlt6rgh4dvytfusqe
 title: macOS
 desc: ''
-updated: 1688995644470
+updated: 1689586672232
 created: 1676973569828
 ---
+
+## tools
+systemctl := launchctl
+
+#i address
 
 ## config
 finding bundle identifiers ^find-bundle-id

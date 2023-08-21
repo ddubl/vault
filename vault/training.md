@@ -2,7 +2,7 @@
 id: pc9s8u5ymwl8w7w2htspkcv
 title: Training
 desc: ''
-updated: 1687176784134
+updated: 1689335505353
 created: 1633292753469
 ---
 
@@ -15,7 +15,6 @@ log ::
 , movement
 , projection ~> bounds
 , (pro/re)gression
-
 
 u/l
 l/s
@@ -102,3 +101,6 @@ mobility
 ## resources
 renaissance periodization
 reactiveTrainingSystems
+
+## flow
+- training logs

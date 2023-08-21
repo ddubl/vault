@@ -1,0 +1,42 @@
+# description: configuration ID
+# type: string
+# required: true
+podId: airtable.ds.of1
+
+# description: optional description for the pod
+# type: string
+# description: TODO
+
+# description: export scope of the pod.
+# type: string
+# NOTE: When a setting is missing from this config, you will get a UI prompt to select a value for that setting while running the export pod. For this particular exportScope setting, if you would rather not be prompted and always have the same exportScope, simply uncomment the line below.
+# exportScope: TODO
+
+# description: type of pod
+# type: string
+# required: true
+podType: AirtableExportV2
+
+# description: ID of the Airtable Connected Service
+# type: string
+# required: true
+connectionId: TODO
+
+# description: airtable base id
+# type: string
+# required: true
+baseId: TODO
+
+# description: Name of the airtable
+# type: string
+# required: true
+tableName: TODO
+
+# description: mapping of airtable fields with the note eg: {Created On: created, Notes: body}
+# type: object
+# required: true
+sourceFieldMapping: TODO
+
+# description: undefined
+# type: object
+# filters: TODO

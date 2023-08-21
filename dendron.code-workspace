@@ -55,6 +55,9 @@
         "editor.snippetSuggestions": "inline",
         "editor.suggest.snippetsPreventQuickSuggestions": false,
         "editor.suggest.showSnippets": true,
-        "files.autoSave": "off"
+        "files.autoSave": "off",
+        "workbench.colorCustomizations": {
+            "[Gruvbox Material Light]": {}
+        }
     }
 }

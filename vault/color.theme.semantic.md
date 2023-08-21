@@ -2,9 +2,10 @@
 id: pncdm66e9lt0nvwqrj186tk
 title: Semantic
 desc: ''
-updated: 1665908620598
+updated: 1691588873418
 created: 1665908620598
 ---
+
 primary
   variant
 accent

@@ -2,7 +2,7 @@
 id: 67krwuza0duiyd6asmhh0f5
 title: Data
 desc: ''
-updated: 1686759841765
+updated: 1690821492095
 created: 1685278126930
 notebook: assets/ddubl.default.ipynb#^second-block
 ---
@@ -22,9 +22,9 @@ hooks/schemes
 
 : apply : data as functions, functions as data
 data ingestion, store shapes
-  - raw / serialized in yml/json
-  - object
-  - table
-  - graph
+- raw / serialized in yml/json
+- object
+- table
+- graph
 
 func ingress

@@ -2,10 +2,25 @@
 id: zb0m617g5mqbqtktoc7gbvk
 title: Polarized
 desc: ''
-updated: 1688124970751
+updated: 1691588873411
 created: 1636911874445
 ---
 
+## palette
+### ansi
+| pos | light.normal | light.bright | dark.normal | dark.bright |
+| --- | ------------ | ------------ | ----------- | ----------- |
+| 0   | F9F1CB       | F2E5BC       |             |             |
+| 1   |              | CFC4A2       |             |             |
+| 2   | 9A7ED4       | A88AE9       |             |             |
+| 3   | DBA000       | 969279       |             |             |
+| 4   | 8A63C1       | B998FF       |             |             |
+| 5   |              |              |             |             |
+| 6   | 6745A7       | D5B3FF       |             |             |
+| 7   |              |              |             |             |
+\### ansi
+
+## === EOF
 primary: #8d79b9 := luv:55%
   hsluv: [41%, 58%, 62% || 65%, 79%]
 secondary: #34280a := luv:17%

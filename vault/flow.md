@@ -2,11 +2,15 @@
 id: 24kuf5y9lo5h0p40fg02tt2
 title: Flow
 desc: ''
-updated: 1685895260524
+updated: 1689594351252
 created: 1664372851354
 ---
 
-offline cache - safari ->
+#rnd html links -> humanmark
+
+continue : caching content
+  -> links cached
+  ? browsh for online resources
 
 ? types
 ephemerals ○ lookups ○ seeks
@@ -54,19 +58,17 @@ functions/flows
   help
   communicate
 
-
-  ## ddublu
+## ddublu
   streamOfConsciousness - filter task
   noted thought
 associate task - orgmode
   gather in task nod/te
 
-
-  ## functions
+## functions
   move focus to topmost window to {{motion}} -> similar to window/pane/tmux/vim nesting navigation behaviour
 
-  ### vscode
-  #### dendron
+### vscode
+#### dendron
   autologging - timed autocommit on significant actions -> #issue compute significance
     memory | significance | computability
 

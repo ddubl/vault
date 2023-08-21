@@ -2,15 +2,18 @@
 id: y0ym0o8q5hvu8qgsoi98uda
 title: Projects
 desc: ''
-updated: 1689255949016
+updated: 1691005142532
 created: 1643633838840
 tag: [plan]
 ---
 
+![[dendron://task/ds.projects]]
+[meta]
 workflows
 
-## goals
-SNBF23
+## milestones
+- snbf - wnbf pro-card
+  SNBF23
 
 ## [[projects.ddublu]]
 MVP : site - sales / books

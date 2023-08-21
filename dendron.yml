@@ -116,14 +116,14 @@ workspace:
     hooks:
         onCreate: []
 preview:
-    enableFMTitle: false
+    enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
     enableKatex: true
     automaticallyShowPreview: false
     enableFrontmatterTags: true
-    enableHashesForFMTags: false
-    theme: dark
+    enableHashesForFMTags: true
+    theme: light
 publishing:
     enableFMTitle: true
     enableNoteTitleForLink: true
