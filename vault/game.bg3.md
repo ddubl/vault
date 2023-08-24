@@ -2,20 +2,9 @@
 id: n1m2paaweajdj1xrmywefno
 title: Bg3
 desc: ''
-updated: 1692615906290
+updated: 1692792008631
 created: 1692080947247
 ---
-
-custom party
-- nova/npc-interaction: cha based half-orc Lock.5,Pal.6,Cleric.1
-dex: shortsword, hand xBow for bonusActionAttack (giant-strength club -> shillelagh?/)
-- dps/exploration: lolth-sworn drow
-  gloomStalker.3,thief.3,bard.valor.6
-  > dex locked to 17?
-  > single-feat: SS
-  ranger.5.rogue.4.bard.3 ->
-- flex/support: cleric6paladin6 (tempest/ancients?)
-- support/control: diviner12|enchanter12
 
 ## class
 ### notable class features
@@ -51,14 +40,12 @@ fighter4 >-< ranger6
 
 ### pomLock
 : high-sustain control/optional nova
+  ? nova half-orc stacking different dice-types, since on-demand crits
+    - luck of the far realms
+    - crit-ring
 - eldritch-blast, counterspell, hunger of hadar
 
-lock5
-paladinX
-r-pala2lock5
-#### variations
-pal2.lock5.bard5 >-< pal7.lock5
-pal2.lock3.sorc7
+![[pomLock|dendron://vault/game.bg3.builds.pomLock]]
 
 ### moonMonk
 frontlining
@@ -68,13 +55,18 @@ frontlining
 -> needs bonus-action options
 
 ## party compositions
-pomLock5Pal7(20 cha with witches charm) :: nova-blaster/frontliner
-tempestCleric12 :: frontliner
-thief3bm4gloom5 :: canvas-sharpshooter/dps, skill-c
+pomLock5OoAncients7(20 cha with witches charm) :: nova-blaster/frontliner
+cTempest12 :: frontliner
+thief3battlem4gloom5 :: canvas-sharpshooter/dps, skill-c
+  ? thief3beastmaster5battlemaster4
+    1: beastmaster5 -> spider summon (infinite web)
+    - thief3/4
+    - battlemaster3
 cNature1diviner11 :: controller/blaster
+  ? cLight1Conjurer11
 
 auras[^0]: wild3/bard6/pala6&7
-wild3moon9/monk1dLand11 :: support/controller/frontlining
+? wild3moon9/monk1dLand11 :: support/controller/frontlining
 pal2Sorc7Lock3//pal2Sorc9wCleric1 :: nova-blaster/frontliner (2-feat build: GwM/Pom available)
   ~r .amuletVigor(Act3)
 cNature1Enchanter11 :: control-blaster
@@ -87,7 +79,15 @@ berserker3bm3bard6 :: frontlining/control (GwM)
   :
   ~r .gauntletStrength(Act3)
 
-[[game.bg3.tooling]] ::
--
+- GoO.5,ancients.6,Cleric.1
+dex: shortsword, hand xBow for bonusActionAttack (giant-strength club -> shillelagh?/)
+- dps/exploration: lolth-sworn drow
+  gloomStalker.3,thief.3,bard.valor.6
+  > dex locked to 17?
+  > single-feat: SS
+  ranger.5.rogue.4.bard.3 ->
+- flex/support: cleric6paladin6 (tempest/ancients?)
+- support/control: diviner12|enchanter12
+[[game.bg3.tooling]]
 
 [^0] "toggle: display auras" required to render RT [[tags.feature]] [[tags.tooling]]
