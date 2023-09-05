@@ -1,5 +1,5 @@
 ---
-id: jzjp3upvfnxfrucswtx8mis
+id: 1npk9fk2hsw510tmqoaruxa
 title: Hotkeys
 desc: ''
 updated: 1664905728750

@@ -1,5 +1,5 @@
 ---
-id: 12c6znrcy8xeiw2fdtwbsbv
+id: 456gshxfppbxlxpup15evut
 title: Bash
 desc: ''
 updated: 1636847637230

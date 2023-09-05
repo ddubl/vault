@@ -1,5 +1,5 @@
 ---
-id: b8bdx290nlxfywlkzgs5uty
+id: ommxme51rsjp6lk4p3796e0
 title: scopeResolution
 desc: ''
 updated: 1661861749103

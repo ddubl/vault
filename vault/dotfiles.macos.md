@@ -1,8 +1,8 @@
 ---
-id: kxc65io1oebbkfr7z5cfcj0
+id: s6ds72aa6zgo92mlfdrxhwv
 title: macOS
 desc: ''
-updated: 1687359135686
+updated: 1693320083893
 created: 1637504771424
 ---
 
@@ -103,5 +103,14 @@ js/deno
 ## running custom appleScripts/Javascript
 osascript util
 
-greedy homebrew update
+- greedy homebrew update
 brew update && brew outdated --greedy && brew upgrade --greedy && brew cleanup
+
+- cache cleanup
+brew cleanup --prune=all
+
+- check `brew --cache` size afterwards
+-> du[diskUsage] -sch $(brew --cache)
+
+- forced cache cleanup
+rm -rf `brew --cache`

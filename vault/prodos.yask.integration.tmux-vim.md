@@ -1,5 +1,5 @@
 ---
-id: g9xg64ccyij9r1f5hgwrdxm
+id: l0rvnvdrb9n0s2lnmzlc0h6
 title: Tmux Vim
 desc: ''
 updated: 1638050918209

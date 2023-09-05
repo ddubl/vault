@@ -1,5 +1,5 @@
 ---
-id: g8ttdat6ct5sszvseh6x9fz
+id: 7tklufdsnt0azfh30gn7fga
 title: Jargon
 desc: ''
 updated: 1633199319499

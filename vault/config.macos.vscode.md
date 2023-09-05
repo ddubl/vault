@@ -1,5 +1,5 @@
 ---
-id: 9aiemrjjmnkzxapc4p88pqb
+id: bccl9z7ebpuis9kvoicvg4d
 title: Vscode
 desc: ''
 updated: 1676540109017

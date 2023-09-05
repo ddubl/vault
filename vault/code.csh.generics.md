@@ -1,5 +1,5 @@
 ---
-id: j9jsbpcyx7yru7ixlsohqib
+id: zhyr2hkg5hsxeuuva2t624l
 title: Generics
 desc: ''
 updated: 1633199319551

@@ -1,5 +1,5 @@
 ---
-id: 0hdp2ou4z3zll4fnz18ri9b
+id: etz46m7r4uo410h3w822m7s
 title: 1gate
 desc: ''
 updated: 1664375012241

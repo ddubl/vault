@@ -57,7 +57,32 @@
         "editor.suggest.showSnippets": true,
         "files.autoSave": "off",
         "workbench.colorCustomizations": {
-            "[Gruvbox Material Light]": {}
-        }
+            "[Gruvbox Material Light]": {
+                "activityBar.inactiveForeground": "#b3a593",
+                "editorCodeLens.foreground": "#b3a593",
+                "editorLineNumber.foreground": "#d5c4a190",
+                "tab.activeModifiedBorder": "#cdc7e6",
+                "tab.inactiveModifiedBorder": "#cdc7e6",
+                "tab.unfocusedActiveBorder": "#a89d90",
+                "tab.unfocusedActiveModifiedBorder": "#bdb5de",
+                "tab.unfocusedInactiveModifiedBorder": "#cdc7e6",
+                "sideBar.border": "#F2E5BC",
+                "panel.border": "#F2E5BC",
+                "statusBar.noFolderBorder": "#F2E5BC",
+                "statusBar.border": "#F2E5BC"
+            },
+            "[Gruvbox Material Dark]": {
+                "sideBar.border": "#313131",
+                "activityBar.border": "#313131",
+                "editorGroup.border": "#313131"
+            },
+            "tab.activeBorder": "#A88AE9",
+            "tab.unfocusedActiveBorder": "#B998FF",
+            "sideBar.border": "#cdc7e6",
+            "minimap.background": "#00000000",
+            "scrollbar.shadow": "#00000000"
+        },
+        "editor.minimap.autohide": true,
+        "editor.minimap.renderCharacters": false
     }
 }

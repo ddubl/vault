@@ -1,10 +1,11 @@
 ---
-id: y0ym0o8q5hvu8qgsoi98uda
+id: 53bqkme3i0uoidqg037xrk0
 title: Projects
 desc: ''
 updated: 1691005142532
 created: 1643633838840
-tag: [plan]
+tag:
+  - plan
 ---
 
 ![[dendron://task/ds.projects]]

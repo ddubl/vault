@@ -1,5 +1,5 @@
 ---
-id: zgwztsk4oo7oflp68hp694p
+id: vyedzzul4ytdmcef40bvwwt
 title: theory-of-how-columns-in-the-neocortex-enable-learning
 desc: ''
 updated: 1633268702660

@@ -1,12 +1,12 @@
 ---
-id: 277fpuwa6kqv8x1y3n2gc90
+id: h9t6zdh22clidgpc8ru7zfs
 title: Low Histamine
 desc: ''
 updated: 1688659049159
 created: 1688657295126
-sources: [
-  https://lowhistamineeats.com/low-histamine-flours/#Arrowroot_Flour_Arrowroot_Starch
-]
+sources:
+  - >-
+    https://lowhistamineeats.com/low-histamine-flours/#Arrowroot_Flour_Arrowroot_Starch
 ---
 
 wheat flour substitutes

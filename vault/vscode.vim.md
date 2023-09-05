@@ -1,10 +1,10 @@
 ---
-id: 7xti7n10g6583xknvllfylj
+id: 4tz0fhrktqzcncoo08bn4pa
 title: Vim
 desc: ''
 updated: 1688650360130
 created: 1662652166441
-repo: https://github.com/VSCodeVim/Vim
+repo: 'https://github.com/VSCodeVim/Vim'
 ---
 
 cursor movement gets stuck in folds #issue

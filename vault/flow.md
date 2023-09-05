@@ -1,8 +1,8 @@
 ---
-id: 24kuf5y9lo5h0p40fg02tt2
+id: f177lkhfsboou7xbs6l62mq
 title: Flow
 desc: ''
-updated: 1689594351252
+updated: 1693910890753
 created: 1664372851354
 ---
 
@@ -15,6 +15,9 @@ continue : caching content
 ? types
 ephemerals ○ lookups ○ seeks
 definitions ○ hooks ○ integrations ○ (en)flow
+
+tag stacks
+:: mode.todo |= mode || todo
 
 mode
   models keyboard/text driven interfaces to contexts and actions in these forms

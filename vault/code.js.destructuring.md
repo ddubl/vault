@@ -1,5 +1,5 @@
 ---
-id: a5zzcuqilz8tua83vap9r8w
+id: vedufg97aj5kyb5bedea7zn
 title: Destructuring
 desc: ''
 updated: 1633199319593

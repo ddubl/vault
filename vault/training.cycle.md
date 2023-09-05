@@ -1,10 +1,12 @@
 ---
-id: bcgu6ajx8la25z9cbdole7j
+id: 2q3bdehalmef9y05jwh4k32
 title: Cycle
 desc: ''
 updated: 1686232018401
 created: 1686228643181
-tags: [{{template}}, data]
+tags:
+  - '[object Object]': null
+  - data
 ---
 
 date

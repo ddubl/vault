@@ -1,5 +1,5 @@
 ---
-id: 8xfahcztnzsm14ixenm14la
+id: rh0rqzj3ooet0qyjiho3oqs
 title: Karabiner
 desc: ''
 updated: 1678189720820

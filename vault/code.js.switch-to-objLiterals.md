@@ -1,5 +1,5 @@
 ---
-id: lbvgp5xcdcmv1o3gnwp05uc
+id: 3ap448gjk1kgmb5nubszjap
 title: switch-to-objLiterals
 desc: ''
 updated: 1633199321488

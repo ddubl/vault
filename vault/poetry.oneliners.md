@@ -1,5 +1,5 @@
 ---
-id: cizuohq0s77294pnnf16fhx
+id: y1twqrc8au1ppxkvc7koy2a
 title: Oneliners
 desc: ''
 updated: 1633199321471

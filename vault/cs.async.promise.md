@@ -1,5 +1,5 @@
 ---
-id: aiv9rkz5mumyto21klmmbnm
+id: ot0jljwdwqbh2l3c950seui
 title: Promise
 desc: ''
 updated: 1633262353425

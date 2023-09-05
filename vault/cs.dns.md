@@ -1,5 +1,5 @@
 ---
-id: yig2e1e4svzeu6pe77fe4hm
+id: d4jamthfp5nxjcwt9t17zjn
 title: DNS
 desc: ''
 updated: 1633199319598

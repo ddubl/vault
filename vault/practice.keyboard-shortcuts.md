@@ -1,5 +1,5 @@
 ---
-id: 2mfzonjkrvy19ibqnghngyx
+id: m6rs05pltvqrlha9ytqzdjn
 title: Keyboard Shortcuts
 desc: ''
 updated: 1637086187620

@@ -1,5 +1,5 @@
 ---
-id: t382ynvt9vwgmzqttdrtxr1
+id: zc4rs3nwq9ibs9dz0aqkkvo
 title: Tech
 desc: ''
 updated: 1633199319586

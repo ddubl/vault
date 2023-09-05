@@ -1,5 +1,5 @@
 ---
-id: dtmnpo5ejgc1rxwfskwf60j
+id: bs83uh0k6rzrbz5m0p0blgv
 title: >-
   Ns Fullscreenauxiliary HTTPS Developer Apple Com Documentation Appkit Nswindow
   Collectionbehavior 1419617 Fullscreenauxiliary

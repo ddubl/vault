@@ -1,5 +1,5 @@
 ---
-id: ihpq1s2sw83txmcu8veqund
+id: 82ilb7iqbud3mzfun9ihb0t
 title: tmux
 desc: ''
 updated: 1685725866657

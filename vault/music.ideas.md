@@ -1,5 +1,5 @@
 ---
-id: upzrds7chku5xivxf9ptn75
+id: 3fbr26jl722qshlpgj4jv3e
 title: Ideas
 desc: ''
 updated: 1676544074409

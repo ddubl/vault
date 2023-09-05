@@ -1,5 +1,5 @@
 ---
-id: yyeuwl3d8ey0nk7y5qs9si3
+id: n7uoq6cszwf1af0qqyxwn4p
 title: >-
   Concise Naming HTTPS Medium Com Eightshapes Llc Naming Tokens in Design
   Systems 9e86c7444676

@@ -1,5 +1,5 @@
 ---
-id: ov63odf1qvhzdrtb9b1okx4
+id: xss9mzpvo82tbx6wpanolgy
 title: Operators
 desc: ''
 updated: 1636458856230

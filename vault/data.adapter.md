@@ -1,5 +1,5 @@
 ---
-id: a9imz8tj8bzipfm5vfw38mo
+id: wnm8e8jqqub1ecggd8vo9lj
 title: Adapter
 desc: ''
 updated: 1685977718476

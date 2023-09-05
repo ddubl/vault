@@ -1,5 +1,5 @@
 ---
-id: c6ypay2oql9vt2lu4on5b0b
+id: ft2kci7z3qe4t0bzqdig39d
 title: Bash Shell Scripting
 desc: ''
 updated: 1633275387040
