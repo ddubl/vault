@@ -2,13 +2,15 @@
 id: 62bzz7nlzu59u7wqe0wkevz
 title: Data
 desc: ''
-updated: 1690821492095
+updated: 1694005431463
 created: 1685278126930
 notebook: assets/ddubl.default.ipynb#^second-block
 ---
 
 data adapter : validator extension
 adapter :: (T<validator>, !URI) -> adapt(*URI) -> T(URI) -> URI
+
+pipeline to
 
 yml directed data generation
 

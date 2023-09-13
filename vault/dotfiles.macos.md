@@ -2,7 +2,7 @@
 id: s6ds72aa6zgo92mlfdrxhwv
 title: macOS
 desc: ''
-updated: 1693320083893
+updated: 1694095288361
 created: 1637504771424
 ---
 
@@ -44,7 +44,7 @@ nvim
   .config/nvim
 
   packer
-(nvim conf|https://github.com/jdhao/nvim-config/)
+(nvim conf|<https://github.com/jdhao/nvim-config/>)
   zsh env vars
   deps
     pip

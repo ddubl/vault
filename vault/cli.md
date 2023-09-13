@@ -2,9 +2,14 @@
 id: skudrqzkcvrrcgxykwfwe2h
 title: CLI
 desc: ''
-updated: 1688561659558
+updated: 1694008770578
 created: 1636904252349
 ---
+
+removed automatic tmux attach
+```bash
+tmux attach -t base || tmux new -A -s base
+```
 
 as a rule, keep defaults unless very necessary
 eg. tmux default prefix
