@@ -2,9 +2,13 @@
 id: pycm3k66l5bf5it9okgbtwx
 title: Ygg
 desc: ''
-updated: 1676367218515
+updated: 1695194814518
 created: 1675852679618
 ---
+
+## hardware
+keyboard: keychron Q1 - knob
+
 scaffold:
   ${assetRef}/${cc}
   local reference table

@@ -2,9 +2,17 @@
 id: x6pbuslcxreaxd0e8582f8w
 title: Training
 desc: ''
-updated: 1689335505353
+updated: 1695840815324
 created: 1633292753469
 ---
+
+## study
+
+## tools
+- genie hilt
+- block
+- rolling grip
+- strap-wrap
 
 ## types
 log ::
@@ -99,6 +107,10 @@ mobility
 ƒ := taper :: (T -> T(p))
 
 ## resources
+[kabuki strength](https://kabukistrength.com/)
+: stuart-mcgill: back pain guide
+[supple leopard]()
+
 renaissance periodization
 reactiveTrainingSystems
 

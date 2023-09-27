@@ -2,9 +2,10 @@
 id: k4ttwsyiwapawj265woe1oz
 title: Pinch
 desc: ''
-updated: 1662042375619
+updated: 1695298629763
 created: 1662041775919
 ---
+
 salt
   fine-grained table salt
     2-finger pinch

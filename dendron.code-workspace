@@ -57,32 +57,45 @@
         "editor.suggest.showSnippets": true,
         "files.autoSave": "off",
         "workbench.colorCustomizations": {
-            "[Gruvbox Material Light]": {
-                "activityBar.inactiveForeground": "#b3a593",
-                "editorCodeLens.foreground": "#b3a593",
-                "editorLineNumber.foreground": "#d5c4a190",
-                "tab.activeModifiedBorder": "#cdc7e6",
-                "tab.inactiveModifiedBorder": "#cdc7e6",
-                "tab.unfocusedActiveBorder": "#a89d90",
-                "tab.unfocusedActiveModifiedBorder": "#bdb5de",
-                "tab.unfocusedInactiveModifiedBorder": "#cdc7e6",
-                "sideBar.border": "#F2E5BC",
-                "panel.border": "#F2E5BC",
-                "statusBar.noFolderBorder": "#F2E5BC",
-                "statusBar.border": "#F2E5BC"
+            "[GitHub Dark Default]": {
+                "activityBar.background": "#000",
+                "editor.background": "#000",
+                "editor.lineHighlightBackground": "#0000",
+                "editor.lineHighlightBorder": "#0000",
+                "editorWhitespace.foreground": "#59A5FC",
+                "panel.background": "#000",
+                "sideBar.background": "#000",
+                "terminal.background": "#000"
             },
-            "[Gruvbox Material Dark]": {
-                "sideBar.border": "#313131",
-                "activityBar.border": "#313131",
-                "editorGroup.border": "#313131"
-            },
-            "tab.activeBorder": "#A88AE9",
-            "tab.unfocusedActiveBorder": "#B998FF",
-            "sideBar.border": "#cdc7e6",
-            "minimap.background": "#00000000",
-            "scrollbar.shadow": "#00000000"
+            "[GitHub Light Default]": {
+                "activityBar.background": "#fff",
+                "editor.background": "#fff",
+                "editor.lineHighlightBackground": "#fff0",
+                "editor.lineHighlightBorder": "#fff0",
+                "editorWhitespace.foreground": "#1167D7",
+                "panel.background": "#fff",
+                "sideBar.background": "#fff",
+                "terminal.background": "#fff"
+            }
         },
         "editor.minimap.autohide": true,
-        "editor.minimap.renderCharacters": false
+        "editor.minimap.renderCharacters": false,
+        "editor.matchBrackets": "never",
+        "editor.minimap.enabled": false,
+        "editor.scrollbar.verticalScrollbarSize": 0,
+        "workbench.activityBar.visible": false,
+        "workbench.statusBar.visible": false,
+        "workbench.colorTheme": "Gruvbox Material Light",
+        "window.zoomLevel": 0,
+        "presentation-mode.configBackup": {
+            "editor.matchBrackets": "never",
+            "editor.minimap.enabled": false,
+            "editor.scrollbar.verticalScrollbarSize": 0,
+            "workbench.activityBar.visible": false,
+            "workbench.statusBar.visible": false,
+            "window.zoomLevel": 2
+        },
+        "editor.fontSize": 11.4,
+        "window.autoDetectColorScheme": true
     }
 }

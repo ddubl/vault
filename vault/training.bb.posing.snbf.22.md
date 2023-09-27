@@ -2,7 +2,7 @@
 id: x1n2zz3pohoo8l028znrtl3
 title: '22'
 desc: ''
-updated: 1685739302462
+updated: 1695735203813
 created: 1666464015826
 ---
 
@@ -48,8 +48,8 @@ elbows higher
 ## takeaway
 - harder posing regimen : partly mirror judghe like calls
   -> more varied front-relaxed poses.
-    - shifting weight left/right
-    - re-vacuum
+      - shifting weight left/right
+      - re-vacuum
   - vacuum/tight breathing practice even as off-season cardio
   - prep-conditioning : hard(:holding front-relaxed poses with interspersed comp-poses) posing practice.
 -> routine warmup : optimal rep ranges pump.

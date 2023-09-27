@@ -2,9 +2,15 @@
 id: v2vr7ru86tu89k3qqhkpuev
 title: macOS
 desc: ''
-updated: 1689586672232
+updated: 1695735203798
 created: 1676973569828
 ---
+
+## URI
+access URI-schemes on macos
+lsregister -dump URLSchemeBinding
+
+launch services endpoints
 
 ## tools
 systemctl := launchctl

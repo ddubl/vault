@@ -2,7 +2,7 @@
 id: kxuv59scdozb6idu6ao3hv6
 title: macOS
 desc: ''
-updated: 1689930343128
+updated: 1695840820478
 created: 1665483751365
 ---
 
@@ -21,3 +21,5 @@ modes
 
 - [x] finding application identifier <[[macOS|dendron://dwl/cli.macos#^yar9q95y0l2h]]> #issue
 - [ ] set system default per application -> services[citation] uses bibtex > zotero
+
+- [ ]
