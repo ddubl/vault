@@ -13,16 +13,15 @@ created: 1633292753469
 - block
 - rolling grip
 - strap-wrap
+#Δ
 
 ## types
 log ::
-, (macro, meso, micro, nano) -> cycles
-  (
-
-  ) -> (folds)
-, movement
-, projection ~> bounds
-, (pro/re)gression
+  macro, meso, micro, nano) -> cycles
+  () -> (folds)
+  movement
+  projection ~> bounds
+  (pro/re)gression
 
 u/l
 l/s

@@ -36,10 +36,6 @@
         {
             "name": "codebook",
             "path": "../codebook"
-        },
-        {
-            "name": "${workspacedir}",
-            "path": "../../../${workspacedir}"
         }
     ],
     "settings": {
@@ -85,7 +81,6 @@
         "editor.scrollbar.verticalScrollbarSize": 0,
         "workbench.activityBar.visible": false,
         "workbench.statusBar.visible": false,
-        "workbench.colorTheme": "Gruvbox Material Light",
         "window.zoomLevel": 0,
         "presentation-mode.configBackup": {
             "editor.matchBrackets": "never",

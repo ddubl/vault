@@ -6,9 +6,12 @@ updated: 1695840820478
 created: 1665483751365
 ---
 
+
+
 multitouch capabilities
 fn
   >+: absolute coordinates
+
   space: click
 
 ![[Karabiner|dendron://dwl/karabiner]]
