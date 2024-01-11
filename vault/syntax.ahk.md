@@ -2,26 +2,26 @@
 id: 4pwauqxzy9lp6gc20ppos67
 title: Ahk
 desc: ''
-updated: 1664536142067
+updated: 1704214555772
 created: 1663084463113
 ---
-(_) _ option available
-^  = ctrl
 
-## = win/cmd
+& = hypr|and, && = AndHypr
+(_) option available
+^ = ctrl
 
-!  = alt
+\# = win/cmd
 
-- = shft
+! = alt
+
++ = shft
   &lt;  = prefix(1) left only
   >  = prefix(1) right only
 
-
-- = wildcard
+* = wildcard
   ~  = onKeyDownEvent,   nonBlocking to native event
   $  = force send whole, ignore parts
   UP = onKeyUpEvent
   &  = combine into hotkey
   ,  = chord separator
   ;  = separator
-

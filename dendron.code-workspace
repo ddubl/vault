@@ -35,7 +35,7 @@
         },
         {
             "name": "codebook",
-            "path": "../codebook"
+            "path": "${currentUser}/codebook"
         }
     ],
     "settings": {
@@ -79,7 +79,6 @@
         "editor.matchBrackets": "never",
         "editor.minimap.enabled": false,
         "editor.scrollbar.verticalScrollbarSize": 0,
-        "workbench.activityBar.visible": false,
         "workbench.statusBar.visible": false,
         "window.zoomLevel": 0,
         "presentation-mode.configBackup": {
@@ -91,6 +90,7 @@
             "window.zoomLevel": 2
         },
         "editor.fontSize": 11.4,
-        "window.autoDetectColorScheme": true
+        "window.autoDetectColorScheme": true,
+        "workbench.activityBar.location": "hidden"
     }
 }

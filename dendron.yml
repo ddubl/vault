@@ -13,7 +13,7 @@ commands:
             leaveTrace: true
             bubbleUpCreateNew: false
             vaultSelectionModeOnCreate: smart
-            fuzzThreshold: 0.2
+            fuzzThreshold: 0.1
     randomNote: {}
     insertNoteLink:
         aliasMode: prompt
@@ -110,11 +110,9 @@ workspace:
     maxNoteLength: 204800
     enableUserTags: true
     enableHashTags: true
-    workspaces: {}
     enableEditorDecorations: true
     enableFullHierarchyNoteTitle: false
-    hooks:
-        onCreate: []
+    enablePersistentHistory: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true

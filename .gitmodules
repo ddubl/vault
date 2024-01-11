@@ -1,0 +1,32 @@
+[subdmoule "task"]
+	path = dnd
+	url = git://github.com/ddubl/vault.git
+	branch = dnd
+[subdmoule "journal"]
+	path = journal
+	url = git://github.com/ddubl/vault.git
+	branch = journal
+[subdmoule "stream"]
+	path = stream
+	url = git://github.com/ddubl/vault.git
+	branch = stream
+[subdmoule "dnd"]
+	path = dnd
+	url = git://github.com/ddubl/vault.git
+	branch = dnd
+[submodule "dnd"]
+	path = dnd
+	url = git@github.com:ddubl/vault
+	branch = dnd
+[submodule "journal"]
+	path = journal
+	url = git@github.com:ddubl/vault
+	branch = journal
+[submodule "stream"]
+	path = stream
+	url = git@github.com:ddubl/vault
+	branch = stream
+[submodule "task"]
+	path = task
+	url = git@github.com:ddubl/vault
+	branch = task
