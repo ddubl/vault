@@ -91,6 +91,7 @@
         },
         "editor.fontSize": 11.4,
         "window.autoDetectColorScheme": true,
-        "workbench.activityBar.location": "hidden"
+        "workbench.activityBar.location": "hidden",
+        "editor.tabSize": 2
     }
 }

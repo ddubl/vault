@@ -2,11 +2,12 @@
 id: jhxl017z79rap2k2274j5lz
 title: Party
 desc: ''
-updated: 1705513426529
+updated: 1706718339762
 created: 1705502605106
 ---
 
 ## modded
+### bladeBreaker
 - bladesinger.10-oathbreaker.2
   head
       1. [shadespell](#bg3.location:omeluum)
@@ -17,6 +18,7 @@ created: 1705502605106
       1. [spidersilk armour](https://bg3.wiki/wiki/Spidersilk_Armour)
       3. [armour of landfall](https://bg3.wiki/wiki/Armour_of_Landfall)
   shoes
+      2. evasive
   amulet
   ring1
       1. [strange conduit ring](https://bg3.wiki/wiki/Strange_Conduit_Ring)
@@ -27,7 +29,8 @@ created: 1705502605106
   ranged1
   ranged2
 
-- goo.6-bronzeDS.6
+### eldritchBlaster
+- goo.6-bronzeDA.6
   head
       1.
       2.
@@ -55,7 +58,9 @@ created: 1705502605106
       1. [mourning frost](https://bg3.wiki/wiki/Mourning_Frost)
   ranged1
   ranged2
+synergy: 2 haste targets
 
+### sharpshooter: sniper
 - gloom.5-battlemaster.3-lightCleric.1-thief.3
   head
       1.
@@ -75,7 +80,31 @@ created: 1705502605106
   ranged1
   ranged2
 
-- berserker.4-shadowMonk.6-spores.2
+### tavernBrawler
+#### thrower
+- berserker.4-hand.6-spores.2
+
+#### brawler
+- barbarian.1-hand.6-thief.3-life.2
++ elixir: strength
+##### AS
+-> +2 Con from Gloves
+-> +3 Con from feats
+str: 8 -> elix:27
+dex: 17 -> f:18
+con: 15:18 -> equ:20 -> mirror:22
+int: 8
+wis: 15 -> f:16
+cha: 12
+
+##### feats
+mod: 4
+tavernBrawler: +1 Con
+remarkableRecovery: +1 Con
+crusher: +1 Con
+asi: +1 dex, +1 wis
+
+##### equipment
   head
       1.
       2.
@@ -83,13 +112,15 @@ created: 1705502605106
   cloak
   body
   gloves
-      [hill giant](https://bg3.wiki/wiki/Gauntlets_of_Hill_Giant_Strength)
+    +2 con gloves
   shoes
+      3. hellcrawler
   amulet
-      3. amulet of greater health
+      3.
   ring1
   ring2
   melee1
   melee2
   ranged1
-  ranged2
+  ranged 2
+
