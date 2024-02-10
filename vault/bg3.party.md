@@ -2,7 +2,7 @@
 id: jhxl017z79rap2k2274j5lz
 title: Party
 desc: ''
-updated: 1706718339762
+updated: 1707572129102
 created: 1705502605106
 ---
 
@@ -61,17 +61,22 @@ created: 1705502605106
 synergy: 2 haste targets
 
 ### sharpshooter: sniper
-- gloom.5-battlemaster.3-lightCleric.1-thief.3
+- battlemaster.3-gloom.5-thief.3-light.1
   head
-      1.
-      2. [marksmanship hat] #vendor:[[bg3.vendor.roah-moonglow]] #location:moonriseTower
-      3. [bonespike helmet](https://bg3.wiki/wiki/Bonespike_Helmet)
+    1.
+    2. [marksmanship hat] #vendor:[[bg3.vendor.roah-moonglow]] #location:moonriseTower
+    3. soulsight +2 attack/init
   cloak
   body
+    fullDex medium
   gloves
+    masters
   shoes
+    freedom
   amulet
+    greater health
   ring1
+    acid
   ring2
   melee1
       1. [knife of the undermountain king](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King)
@@ -86,13 +91,15 @@ synergy: 2 haste targets
 
 #### brawler
 - barbarian.1-hand.6-thief.3-life.2
+? life features working with self-heal?
+: heal: resistance & bless
 + elixir: strength
 ##### AS
 -> +2 Con from Gloves
 -> +3 Con from feats
 str: 8 -> elix:27
 dex: 17 -> f:18
-con: 15:18 -> equ:20 -> mirror:22
+con: 15 -> f:18 -> equ:20 -> mirror:22
 int: 8
 wis: 15 -> f:16
 cha: 12
@@ -110,17 +117,24 @@ asi: +1 dex, +1 wis
       2.
       3. [bonespike helmet](https://bg3.wiki/wiki/Bonespike_Helmet)
   cloak
+    absorb
   body
+    kushigo
   gloves
     +2 con gloves
   shoes
-      3. hellcrawler
+    3. hellcrawler
   amulet
-      3.
+    3. block
   ring1
+    recovery
   ring2
+    bless/res on heal
   melee1
+    no
   melee2
+    no
   ranged1
+    mael-bow
   ranged 2
 
