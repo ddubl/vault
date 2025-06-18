@@ -12,11 +12,12 @@ or take action: trade dice without rolling (default for eg. movement)
 physical save: con + highest physical mod + c. martial
 mental save: con + highest mental mod + cumulative caster level
 
-advantaged: roll 2, take better
+advantaged: (2)
     advantage: add prof. dice
   slight
     disadvantaged: neg prof dice
-disadvantage: 
+disadvantage
+ advantage3 = roll 3 take best
 
 "diminishing dice" -1 size // dice
 1d20 1davg10.5
