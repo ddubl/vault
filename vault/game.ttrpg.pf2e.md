@@ -8,6 +8,7 @@ rolling flat modifiers rounded up
 1 := d2 etc
 or take action: trade dice without rolling (default for eg. movement)
  trait: fortune; adding partial die rolls
+ contested rolls: roll preliminarily
 
 "diminishing dice" -1 size // dice
 1d20 1davg10.5
