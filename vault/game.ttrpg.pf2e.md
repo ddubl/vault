@@ -10,8 +10,8 @@ or take action: trade dice without rolling (default for eg. movement)
  trait: fortune; adding partial die rolls
  contested rolls: roll preliminarily
 advantage: roll 2, take better
-physical save: con + highest physical mod
-mental save: con + highest mental mod + cumulative 
+physical save: con + highest physical mod + c. martial
+mental save: con + highest mental mod + cumulative caster level
 
 "diminishing dice" -1 size // dice
 1d20 1davg10.5
