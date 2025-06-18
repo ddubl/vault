@@ -16,7 +16,7 @@ advantaged: roll 2, take better
     advantage: add prof. dice
   slight
     disadvantaged: neg prof dice
-heavy
+disadvantage: 
 
 "diminishing dice" -1 size // dice
 1d20 1davg10.5
