@@ -4,6 +4,9 @@ board game "conversion"
   "diceify" modifiers
   combine/merge dice rolls
   
+rolling flat modifiers rounded up
+1 := d2 etc
+
 "diminishing dice" -1 size // dice
 1d20 1davg10.5
 d12 davg6.5
