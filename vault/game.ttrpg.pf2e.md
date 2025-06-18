@@ -1,5 +1,6 @@
 board game "conversion"
-  hand out 
+  hand out dice / chases interact differently with system
+  
   "diceify" modifiers
   combine/merge dice rolls
   
