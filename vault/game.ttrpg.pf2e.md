@@ -1,6 +1,6 @@
 board game "conversion"
   hand out dice / chases interact differently with system
-  
+  allow rogues to play with
   "diceify" modifiers
   combine/merge dice rolls
   
