@@ -4,7 +4,7 @@ board game "conversion"
   "diceify" modifiers
   combine/merge dice rolls
   
-diminishing dice"
+"diminishing dice" -1 size // dice
   
 metasystem 5e-pf2e
 
