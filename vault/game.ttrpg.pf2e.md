@@ -9,9 +9,13 @@ rolling flat modifiers rounded up
 or take action: trade dice without rolling (default for eg. movement)
  trait: fortune; adding partial die rolls
  contested rolls: roll preliminarily
-heavily advantaged: roll 2, take better
 physical save: con + highest physical mod + c. martial
 mental save: con + highest mental mod + cumulative caster level
+
+heavily advantaged: roll 2, take better
+advantaged: add prof. dice
+disadvantaged: neg prof dice
+heavy
 
 "diminishing dice" -1 size // dice
 1d20 1davg10.5
