@@ -5,8 +5,8 @@ board game "conversion"
   combine/merge dice rolls
   
 "diminishing dice" -1 size // dice
-1d20
-
+1d20 1davg10.5
+d12 davg6.5
 3d6
 7d2
   
