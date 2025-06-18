@@ -18,6 +18,8 @@ advantaged: (2)
     disadvantaged: neg prof dice
 disadvantage
  advantage3 = roll 3 take best
+=> action compression can eg. introduce double action cost
+(action)(action): disadvantage3 (roll 3, apply worse 2)
 
 "diminishing dice" -1 size // dice
 1d20 1davg10.5
