@@ -9,6 +9,12 @@ board game "conversion"
 d12 davg6.5
 3d6
 7d2
+
+resource pools:
+action
+inspiration
+hero point
+focus
   
 metasystem 5e-pf2e
 
