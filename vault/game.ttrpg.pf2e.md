@@ -1,4 +1,5 @@
 board game "conversion"
+  hand out 
   "diceify" modifiers
   combine/merge dice rolls
   
