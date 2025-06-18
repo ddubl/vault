@@ -6,6 +6,7 @@ board game "conversion"
   
 "diminishing dice" -1 size // dice
 1d20
+
 3d6
 7d2
   
